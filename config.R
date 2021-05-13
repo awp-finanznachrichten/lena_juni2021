@@ -16,25 +16,28 @@ library(DatawRappr)
 cat("Benoetigte Bibliotheken geladen\n")
 
 #Link zu JSON-Daten / Daten einlesen
-link_json <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20210307-eidgAbstimmung.json" 
+link_json <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20210613-eidgAbstimmung.json" 
+#link_json <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20210307-eidgAbstimmung.json" 
 json_data <- fromJSON(link_json, flatten = TRUE)
 
-link_json_kantone <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20210307-kantAbstimmung.json"
+link_json_kantone <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20210613-kantAbstimmung.json"
+#link_json_kantone <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20210307-kantAbstimmung.json"
 json_data_kantone <- fromJSON(link_json_kantone, flatten = TRUE)
 
+json_data_kantone$kantone$geoLevelname
 cat("Aktuelle Abstimmungsdaten geladen\n")
 
 #Kurznamen Vorlagen (Verwendet im File mit den Textbausteinen)
-vorlagen_short <- c("Verhuellungsverbot","E-ID-Gesetz","Indonesien")
+vorlagen_short <- c("Trinkwasser","Pestizide","Covid-19","CO2","Terrorismus")
 
 ###Kurznamen und Nummern kantonale Vorlagen
-kantonal_short <- c("ZH_Sozialdetektive","GE_Coronavirus")
+kantonal_short <- c("GE_Bernex","JU_Salaire")
 
 #Nummer in JSON 
-kantonal_number <- c(1,6) 
+kantonal_number <- c(10,11) 
 
 #Falls mehrere Vorlagen innerhalb eines Kantons, Vorlage auswaehlen
-#kantonal_add <- c(2,1)
+kantonal_add <- c(1,1)
 
 ###Kurznamen und Nummern kantonale Vorlagen Spezialfaelle
 #kantonal_short_special <- c("ZH_Polizeimeldungen","BE_Handel")
