@@ -24,7 +24,6 @@ link_json_kantone <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws
 #link_json_kantone <- "https://app-prod-static-voteinfo.s3.eu-central-1.amazonaws.com/v1/ogd/sd-t-17-02-20210307-kantAbstimmung.json"
 json_data_kantone <- fromJSON(link_json_kantone, flatten = TRUE)
 
-json_data_kantone$kantone
 cat("Aktuelle Abstimmungsdaten geladen\n")
 
 #Kurznamen Vorlagen (Verwendet im File mit den Textbausteinen)
@@ -60,7 +59,8 @@ meta_gmd_kt <- read_csv("Data/MASTERFILE_GDE_NEW.csv")
 cat("Metadaten zu Gemeinden und Kantonen geladen\n")
 
 #Datawrapper-Codes
-datawrapper_codes <- read_excel("Data/Datawrapper_Codes.xlsx")
+datawrapper_codes <- as.data.frame(read_excel("Data/Datawrapper_Codes.xlsx"))
+
 
 gitcommit <- function(msg = "commit from Rstudio", dir = getwd()){
   cmd = sprintf("git commit -m\"%s\"",msg)
