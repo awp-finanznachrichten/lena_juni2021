@@ -37,7 +37,9 @@ for (i in 1:length(vorlagen_short)) {
   
   results <- merge(results,Ja_Stimmen_Kanton)
   
-  
+  #Alle Daten speichern
+  write.csv(results,paste0("Output/",vorlagen_short[i],"_all_data.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+
   #Wie viele Gemeinden sind ausgezählt
   cat(paste0(sum(results$Gebiet_Ausgezaehlt)," Gemeinden sind ausgezählt.\n"))
   
@@ -81,20 +83,20 @@ for (i in 1:length(vorlagen_short)) {
     
     #Check Vorlagen-ID
     
-    if (vorlagen$id[i] == "6380") { 
+   # if (vorlagen$id[i] == "6380") { 
       
-      hist_check <- TRUE 
-      data_hist <- format_data_hist(daten_minarett_bfs)
-      results <- merge(results,data_hist,all.x = TRUE)
-      results <- hist_storyfinder(results)
+  #    hist_check <- TRUE 
+  #    data_hist <- format_data_hist(daten_minarett_bfs)
+  #    results <- merge(results,data_hist,all.x = TRUE)
+  #    results <- hist_storyfinder(results)
       
-    }
+  #  }
     
     
     #Vergleich innerhalb des Kantons (falls alle Daten vom Kanton vorhanden)
     
     #Check Vorlagen-ID
-    if (vorlagen$id[i] == "6390" || vorlagen$id[i] == "6400") {
+    #if (vorlagen$id[i] == "6390" || vorlagen$id[i] == "6400") {
       
       #Falls mindestens ein Kanton ausgezählt -> Stories für die Kantone finden
       
@@ -104,7 +106,7 @@ for (i in 1:length(vorlagen_short)) {
         
       }
       
-    }
+    #}
     
     
     ###Storybuilder
@@ -245,7 +247,7 @@ for (i in 1:length(vorlagen_short)) {
                             round(results_national$jaStimmenInProzent,1)," %</b> sì, <b>",
                             round(100-results_national$jaStimmenInProzent,1)," %</b> no")
   
-
+  }   
  
     #Karten Gemeinden
     dw_edit_chart(datawrapper_codes[i,2],intro=undertitel_de,annotate=paste0("Letzte Aktualisierung: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
@@ -267,6 +269,6 @@ for (i in 1:length(vorlagen_short)) {
     dw_edit_chart(datawrapper_codes[i,7],intro=undertitel_it,annotate=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
     dw_publish_chart(datawrapper_codes[i,7])
     
-  }   
+
 
 }
