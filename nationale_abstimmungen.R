@@ -297,12 +297,12 @@ uebersicht_text_de <- paste0("<b>",vorlagen$text[i],"</b><br>",
                           "%)")
 
 uebersicht_text_fr <- paste0("<b>",vorlagen_fr$text[i],"</b><br>",
-                             sum(results$Gebiet_Ausgezaehlt)," von ",nrow(results)," Gemeinden ausgezählt (",
+                             sum(results$Gebiet_Ausgezaehlt)," des ",nrow(results)," communes sont connus (",
                              round((sum(results$Gebiet_Ausgezaehlt)*100)/nrow(results),1),
                              "%)")
 
 uebersicht_text_it <- paste0("<b>",vorlagen_fr$text[i],"</b><br>",
-                             sum(results$Gebiet_Ausgezaehlt)," von ",nrow(results)," Gemeinden ausgezählt (",
+                             sum(results$Gebiet_Ausgezaehlt)," dei ",nrow(results)," comuni sono noti (",
                              round((sum(results$Gebiet_Ausgezaehlt)*100)/nrow(results),1),
                              "%)")
 
@@ -320,4 +320,14 @@ data_overview <- rbind(data_overview,entry_overview)
 #Uebersicht für Datawrapper
 data_overview <- data_overview[-1,]
 write.csv(data_overview,"Output/Uebersicht_dw.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
+
+#Charts Uebersicht
+dw_edit_chart("mVJKQ",intro=paste0("Letzte Aktualisierung: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+dw_publish_chart("mVJKQ")
+
+dw_edit_chart("dY3Hd",intro=paste0("Dernière mise à jour: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+dw_publish_chart("dY3Hd")
+
+dw_edit_chart("BXT64",intro=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
+dw_publish_chart("BXT64")
 
