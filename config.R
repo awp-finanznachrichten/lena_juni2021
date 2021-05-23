@@ -26,8 +26,6 @@ json_data_kantone <- fromJSON(link_json_kantone, flatten = TRUE)
 
 cat("Aktuelle Abstimmungsdaten geladen\n")
 
-json_data_kantone$kantone$geoLevelname
-
 #Kurznamen Vorlagen (Verwendet im File mit den Textbausteinen)
 vorlagen_short <- c("Trinkwasser","Pestizide","Covid-19","CO2","Terrorismus")
 

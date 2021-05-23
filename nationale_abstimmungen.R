@@ -1,10 +1,13 @@
+#Daten für Uebersicht
+data_overview <- data.frame(50,50,"Abstimmung_de","Abstimmung_fr","Abstimmung_it")
+colnames(data_overview) <- c("Ja","Nein","Abstimmung_de","Abstimmung_fr","Abstimmung_it")
+
 for (i in 1:length(vorlagen_short)) {
   
   cat(paste0("\nErmittle Daten für folgende Vorlage: ",vorlagen$text[i],"\n"))
   
   ###Nationale Resultate aus JSON auslesen
   results_national <- get_results(json_data,i,level="national")
-
   
   ###Resultate aus JSON auslesen für Gemeinden
   results <- get_results(json_data,i)
@@ -36,9 +39,10 @@ for (i in 1:length(vorlagen_short)) {
            Highest_No_Kant = FALSE)
   
   results <- merge(results,Ja_Stimmen_Kanton)
+  results_all <- results
   
   #Alle Daten speichern
-  write.csv(results,paste0("Output/",vorlagen_short[i],"_all_data.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(results_all,paste0("Output/",vorlagen_short[i],"_all_data.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
   #Wie viele Gemeinden sind ausgezählt
   cat(paste0(sum(results$Gebiet_Ausgezaehlt)," Gemeinden sind ausgezählt.\n"))
@@ -229,6 +233,7 @@ for (i in 1:length(vorlagen_short)) {
   undertitel_de <- "Es sind noch keine Gemeinden ausgezählt."
   undertitel_fr <- "Aucun résultat n'est encore connu."
   undertitel_it <- "Nessun risultato è ancora noto."
+
   
   if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {
     
@@ -247,7 +252,7 @@ for (i in 1:length(vorlagen_short)) {
                             round(results_national$jaStimmenInProzent,1)," %</b> sì, <b>",
                             round(100-results_national$jaStimmenInProzent,1)," %</b> no")
   
-  }   
+
  
     #Karten Gemeinden
     dw_edit_chart(datawrapper_codes[i,2],intro=undertitel_de,annotate=paste0("Letzte Aktualisierung: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
@@ -269,6 +274,43 @@ for (i in 1:length(vorlagen_short)) {
     dw_edit_chart(datawrapper_codes[i,7],intro=undertitel_it,annotate=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
     dw_publish_chart(datawrapper_codes[i,7])
     
+  }   
+  
+
+#Eintrag für Uebersicht
+uebersicht_text_de <- paste0("<b>",vorlagen$text[i],"</b><br>",
+                             "Es sind noch keine Gemeinden ausgezählt.")
+
+uebersicht_text_fr <- paste0("<b>",vorlagen_fr$text[i],"</b><br>",
+                             "Aucun résultat n'est encore connu.")
+
+uebersicht_text_it <- paste0("<b>",vorlagen_it$text[i],"</b><br>",
+                             "Nessun risultato è ancora noto.")
+Ja_Anteil <- 0
+Nein_Anteil <- 0
+  
+if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {  
+
+uebersicht_text_de <- paste0("<b>",vorlagen$text[i],"</b><br>",
+                          sum(results$Gebiet_Ausgezaehlt)," von ",nrow(results)," Gemeinden ausgezählt (",
+                          round((sum(results$Gebiet_Ausgezaehlt)*100)/nrow(results),1),
+                          "% aller Stimmberechtigten)")
+
+uebersicht_text_fr <- paste0("<b>",vorlagen_fr$text[i],"</b><br>",
+                             sum(results$Gebiet_Ausgezaehlt)," von ",nrow(results)," Gemeinden ausgezählt (",
+                             round((sum(results$Gebiet_Ausgezaehlt)*100)/nrow(results),1),
+                             "% de l'ensemble des électeurs éligibles)")
+
+uebersicht_text_it <- paste0("<b>",vorlagen_fr$text[i],"</b><br>",
+                             sum(results$Gebiet_Ausgezaehlt)," von ",nrow(results)," Gemeinden ausgezählt (",
+                             round((sum(results$Gebiet_Ausgezaehlt)*100)/nrow(results),1),
+                             "% degli aventi diritto)")
+
+
+Ja_Anteil <- round(results_national$jaStimmenInProzent,1)
+Nein_Anteil <- round(100-results_national$jaStimmenInProzent,1)
+
+}
 
 
 }
