@@ -286,8 +286,8 @@ uebersicht_text_fr <- paste0("<b>",vorlagen_fr$text[i],"</b><br>",
 
 uebersicht_text_it <- paste0("<b>",vorlagen_it$text[i],"</b><br>",
                              "Nessun risultato è ancora noto.")
-Ja_Anteil <- 0
-Nein_Anteil <- 0
+Ja_Anteil <- 50
+Nein_Anteil <- 50
   
 if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {  
 
