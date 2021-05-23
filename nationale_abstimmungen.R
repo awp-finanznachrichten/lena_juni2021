@@ -319,5 +319,5 @@ data_overview <- rbind(data_overview,entry_overview)
 
 #Uebersicht für Datawrapper
 data_overview <- data_overview[-1,]
-write.csv(output_dw,"Output/Uebersicht_dw.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
+write.csv(data_overview,"Output/Uebersicht_dw.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
