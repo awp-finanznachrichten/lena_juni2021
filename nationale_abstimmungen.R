@@ -289,7 +289,7 @@ uebersicht_text_it <- paste0("<b>",vorlagen_it$text[i],"</b><br>",
 Ja_Anteil <- 50
 Nein_Anteil <- 50
   
-if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {  
+#if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {  
 
 uebersicht_text_de <- paste0("<b>",vorlagen$text[i],"</b><br>",
                           sum(results$Gebiet_Ausgezaehlt)," von ",nrow(results)," Gemeinden ausgezählt (",
@@ -309,7 +309,7 @@ uebersicht_text_it <- paste0("<b>",vorlagen_fr$text[i],"</b><br>",
 Ja_Anteil <- round(results_national$jaStimmenInProzent,1)
 Nein_Anteil <- round(100-results_national$jaStimmenInProzent,1)
 
-}
+#}
 
 entry_overview <- data.frame(Ja_Anteil,Nein_Anteil,uebersicht_text_de,uebersicht_text_fr,uebersicht_text_it)
 colnames(entry_overview) <- c("Ja","Nein","Abstimmung_de","Abstimmung_fr","Abstimmung_it")
