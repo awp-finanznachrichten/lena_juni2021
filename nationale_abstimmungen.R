@@ -294,23 +294,30 @@ if (sum(results$Gebiet_Ausgezaehlt) > 0 ) {
 uebersicht_text_de <- paste0("<b>",vorlagen$text[i],"</b><br>",
                           sum(results$Gebiet_Ausgezaehlt)," von ",nrow(results)," Gemeinden ausgezählt (",
                           round((sum(results$Gebiet_Ausgezaehlt)*100)/nrow(results),1),
-                          "% aller Stimmberechtigten)")
+                          "%)")
 
 uebersicht_text_fr <- paste0("<b>",vorlagen_fr$text[i],"</b><br>",
                              sum(results$Gebiet_Ausgezaehlt)," von ",nrow(results)," Gemeinden ausgezählt (",
                              round((sum(results$Gebiet_Ausgezaehlt)*100)/nrow(results),1),
-                             "% de l'ensemble des électeurs éligibles)")
+                             "%)")
 
 uebersicht_text_it <- paste0("<b>",vorlagen_fr$text[i],"</b><br>",
                              sum(results$Gebiet_Ausgezaehlt)," von ",nrow(results)," Gemeinden ausgezählt (",
                              round((sum(results$Gebiet_Ausgezaehlt)*100)/nrow(results),1),
-                             "% degli aventi diritto)")
-
+                             "%)")
 
 Ja_Anteil <- round(results_national$jaStimmenInProzent,1)
 Nein_Anteil <- round(100-results_national$jaStimmenInProzent,1)
 
 }
 
+entry_overview <- data.frame(Ja_Anteil,Nein_Anteil,uebersicht_text_de,uebersicht_text_fr,uebersicht_text_it)
+colnames(entry_overview) <- c("Ja","Nein","Abstimmung_de","Abstimmung_fr","Abstimmung_it")
+data_overview <- rbind(data_overview,entry_overview)
 
 }
+
+#Uebersicht für Datawrapper
+data_overview <- data_overview[-1,]
+write.csv(output_dw,"Output/,Uebersicht_dw.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")
+
