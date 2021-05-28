@@ -9,7 +9,6 @@ setwd("C:/Users/simon/OneDrive/LENA_Project/lena_juni2021")
 ###Config: Bibliotheken laden, Pfade/Links definieren, bereits vorhandene Daten laden
 source("config.R",encoding = "UTF-8")
 
-
 ###Funktionen laden
 source("functions_readin.R", encoding = "UTF-8")
 source("functions_storyfinder.R", encoding = "UTF-8")
@@ -41,15 +40,14 @@ gitcommit()
 gitpush()
 
 #Tabellen aktualisieren
-#source("top_flop.R", encoding = "UTF-8")
-#source("compar_voile_minarets.R", encoding = "UTF-8")
+source("topflop.R", encoding = "UTF-8")
 
 #Make Commit
-#token <- read.csv("C:/Users/simon/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
-#git2r::cred_token(token)
-#gitadd()
-#gitcommit()
-#gitpush()
+token <- read.csv("C:/Users/simon/OneDrive/Github_Token/token.txt",header=FALSE)[1,1]
+git2r::cred_token(token)
+gitadd()
+gitcommit()
+gitpush()
 
 
 cat("Daten erfolgreich auf Github hochgeladen\n")
