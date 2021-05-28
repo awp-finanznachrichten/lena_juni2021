@@ -9,11 +9,14 @@ for (i in 1:length(vorlagen_short)) {
   ###Nationale Resultate aus JSON auslesen
   results_national <- get_results(json_data,i,level="national")
   
+  ###Nationale Resultate simulieren
+  results_national$jaStimmenInProzent <- sample(0:100,1)
+
   ###Resultate aus JSON auslesen für Gemeinden
   results <- get_results(json_data,i)
 
 #Simulation Gemeinden
-#source("data_simulation_gemeinden.R")
+source("data_simulation_gemeinden.R")
   
 
   #Emergency adapt
@@ -30,7 +33,7 @@ for (i in 1:length(vorlagen_short)) {
   results_kantone <- get_results(json_data,i,"cantonal")
   
   #Simulation Kantone
-  #source("data_simulation_kantone.R")
+  source("data_simulation_kantone.R")
   
   Ja_Stimmen_Kanton <- results_kantone %>%
     select(Kantons_Nr,jaStimmenInProzent) %>%
@@ -154,8 +157,8 @@ for (i in 1:length(vorlagen_short)) {
   
 
   #Texte speichern
-  #library(xlsx)
-  #write.xlsx(results,paste0(vorlagen_short[i],"_texte.xlsx"),row.names = FALSE)
+  library(xlsx)
+  write.xlsx(results,paste0(vorlagen_short[i],"_texte.xlsx"),row.names = FALSE)
   
   ###Output generieren für Datawrapper
   
