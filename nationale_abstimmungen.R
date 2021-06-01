@@ -10,13 +10,14 @@ for (i in 1:length(vorlagen_short)) {
   results_national <- get_results(json_data,i,level="national")
   
   ###Nationale Resultate simulieren
-  results_national$jaStimmenInProzent <- sample(0:100,1)
+  #set.seed(i)
+  #results_national$jaStimmenInProzent <- sample(0:100,1)
 
   ###Resultate aus JSON auslesen für Gemeinden
   results <- get_results(json_data,i)
 
 #Simulation Gemeinden
-source("data_simulation_gemeinden.R")
+#source("data_simulation_gemeinden.R")
   
 
   #Emergency adapt
@@ -33,7 +34,7 @@ source("data_simulation_gemeinden.R")
   results_kantone <- get_results(json_data,i,"cantonal")
   
   #Simulation Kantone
-  source("data_simulation_kantone.R")
+  #source("data_simulation_kantone.R")
   
   Ja_Stimmen_Kanton <- results_kantone %>%
     select(Kantons_Nr,jaStimmenInProzent) %>%
@@ -157,8 +158,8 @@ source("data_simulation_gemeinden.R")
   
 
   #Texte speichern
-  library(xlsx)
-  write.xlsx(results,paste0(vorlagen_short[i],"_texte.xlsx"),row.names = FALSE)
+  #library(xlsx)
+  #write.xlsx(results,paste0(vorlagen_short[i],"_texte.xlsx"),row.names = FALSE)
   
   ###Output generieren für Datawrapper
   
@@ -319,7 +320,7 @@ colnames(entry_overview) <- c("Ja","Nein","Abstimmung_de","Abstimmung_fr","Absti
 data_overview <- rbind(data_overview,entry_overview)
 
 }
-
+View(data_overview)
 #Uebersicht für Datawrapper
 data_overview <- data_overview[-1,]
 write.csv(data_overview,"Output/Uebersicht_dw.csv", na = "", row.names = FALSE, fileEncoding = "UTF-8")

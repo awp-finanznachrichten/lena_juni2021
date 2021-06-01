@@ -30,13 +30,13 @@ cat("Aktuelle Abstimmungsdaten geladen\n")
 vorlagen_short <- c("Trinkwasser","Pestizide","Covid-19","CO2","Terrorismus")
 
 ###Kurznamen und Nummern kantonale Vorlagen
-kantonal_short <- c("SH_Nacht","GR_Wahlsystem","GR_Jagd","GE_Bernex","JU_Salariale")
+kantonal_short <- c("FR_BlueFactory","SH_Nacht","GR_Wahlsystem","GR_Jagd","GE_Bernex","JU_Salariale")
 
 #Nummer in JSON 
-kantonal_number <- c(6,8,8,10,11) 
+kantonal_number <- c(3,7,9,9,11,12) 
 
 #Falls mehrere Vorlagen innerhalb eines Kantons, Vorlage auswaehlen
-kantonal_add <- c(1,1,2,1,1)
+kantonal_add <- c(1,1,1,2,1,1)
 
 ###Kurznamen und Nummern kantonale Vorlagen Spezialfaelle
 #kantonal_short_special <- c("ZH_Polizeimeldungen","BE_Handel")

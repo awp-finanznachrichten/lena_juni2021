@@ -7,7 +7,7 @@ for (k in 1:length(kantonal_short) ) {
                                   kantonal_add[k])
   
   #Simulation Gemeinden
-  source("data_simulation_gemeinden.R")
+  #source("data_simulation_gemeinden.R")
   
   #Daten anpassen Gemeinden
   results <- treat_gemeinden(results)
@@ -19,7 +19,7 @@ for (k in 1:length(kantonal_short) ) {
                                             kantonal_add[k],
                                             "kantonal")
   
-  results$Ja_Stimmen_In_Prozent_Kanton <- 55  #Ja_Stimmen_Kanton Simulation
+  #results$Ja_Stimmen_In_Prozent_Kanton <- 55  #Ja_Stimmen_Kanton Simulation
   
   #Wie viele Gemeinden sind ausgezählt?
   cat(paste0(sum(results$Gebiet_Ausgezaehlt)," Gemeinden sind ausgezählt.\n"))
@@ -56,12 +56,33 @@ for (k in 1:length(kantonal_short) ) {
     results <- normal_intro(results)
     
     
+    #Intro Spezialfall Bernex
+    
+    if (kantonal_short[k] == "GE_Bernex") {
+      
+      for (s in 1:nrow(results)) {
+        
+        if ( (results$Gemeinde_Nr[s] == 6607) & (results$Ja_Stimmen_Absolut[s] > results$Nein_Stimmen_Absolut[s]) ) {
+          
+          results$Storyboard[s] <- "Intro_Ja_Bernex"
+          
+        }
+        
+        if ( (results$Gemeinde_Nr[s] == 6607) & (results$Ja_Stimmen_Absolut[s] < results$Nein_Stimmen_Absolut[s]) ) {
+          
+          results$Storyboard[s] <- "Intro_Nein_Bernex"
+          
+        } 
+        
+      }
+    
+    
     
     #Vergleich innerhalb des Kantons (falls Daten vom Kanton vorhanden) -> Ändern von FALSE auf TRUE
     
-    if (json_data_kantone$kantone$vorlagen[[kantonal_number[k]]]$vorlageBeendet[[kantonal_add[k]]] == TRUE) {
+    if (json_data_kantone$kantone$vorlagen[[kantonal_number[k]]]$vorlageBeendet[[kantonal_add[k]]] == FALSE) {
     
-    #results <- kanton_storyfinder_kantonal(results)
+    results <- kanton_storyfinder_kantonal(results)
     
     }
     
@@ -96,8 +117,8 @@ for (k in 1:length(kantonal_short) ) {
   }
   
   #Texte speichern
-  library(xlsx)
-  write.xlsx(results,paste0(kantonal_short[k],"_texte.xlsx"))
+  #library(xlsx)
+  #write.xlsx(results,paste0(kantonal_short[k],"_texte.xlsx"))
   
   ###Output generieren für Datawrapper
   output_dw <- get_output_gemeinden(results)
