@@ -6,8 +6,9 @@ for (k in 1:length(kantonal_short) ) {
                                   kantonal_number[k],
                                   kantonal_add[k])
   
+
   #Simulation Gemeinden
-  #source("data_simulation_gemeinden.R")
+  source("data_simulation_gemeinden.R")
   
   #Daten anpassen Gemeinden
   results <- treat_gemeinden(results)
@@ -19,7 +20,7 @@ for (k in 1:length(kantonal_short) ) {
                                             kantonal_add[k],
                                             "kantonal")
   
-  #results$Ja_Stimmen_In_Prozent_Kanton <- 55  #Ja_Stimmen_Kanton Simulation
+  results$Ja_Stimmen_In_Prozent_Kanton <- 55  #Ja_Stimmen_Kanton Simulation
   
   #Wie viele Gemeinden sind ausgezählt?
   cat(paste0(sum(results$Gebiet_Ausgezaehlt)," Gemeinden sind ausgezählt.\n"))
@@ -55,7 +56,7 @@ for (k in 1:length(kantonal_short) ) {
     #Intros generieren
     results <- normal_intro(results)
     
-    
+
     #Intro Spezialfall Bernex
     
     if (kantonal_short[k] == "GE_Bernex") {
@@ -76,7 +77,7 @@ for (k in 1:length(kantonal_short) ) {
         
       }
     
-    
+    }
     
     #Vergleich innerhalb des Kantons (falls Daten vom Kanton vorhanden) -> Ändern von FALSE auf TRUE
     
@@ -129,5 +130,3 @@ for (k in 1:length(kantonal_short) ) {
   
   
 }
-
-
