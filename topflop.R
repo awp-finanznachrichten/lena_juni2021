@@ -13,6 +13,9 @@ pest_top <- pest_raw %>%
   mutate(Commune = Gemeinde_f,
          Gemeinde = Gemeinde_d,
          Comune = Gemeinde_i,
+         Canton = Kanton_Short,
+         Kanton = Kanton_Short,
+         Cantone = Kanton_Short,
          "Pourcentage de oui" = Ja_Stimmen_In_Prozent,
          "Ja in %" = Ja_Stimmen_In_Prozent,
          "Percentuale di sì" = Ja_Stimmen_In_Prozent)
@@ -27,9 +30,12 @@ pest_flop <- pest_raw %>%
   mutate(Commune = Gemeinde_f,
          Gemeinde = Gemeinde_d,
          Comune = Gemeinde_i,
-         "Pourcentage de oui" = Ja_Stimmen_In_Prozent,
-         "Ja in %" = Ja_Stimmen_In_Prozent,
-         "Percentuale di sì" = Ja_Stimmen_In_Prozent)
+         Canton = Kanton_Short,
+         Kanton = Kanton_Short,
+         Cantone = Kanton_Short,
+         "Pourcentage de non" = 100-Ja_Stimmen_In_Prozent,
+         "Nein in %" = 100-Ja_Stimmen_In_Prozent,
+         "Percentuale di no" = 100-Ja_Stimmen_In_Prozent)
 
 write.csv(pest_flop,"Tableaux/pest_flop.csv", fileEncoding = "UTF-8")
 
@@ -43,6 +49,9 @@ eau_top <- eau_raw %>%
   mutate(Commune = Gemeinde_f,
          Gemeinde = Gemeinde_d,
          Comune = Gemeinde_i,
+         Canton = Kanton_Short,
+         Kanton = Kanton_Short,
+         Cantone = Kanton_Short,
          "Pourcentage de oui" = Ja_Stimmen_In_Prozent,
          "Ja in %" = Ja_Stimmen_In_Prozent,
          "Percentuale di sì" = Ja_Stimmen_In_Prozent)
@@ -57,9 +66,12 @@ eau_flop <- eau_raw %>%
   mutate(Commune = Gemeinde_f,
          Gemeinde = Gemeinde_d,
          Comune = Gemeinde_i,
-         "Pourcentage de oui" = Ja_Stimmen_In_Prozent,
-         "Ja in %" = Ja_Stimmen_In_Prozent,
-         "Percentuale di sì" = Ja_Stimmen_In_Prozent)
+         Canton = Kanton_Short,
+         Kanton = Kanton_Short,
+         Cantone = Kanton_Short,
+         "Pourcentage de non" = 100-Ja_Stimmen_In_Prozent,
+         "Nein in %" = 100-Ja_Stimmen_In_Prozent,
+         "Percentuale di no" = 100-Ja_Stimmen_In_Prozent)
 
 write.csv(eau_flop,"Tableaux/eau_flop.csv", fileEncoding = "UTF-8")
 
@@ -73,6 +85,9 @@ mpt_top <- mpt_raw %>%
   mutate(Commune = Gemeinde_f,
          Gemeinde = Gemeinde_d,
          Comune = Gemeinde_i,
+         Canton = Kanton_Short,
+         Kanton = Kanton_Short,
+         Cantone = Kanton_Short,
          "Pourcentage de oui" = Ja_Stimmen_In_Prozent,
          "Ja in %" = Ja_Stimmen_In_Prozent,
          "Percentuale di sì" = Ja_Stimmen_In_Prozent)
@@ -87,9 +102,12 @@ mpt_flop <- mpt_raw %>%
   mutate(Commune = Gemeinde_f,
          Gemeinde = Gemeinde_d,
          Comune = Gemeinde_i,
-         "Pourcentage de oui" = Ja_Stimmen_In_Prozent,
-         "Ja in %" = Ja_Stimmen_In_Prozent,
-         "Percentuale di sì" = Ja_Stimmen_In_Prozent)
+         Canton = Kanton_Short,
+         Kanton = Kanton_Short,
+         Cantone = Kanton_Short,
+         "Pourcentage de non" = 100-Ja_Stimmen_In_Prozent,
+         "Nein in %" = 100-Ja_Stimmen_In_Prozent,
+         "Percentuale di no" = 100-Ja_Stimmen_In_Prozent)
 
 write.csv(mpt_flop,"Tableaux/mpt_flop.csv", fileEncoding = "UTF-8")
 
@@ -104,6 +122,9 @@ covid_top <- covid_raw %>%
   mutate(Commune = Gemeinde_f,
          Gemeinde = Gemeinde_d,
          Comune = Gemeinde_i,
+         Canton = Kanton_Short,
+         Kanton = Kanton_Short,
+         Cantone = Kanton_Short,
          "Pourcentage de oui" = Ja_Stimmen_In_Prozent,
          "Ja in %" = Ja_Stimmen_In_Prozent,
          "Percentuale di sì" = Ja_Stimmen_In_Prozent)
@@ -118,9 +139,12 @@ covid_flop <- covid_raw %>%
   mutate(Commune = Gemeinde_f,
          Gemeinde = Gemeinde_d,
          Comune = Gemeinde_i,
-         "Pourcentage de oui" = Ja_Stimmen_In_Prozent,
-         "Ja in %" = Ja_Stimmen_In_Prozent,
-         "Percentuale di sì" = Ja_Stimmen_In_Prozent)
+         Canton = Kanton_Short,
+         Kanton = Kanton_Short,
+         Cantone = Kanton_Short,
+         "Pourcentage de non" = 100-Ja_Stimmen_In_Prozent,
+         "Nein in %" = 100-Ja_Stimmen_In_Prozent,
+         "Percentuale di no" = 100-Ja_Stimmen_In_Prozent)
 
 write.csv(covid_flop,"Tableaux/covid_flop.csv", fileEncoding = "UTF-8")
 
@@ -134,6 +158,9 @@ co2_top <- co2_raw %>%
   mutate(Commune = Gemeinde_f,
          Gemeinde = Gemeinde_d,
          Comune = Gemeinde_i,
+         Canton = Kanton_Short,
+         Kanton = Kanton_Short,
+         Cantone = Kanton_Short,
          "Pourcentage de oui" = Ja_Stimmen_In_Prozent,
          "Ja in %" = Ja_Stimmen_In_Prozent,
          "Percentuale di sì" = Ja_Stimmen_In_Prozent)
@@ -148,8 +175,11 @@ co2_flop <- co2_raw %>%
   mutate(Commune = Gemeinde_f,
          Gemeinde = Gemeinde_d,
          Comune = Gemeinde_i,
-         "Pourcentage de oui" = Ja_Stimmen_In_Prozent,
-         "Ja in %" = Ja_Stimmen_In_Prozent,
-         "Percentuale di sì" = Ja_Stimmen_In_Prozent)
+         Canton = Kanton_Short,
+         Kanton = Kanton_Short,
+         Cantone = Kanton_Short,
+         "Pourcentage de non" = 100-Ja_Stimmen_In_Prozent,
+         "Nein in %" = 100-Ja_Stimmen_In_Prozent,
+         "Percentuale di no" = 100-Ja_Stimmen_In_Prozent)
 
 write.csv(co2_flop,"Tableaux/co2_flop.csv", fileEncoding = "UTF-8")

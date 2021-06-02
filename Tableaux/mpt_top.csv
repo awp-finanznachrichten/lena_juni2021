@@ -1,51 +1,51 @@
-"","Gemeinde_f","Gemeinde_d","Gemeinde_i","Kanton_Short","Ja_Stimmen_In_Prozent","Commune","Gemeinde","Comune","Pourcentage de oui","Ja in %","Percentuale di sì"
-"1","Chénens","Chénens","Chénens","FR",100,"Chénens","Chénens","Chénens",100,100,100
-"2","Choulex","Choulex","Choulex","GE",100,"Choulex","Choulex","Choulex",100,100,100
-"3","Lantsch/Lenz","Lantsch/Lenz","Lantsch/Lenz","GR",99.6118244252015,"Lantsch/Lenz","Lantsch/Lenz","Lantsch/Lenz",99.6118244252015,99.6118244252015,99.6118244252015
-"4","Villigen","Villigen","Villigen","AG",99.6020633750921,"Villigen","Villigen","Villigen",99.6020633750921,99.6020633750921,99.6020633750921
-"5","Büttenhardt","Büttenhardt","Büttenhardt","SH",99.5147594015366,"Büttenhardt","Büttenhardt","Büttenhardt",99.5147594015366,99.5147594015366,99.5147594015366
-"6","Dinhard","Dinhard","Dinhard","ZH",99.4521148367302,"Dinhard","Dinhard","Dinhard",99.4521148367302,99.4521148367302,99.4521148367302
-"7","Mont-Tramelan","Mont-Tramelan","Mont-Tramelan","BE",99.3694829760404,"Mont-Tramelan","Mont-Tramelan","Mont-Tramelan",99.3694829760404,99.3694829760404,99.3694829760404
-"8","Essertes","Essertes","Essertes","VD",99.0032219089811,"Essertes","Essertes","Essertes",99.0032219089811,99.0032219089811,99.0032219089811
-"9","Orzens","Orzens","Orzens","VD",98.821870909274,"Orzens","Orzens","Orzens",98.821870909274,98.821870909274,98.821870909274
-"10","Vérossaz","Vérossaz","Vérossaz","VS",98.7619293267991,"Vérossaz","Vérossaz","Vérossaz",98.7619293267991,98.7619293267991,98.7619293267991
-"11","Vico Morcote","Vico Morcote","Vico Morcote","TI",98.7352101183191,"Vico Morcote","Vico Morcote","Vico Morcote",98.7352101183191,98.7352101183191,98.7352101183191
-"12","Gündlischwand","Gündlischwand","Gündlischwand","BE",98.6671971354685,"Gündlischwand","Gündlischwand","Gündlischwand",98.6671971354685,98.6671971354685,98.6671971354685
-"13","Giornico","Giornico","Giornico","TI",98.6443491492599,"Giornico","Giornico","Giornico",98.6443491492599,98.6443491492599,98.6443491492599
-"14","Bodio","Bodio","Bodio","TI",98.6351228389445,"Bodio","Bodio","Bodio",98.6351228389445,98.6351228389445,98.6351228389445
-"15","Bannwil","Bannwil","Bannwil","BE",98.4550561797753,"Bannwil","Bannwil","Bannwil",98.4550561797753,98.4550561797753,98.4550561797753
-"16","Guttannen","Guttannen","Guttannen","BE",98.3620689655172,"Guttannen","Guttannen","Guttannen",98.3620689655172,98.3620689655172,98.3620689655172
-"17","Romont (FR)","Romont FR","Romont FR","FR",98.3375156838143,"Romont (FR)","Romont FR","Romont FR",98.3375156838143,98.3375156838143,98.3375156838143
-"18","Wohlen bei Bern","Wohlen bei Bern","Wohlen bei Bern","BE",98.3122362869198,"Wohlen bei Bern","Wohlen bei Bern","Wohlen bei Bern",98.3122362869198,98.3122362869198,98.3122362869198
-"19","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie","JU",98.2258064516129,"Haute-Ajoie","Haute-Ajoie","Haute-Ajoie",98.2258064516129,98.2258064516129,98.2258064516129
-"20","Rupperswil","Rupperswil","Rupperswil","AG",97.9130434782609,"Rupperswil","Rupperswil","Rupperswil",97.9130434782609,97.9130434782609,97.9130434782609
-"21","Bösingen","Bösingen","Bösingen","FR",97.8660183684495,"Bösingen","Bösingen","Bösingen",97.8660183684495,97.8660183684495,97.8660183684495
-"22","Giez","Giez","Giez","VD",97.8580428391432,"Giez","Giez","Giez",97.8580428391432,97.8580428391432,97.8580428391432
-"23","Iseltwald","Iseltwald","Iseltwald","BE",97.7229238423268,"Iseltwald","Iseltwald","Iseltwald",97.7229238423268,97.7229238423268,97.7229238423268
-"24","Schwarzenburg","Schwarzenburg","Schwarzenburg","BE",97.6919962208125,"Schwarzenburg","Schwarzenburg","Schwarzenburg",97.6919962208125,97.6919962208125,97.6919962208125
-"25","Tägerig","Tägerig","Tägerig","AG",97.6884422110553,"Tägerig","Tägerig","Tägerig",97.6884422110553,97.6884422110553,97.6884422110553
-"26","Riva San Vitale","Riva San Vitale","Riva San Vitale","TI",97.6770714507933,"Riva San Vitale","Riva San Vitale","Riva San Vitale",97.6770714507933,97.6770714507933,97.6770714507933
-"27","Manno","Manno","Manno","TI",97.676669893514,"Manno","Manno","Manno",97.676669893514,97.676669893514,97.676669893514
-"28","Erstfeld","Erstfeld","Erstfeld","UR",97.6668954024115,"Erstfeld","Erstfeld","Erstfeld",97.6668954024115,97.6668954024115,97.6668954024115
-"29","Wislikofen","Wislikofen","Wislikofen","AG",97.6038973951084,"Wislikofen","Wislikofen","Wislikofen",97.6038973951084,97.6038973951084,97.6038973951084
-"30","Neckertal","Neckertal","Neckertal","SG",97.6033309637453,"Neckertal","Neckertal","Neckertal",97.6033309637453,97.6033309637453,97.6033309637453
-"31","Subingen","Subingen","Subingen","SO",97.4093942169305,"Subingen","Subingen","Subingen",97.4093942169305,97.4093942169305,97.4093942169305
-"32","Dietikon","Dietikon","Dietikon","ZH",97.3661324388123,"Dietikon","Dietikon","Dietikon",97.3661324388123,97.3661324388123,97.3661324388123
-"33","Champvent","Champvent","Champvent","VD",97.3042662916081,"Champvent","Champvent","Champvent",97.3042662916081,97.3042662916081,97.3042662916081
-"34","Liddes","Liddes","Liddes","VS",97.216102543561,"Liddes","Liddes","Liddes",97.216102543561,97.216102543561,97.216102543561
-"35","Arnex-sur-Nyon","Arnex-sur-Nyon","Arnex-sur-Nyon","VD",97.1963913948647,"Arnex-sur-Nyon","Arnex-sur-Nyon","Arnex-sur-Nyon",97.1963913948647,97.1963913948647,97.1963913948647
-"36","Mauensee","Mauensee","Mauensee","LU",97.0125281079345,"Mauensee","Mauensee","Mauensee",97.0125281079345,97.0125281079345,97.0125281079345
-"37","Eptingen","Eptingen","Eptingen","BL",96.894341290893,"Eptingen","Eptingen","Eptingen",96.894341290893,96.894341290893,96.894341290893
-"38","Lumnezia","Lumnezia","Lumnezia","GR",96.8938740293356,"Lumnezia","Lumnezia","Lumnezia",96.8938740293356,96.8938740293356,96.8938740293356
-"39","Salquenen","Salgesch","Salgesch","VS",96.8137254901961,"Salquenen","Salgesch","Salgesch",96.8137254901961,96.8137254901961,96.8137254901961
-"40","Ropraz","Ropraz","Ropraz","VD",96.7728282721405,"Ropraz","Ropraz","Ropraz",96.7728282721405,96.7728282721405,96.7728282721405
-"41","Kriechenwil","Kriechenwil","Kriechenwil","BE",96.7434869739479,"Kriechenwil","Kriechenwil","Kriechenwil",96.7434869739479,96.7434869739479,96.7434869739479
-"42","Bözen","Bözen","Bözen","AG",96.7254408060453,"Bözen","Bözen","Bözen",96.7254408060453,96.7254408060453,96.7254408060453
-"43","Jaberg","Jaberg","Jaberg","BE",96.6705669609616,"Jaberg","Jaberg","Jaberg",96.6705669609616,96.6705669609616,96.6705669609616
-"44","Reinach (BL)","Reinach BL","Reinach BL","BL",96.6618734593262,"Reinach (BL)","Reinach BL","Reinach BL",96.6618734593262,96.6618734593262,96.6618734593262
-"45","Hüttlingen","Hüttlingen","Hüttlingen","TG",96.6521106259098,"Hüttlingen","Hüttlingen","Hüttlingen",96.6521106259098,96.6521106259098,96.6521106259098
-"46","Beckenried","Beckenried","Beckenried","NW",96.6197183098592,"Beckenried","Beckenried","Beckenried",96.6197183098592,96.6197183098592,96.6197183098592
-"47","Spiez","Spiez","Spiez","BE",96.5783184879427,"Spiez","Spiez","Spiez",96.5783184879427,96.5783184879427,96.5783184879427
-"48","Lignières","Lignières","Lignières","NE",96.5201930403861,"Lignières","Lignières","Lignières",96.5201930403861,96.5201930403861,96.5201930403861
-"49","Münchwilen (AG)","Münchwilen AG","Münchwilen AG","AG",96.3407459701141,"Münchwilen (AG)","Münchwilen AG","Münchwilen AG",96.3407459701141,96.3407459701141,96.3407459701141
-"50","Mesocco","Mesocco","Mesocco","GR",96.2360321505587,"Mesocco","Mesocco","Mesocco",96.2360321505587,96.2360321505587,96.2360321505587
+"","Gemeinde_f","Gemeinde_d","Gemeinde_i","Kanton_Short","Ja_Stimmen_In_Prozent","Commune","Gemeinde","Comune","Canton","Kanton","Cantone","Pourcentage de oui","Ja in %","Percentuale di sì"
+"1","Chénens","Chénens","Chénens","FR",100,"Chénens","Chénens","Chénens","FR","FR","FR",100,100,100
+"2","Choulex","Choulex","Choulex","GE",100,"Choulex","Choulex","Choulex","GE","GE","GE",100,100,100
+"3","Lantsch/Lenz","Lantsch/Lenz","Lantsch/Lenz","GR",99.6118244252015,"Lantsch/Lenz","Lantsch/Lenz","Lantsch/Lenz","GR","GR","GR",99.6118244252015,99.6118244252015,99.6118244252015
+"4","Villigen","Villigen","Villigen","AG",99.6020633750921,"Villigen","Villigen","Villigen","AG","AG","AG",99.6020633750921,99.6020633750921,99.6020633750921
+"5","Büttenhardt","Büttenhardt","Büttenhardt","SH",99.5147594015366,"Büttenhardt","Büttenhardt","Büttenhardt","SH","SH","SH",99.5147594015366,99.5147594015366,99.5147594015366
+"6","Dinhard","Dinhard","Dinhard","ZH",99.4521148367302,"Dinhard","Dinhard","Dinhard","ZH","ZH","ZH",99.4521148367302,99.4521148367302,99.4521148367302
+"7","Mont-Tramelan","Mont-Tramelan","Mont-Tramelan","BE",99.3694829760404,"Mont-Tramelan","Mont-Tramelan","Mont-Tramelan","BE","BE","BE",99.3694829760404,99.3694829760404,99.3694829760404
+"8","Essertes","Essertes","Essertes","VD",99.0032219089811,"Essertes","Essertes","Essertes","VD","VD","VD",99.0032219089811,99.0032219089811,99.0032219089811
+"9","Orzens","Orzens","Orzens","VD",98.821870909274,"Orzens","Orzens","Orzens","VD","VD","VD",98.821870909274,98.821870909274,98.821870909274
+"10","Vérossaz","Vérossaz","Vérossaz","VS",98.7619293267991,"Vérossaz","Vérossaz","Vérossaz","VS","VS","VS",98.7619293267991,98.7619293267991,98.7619293267991
+"11","Vico Morcote","Vico Morcote","Vico Morcote","TI",98.7352101183191,"Vico Morcote","Vico Morcote","Vico Morcote","TI","TI","TI",98.7352101183191,98.7352101183191,98.7352101183191
+"12","Gündlischwand","Gündlischwand","Gündlischwand","BE",98.6671971354685,"Gündlischwand","Gündlischwand","Gündlischwand","BE","BE","BE",98.6671971354685,98.6671971354685,98.6671971354685
+"13","Giornico","Giornico","Giornico","TI",98.6443491492599,"Giornico","Giornico","Giornico","TI","TI","TI",98.6443491492599,98.6443491492599,98.6443491492599
+"14","Bodio","Bodio","Bodio","TI",98.6351228389445,"Bodio","Bodio","Bodio","TI","TI","TI",98.6351228389445,98.6351228389445,98.6351228389445
+"15","Bannwil","Bannwil","Bannwil","BE",98.4550561797753,"Bannwil","Bannwil","Bannwil","BE","BE","BE",98.4550561797753,98.4550561797753,98.4550561797753
+"16","Guttannen","Guttannen","Guttannen","BE",98.3620689655172,"Guttannen","Guttannen","Guttannen","BE","BE","BE",98.3620689655172,98.3620689655172,98.3620689655172
+"17","Romont (FR)","Romont FR","Romont FR","FR",98.3375156838143,"Romont (FR)","Romont FR","Romont FR","FR","FR","FR",98.3375156838143,98.3375156838143,98.3375156838143
+"18","Wohlen bei Bern","Wohlen bei Bern","Wohlen bei Bern","BE",98.3122362869198,"Wohlen bei Bern","Wohlen bei Bern","Wohlen bei Bern","BE","BE","BE",98.3122362869198,98.3122362869198,98.3122362869198
+"19","Haute-Ajoie","Haute-Ajoie","Haute-Ajoie","JU",98.2258064516129,"Haute-Ajoie","Haute-Ajoie","Haute-Ajoie","JU","JU","JU",98.2258064516129,98.2258064516129,98.2258064516129
+"20","Rupperswil","Rupperswil","Rupperswil","AG",97.9130434782609,"Rupperswil","Rupperswil","Rupperswil","AG","AG","AG",97.9130434782609,97.9130434782609,97.9130434782609
+"21","Bösingen","Bösingen","Bösingen","FR",97.8660183684495,"Bösingen","Bösingen","Bösingen","FR","FR","FR",97.8660183684495,97.8660183684495,97.8660183684495
+"22","Giez","Giez","Giez","VD",97.8580428391432,"Giez","Giez","Giez","VD","VD","VD",97.8580428391432,97.8580428391432,97.8580428391432
+"23","Iseltwald","Iseltwald","Iseltwald","BE",97.7229238423268,"Iseltwald","Iseltwald","Iseltwald","BE","BE","BE",97.7229238423268,97.7229238423268,97.7229238423268
+"24","Schwarzenburg","Schwarzenburg","Schwarzenburg","BE",97.6919962208125,"Schwarzenburg","Schwarzenburg","Schwarzenburg","BE","BE","BE",97.6919962208125,97.6919962208125,97.6919962208125
+"25","Tägerig","Tägerig","Tägerig","AG",97.6884422110553,"Tägerig","Tägerig","Tägerig","AG","AG","AG",97.6884422110553,97.6884422110553,97.6884422110553
+"26","Riva San Vitale","Riva San Vitale","Riva San Vitale","TI",97.6770714507933,"Riva San Vitale","Riva San Vitale","Riva San Vitale","TI","TI","TI",97.6770714507933,97.6770714507933,97.6770714507933
+"27","Manno","Manno","Manno","TI",97.676669893514,"Manno","Manno","Manno","TI","TI","TI",97.676669893514,97.676669893514,97.676669893514
+"28","Erstfeld","Erstfeld","Erstfeld","UR",97.6668954024115,"Erstfeld","Erstfeld","Erstfeld","UR","UR","UR",97.6668954024115,97.6668954024115,97.6668954024115
+"29","Wislikofen","Wislikofen","Wislikofen","AG",97.6038973951084,"Wislikofen","Wislikofen","Wislikofen","AG","AG","AG",97.6038973951084,97.6038973951084,97.6038973951084
+"30","Neckertal","Neckertal","Neckertal","SG",97.6033309637453,"Neckertal","Neckertal","Neckertal","SG","SG","SG",97.6033309637453,97.6033309637453,97.6033309637453
+"31","Subingen","Subingen","Subingen","SO",97.4093942169305,"Subingen","Subingen","Subingen","SO","SO","SO",97.4093942169305,97.4093942169305,97.4093942169305
+"32","Dietikon","Dietikon","Dietikon","ZH",97.3661324388123,"Dietikon","Dietikon","Dietikon","ZH","ZH","ZH",97.3661324388123,97.3661324388123,97.3661324388123
+"33","Champvent","Champvent","Champvent","VD",97.3042662916081,"Champvent","Champvent","Champvent","VD","VD","VD",97.3042662916081,97.3042662916081,97.3042662916081
+"34","Liddes","Liddes","Liddes","VS",97.216102543561,"Liddes","Liddes","Liddes","VS","VS","VS",97.216102543561,97.216102543561,97.216102543561
+"35","Arnex-sur-Nyon","Arnex-sur-Nyon","Arnex-sur-Nyon","VD",97.1963913948647,"Arnex-sur-Nyon","Arnex-sur-Nyon","Arnex-sur-Nyon","VD","VD","VD",97.1963913948647,97.1963913948647,97.1963913948647
+"36","Mauensee","Mauensee","Mauensee","LU",97.0125281079345,"Mauensee","Mauensee","Mauensee","LU","LU","LU",97.0125281079345,97.0125281079345,97.0125281079345
+"37","Eptingen","Eptingen","Eptingen","BL",96.894341290893,"Eptingen","Eptingen","Eptingen","BL","BL","BL",96.894341290893,96.894341290893,96.894341290893
+"38","Lumnezia","Lumnezia","Lumnezia","GR",96.8938740293356,"Lumnezia","Lumnezia","Lumnezia","GR","GR","GR",96.8938740293356,96.8938740293356,96.8938740293356
+"39","Salquenen","Salgesch","Salgesch","VS",96.8137254901961,"Salquenen","Salgesch","Salgesch","VS","VS","VS",96.8137254901961,96.8137254901961,96.8137254901961
+"40","Ropraz","Ropraz","Ropraz","VD",96.7728282721405,"Ropraz","Ropraz","Ropraz","VD","VD","VD",96.7728282721405,96.7728282721405,96.7728282721405
+"41","Kriechenwil","Kriechenwil","Kriechenwil","BE",96.7434869739479,"Kriechenwil","Kriechenwil","Kriechenwil","BE","BE","BE",96.7434869739479,96.7434869739479,96.7434869739479
+"42","Bözen","Bözen","Bözen","AG",96.7254408060453,"Bözen","Bözen","Bözen","AG","AG","AG",96.7254408060453,96.7254408060453,96.7254408060453
+"43","Jaberg","Jaberg","Jaberg","BE",96.6705669609616,"Jaberg","Jaberg","Jaberg","BE","BE","BE",96.6705669609616,96.6705669609616,96.6705669609616
+"44","Reinach (BL)","Reinach BL","Reinach BL","BL",96.6618734593262,"Reinach (BL)","Reinach BL","Reinach BL","BL","BL","BL",96.6618734593262,96.6618734593262,96.6618734593262
+"45","Hüttlingen","Hüttlingen","Hüttlingen","TG",96.6521106259098,"Hüttlingen","Hüttlingen","Hüttlingen","TG","TG","TG",96.6521106259098,96.6521106259098,96.6521106259098
+"46","Beckenried","Beckenried","Beckenried","NW",96.6197183098592,"Beckenried","Beckenried","Beckenried","NW","NW","NW",96.6197183098592,96.6197183098592,96.6197183098592
+"47","Spiez","Spiez","Spiez","BE",96.5783184879427,"Spiez","Spiez","Spiez","BE","BE","BE",96.5783184879427,96.5783184879427,96.5783184879427
+"48","Lignières","Lignières","Lignières","NE",96.5201930403861,"Lignières","Lignières","Lignières","NE","NE","NE",96.5201930403861,96.5201930403861,96.5201930403861
+"49","Münchwilen (AG)","Münchwilen AG","Münchwilen AG","AG",96.3407459701141,"Münchwilen (AG)","Münchwilen AG","Münchwilen AG","AG","AG","AG",96.3407459701141,96.3407459701141,96.3407459701141
+"50","Mesocco","Mesocco","Mesocco","GR",96.2360321505587,"Mesocco","Mesocco","Mesocco","GR","GR","GR",96.2360321505587,96.2360321505587,96.2360321505587

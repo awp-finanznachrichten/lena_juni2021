@@ -1,51 +1,51 @@
-"","Gemeinde_f","Gemeinde_d","Gemeinde_i","Kanton_Short","Ja_Stimmen_In_Prozent","Commune","Gemeinde","Comune","Pourcentage de oui","Ja in %","Percentuale di sì"
-"1","Rümikon","Rümikon","Rümikon","AG",0,"Rümikon","Rümikon","Rümikon",0,0,0
-"2","Cheseaux-Noréaz","Cheseaux-Noréaz","Cheseaux-Noréaz","VD",0.100527770796683,"Cheseaux-Noréaz","Cheseaux-Noréaz","Cheseaux-Noréaz",0.100527770796683,0.100527770796683,0.100527770796683
-"3","Maur","Maur","Maur","ZH",0.170794192997438,"Maur","Maur","Maur",0.170794192997438,0.170794192997438,0.170794192997438
-"4","Martigny","Martigny","Martigny","VS",0.205592105263158,"Martigny","Martigny","Martigny",0.205592105263158,0.205592105263158,0.205592105263158
-"5","Schönenwerd","Schönenwerd","Schönenwerd","SO",0.223713646532438,"Schönenwerd","Schönenwerd","Schönenwerd",0.223713646532438,0.223713646532438,0.223713646532438
-"6","Ellikon an der Thur","Ellikon an der Thur","Ellikon an der Thur","ZH",0.257864878803507,"Ellikon an der Thur","Ellikon an der Thur","Ellikon an der Thur",0.257864878803507,0.257864878803507,0.257864878803507
-"7","Emmetten","Emmetten","Emmetten","NW",0.314795383001049,"Emmetten","Emmetten","Emmetten",0.314795383001049,0.314795383001049,0.314795383001049
-"8","Lengwil","Lengwil","Lengwil","TG",0.319780721790772,"Lengwil","Lengwil","Lengwil",0.319780721790772,0.319780721790772,0.319780721790772
-"9","Cuarny","Cuarny","Cuarny","VD",0.351017952060977,"Cuarny","Cuarny","Cuarny",0.351017952060977,0.351017952060977,0.351017952060977
-"10","Balsthal","Balsthal","Balsthal","SO",0.380140536804516,"Balsthal","Balsthal","Balsthal",0.380140536804516,0.380140536804516,0.380140536804516
-"11","Chexbres","Chexbres","Chexbres","VD",0.385279659891059,"Chexbres","Chexbres","Chexbres",0.385279659891059,0.385279659891059,0.385279659891059
-"12","Meiringen","Meiringen","Meiringen","BE",0.419207317073171,"Meiringen","Meiringen","Meiringen",0.419207317073171,0.419207317073171,0.419207317073171
-"13","Tägerwilen","Tägerwilen","Tägerwilen","TG",0.44543429844098,"Tägerwilen","Tägerwilen","Tägerwilen",0.44543429844098,0.44543429844098,0.44543429844098
-"14","Oberbipp","Oberbipp","Oberbipp","BE",0.489947626288224,"Oberbipp","Oberbipp","Oberbipp",0.489947626288224,0.489947626288224,0.489947626288224
-"15","Altendorf","Altendorf","Altendorf","SZ",0.755235152763474,"Altendorf","Altendorf","Altendorf",0.755235152763474,0.755235152763474,0.755235152763474
-"16","Hemmiken","Hemmiken","Hemmiken","BL",0.815078960774325,"Hemmiken","Hemmiken","Hemmiken",0.815078960774325,0.815078960774325,0.815078960774325
-"17","Bischofszell","Bischofszell","Bischofszell","TG",0.830434294691954,"Bischofszell","Bischofszell","Bischofszell",0.830434294691954,0.830434294691954,0.830434294691954
-"18","Villarzel","Villarzel","Villarzel","VD",0.868548521797227,"Villarzel","Villarzel","Villarzel",0.868548521797227,0.868548521797227,0.868548521797227
-"19","Rothenfluh","Rothenfluh","Rothenfluh","BL",1.17003688159735,"Rothenfluh","Rothenfluh","Rothenfluh",1.17003688159735,1.17003688159735,1.17003688159735
-"20","Féchy","Féchy","Féchy","VD",1.3355592654424,"Féchy","Féchy","Féchy",1.3355592654424,1.3355592654424,1.3355592654424
-"21","Saulcy","Saulcy","Saulcy","JU",1.37078349684182,"Saulcy","Saulcy","Saulcy",1.37078349684182,1.37078349684182,1.37078349684182
-"22","Hägglingen","Hägglingen","Hägglingen","AG",1.41883588425874,"Hägglingen","Hägglingen","Hägglingen",1.41883588425874,1.41883588425874,1.41883588425874
-"23","Soral","Soral","Soral","GE",1.72263410379416,"Soral","Soral","Soral",1.72263410379416,1.72263410379416,1.72263410379416
-"24","Berolle","Berolle","Berolle","VD",2.0669698222406,"Berolle","Berolle","Berolle",2.0669698222406,2.0669698222406,2.0669698222406
-"25","Opfikon","Opfikon","Opfikon","ZH",2.1382862494147,"Opfikon","Opfikon","Opfikon",2.1382862494147,2.1382862494147,2.1382862494147
-"26","Evolène","Evolène","Evolène","VS",2.48498088476242,"Evolène","Evolène","Evolène",2.48498088476242,2.48498088476242,2.48498088476242
-"27","Ossingen","Ossingen","Ossingen","ZH",2.56910196123409,"Ossingen","Ossingen","Ossingen",2.56910196123409,2.56910196123409,2.56910196123409
-"28","Kienberg","Kienberg","Kienberg","SO",2.62125534950071,"Kienberg","Kienberg","Kienberg",2.62125534950071,2.62125534950071,2.62125534950071
-"29","Novaggio","Novaggio","Novaggio","TI",2.63552603385472,"Novaggio","Novaggio","Novaggio",2.63552603385472,2.63552603385472,2.63552603385472
-"30","Hüntwangen","Hüntwangen","Hüntwangen","ZH",2.71838729383018,"Hüntwangen","Hüntwangen","Hüntwangen",2.71838729383018,2.71838729383018,2.71838729383018
-"31","Romoos","Romoos","Romoos","LU",2.92197699720236,"Romoos","Romoos","Romoos",2.92197699720236,2.92197699720236,2.92197699720236
-"32","Teuffenthal (BE)","Teuffenthal BE","Teuffenthal BE","BE",2.92644344845769,"Teuffenthal (BE)","Teuffenthal BE","Teuffenthal BE",2.92644344845769,2.92644344845769,2.92644344845769
-"33","Uerkheim","Uerkheim","Uerkheim","AG",3.05491574736332,"Uerkheim","Uerkheim","Uerkheim",3.05491574736332,3.05491574736332,3.05491574736332
-"34","Saint-Blaise","Saint-Blaise","Saint-Blaise","NE",3.15126050420168,"Saint-Blaise","Saint-Blaise","Saint-Blaise",3.15126050420168,3.15126050420168,3.15126050420168
-"35","Stetten (AG)","Stetten AG","Stetten AG","AG",3.16175540660175,"Stetten (AG)","Stetten AG","Stetten AG",3.16175540660175,3.16175540660175,3.16175540660175
-"36","Rueyres","Rueyres","Rueyres","VD",3.16328580036152,"Rueyres","Rueyres","Rueyres",3.16328580036152,3.16328580036152,3.16328580036152
-"37","Wohlenschwil","Wohlenschwil","Wohlenschwil","AG",3.1742483514027,"Wohlenschwil","Wohlenschwil","Wohlenschwil",3.1742483514027,3.1742483514027,3.1742483514027
-"38","Habkern","Habkern","Habkern","BE",3.23185011709602,"Habkern","Habkern","Habkern",3.23185011709602,3.23185011709602,3.23185011709602
-"39","Giswil","Giswil","Giswil","OW",3.32608019894311,"Giswil","Giswil","Giswil",3.32608019894311,3.32608019894311,3.32608019894311
-"40","Châtillon (JU)","Châtillon JU","Châtillon JU","JU",3.44224037339557,"Châtillon (JU)","Châtillon JU","Châtillon JU",3.44224037339557,3.44224037339557,3.44224037339557
-"41","Mont-la-Ville","Mont-la-Ville","Mont-la-Ville","VD",3.46476901539897,"Mont-la-Ville","Mont-la-Ville","Mont-la-Ville",3.46476901539897,3.46476901539897,3.46476901539897
-"42","Fétigny","Fétigny","Fétigny","FR",3.5113602832694,"Fétigny","Fétigny","Fétigny",3.5113602832694,3.5113602832694,3.5113602832694
-"43","Adelboden","Adelboden","Adelboden","BE",3.69091558518871,"Adelboden","Adelboden","Adelboden",3.69091558518871,3.69091558518871,3.69091558518871
-"44","Bergün Filisur","Bergün Filisur","Bergün Filisur","GR",3.74882849109653,"Bergün Filisur","Bergün Filisur","Bergün Filisur",3.74882849109653,3.74882849109653,3.74882849109653
-"45","Oberhelfenschwil","Oberhelfenschwil","Oberhelfenschwil","SG",3.87186278219195,"Oberhelfenschwil","Oberhelfenschwil","Oberhelfenschwil",3.87186278219195,3.87186278219195,3.87186278219195
-"46","Goumoëns","Goumoëns","Goumoëns","VD",4.00911633689009,"Goumoëns","Goumoëns","Goumoëns",4.00911633689009,4.00911633689009,4.00911633689009
-"47","Knonau","Knonau","Knonau","ZH",4.02552773686794,"Knonau","Knonau","Knonau",4.02552773686794,4.02552773686794,4.02552773686794
-"48","Le Mouret","Le Mouret","Le Mouret","FR",4.10129709697344,"Le Mouret","Le Mouret","Le Mouret",4.10129709697344,4.10129709697344,4.10129709697344
-"49","Cornaux","Cornaux","Cornaux","NE",4.14184397163121,"Cornaux","Cornaux","Cornaux",4.14184397163121,4.14184397163121,4.14184397163121
-"50","Blumenstein","Blumenstein","Blumenstein","BE",4.14201183431953,"Blumenstein","Blumenstein","Blumenstein",4.14201183431953,4.14201183431953,4.14201183431953
+"","Gemeinde_f","Gemeinde_d","Gemeinde_i","Kanton_Short","Ja_Stimmen_In_Prozent","Commune","Gemeinde","Comune","Canton","Kanton","Cantone","Pourcentage de non","Nein in %","Percentuale di no"
+"1","Rümikon","Rümikon","Rümikon","AG",0,"Rümikon","Rümikon","Rümikon","AG","AG","AG",100,100,100
+"2","Cheseaux-Noréaz","Cheseaux-Noréaz","Cheseaux-Noréaz","VD",0.100527770796683,"Cheseaux-Noréaz","Cheseaux-Noréaz","Cheseaux-Noréaz","VD","VD","VD",99.8994722292033,99.8994722292033,99.8994722292033
+"3","Maur","Maur","Maur","ZH",0.170794192997438,"Maur","Maur","Maur","ZH","ZH","ZH",99.8292058070026,99.8292058070026,99.8292058070026
+"4","Martigny","Martigny","Martigny","VS",0.205592105263158,"Martigny","Martigny","Martigny","VS","VS","VS",99.7944078947368,99.7944078947368,99.7944078947368
+"5","Schönenwerd","Schönenwerd","Schönenwerd","SO",0.223713646532438,"Schönenwerd","Schönenwerd","Schönenwerd","SO","SO","SO",99.7762863534676,99.7762863534676,99.7762863534676
+"6","Ellikon an der Thur","Ellikon an der Thur","Ellikon an der Thur","ZH",0.257864878803507,"Ellikon an der Thur","Ellikon an der Thur","Ellikon an der Thur","ZH","ZH","ZH",99.7421351211965,99.7421351211965,99.7421351211965
+"7","Emmetten","Emmetten","Emmetten","NW",0.314795383001049,"Emmetten","Emmetten","Emmetten","NW","NW","NW",99.6852046169989,99.6852046169989,99.6852046169989
+"8","Lengwil","Lengwil","Lengwil","TG",0.319780721790772,"Lengwil","Lengwil","Lengwil","TG","TG","TG",99.6802192782092,99.6802192782092,99.6802192782092
+"9","Cuarny","Cuarny","Cuarny","VD",0.351017952060977,"Cuarny","Cuarny","Cuarny","VD","VD","VD",99.648982047939,99.648982047939,99.648982047939
+"10","Balsthal","Balsthal","Balsthal","SO",0.380140536804516,"Balsthal","Balsthal","Balsthal","SO","SO","SO",99.6198594631955,99.6198594631955,99.6198594631955
+"11","Chexbres","Chexbres","Chexbres","VD",0.385279659891059,"Chexbres","Chexbres","Chexbres","VD","VD","VD",99.6147203401089,99.6147203401089,99.6147203401089
+"12","Meiringen","Meiringen","Meiringen","BE",0.419207317073171,"Meiringen","Meiringen","Meiringen","BE","BE","BE",99.5807926829268,99.5807926829268,99.5807926829268
+"13","Tägerwilen","Tägerwilen","Tägerwilen","TG",0.44543429844098,"Tägerwilen","Tägerwilen","Tägerwilen","TG","TG","TG",99.554565701559,99.554565701559,99.554565701559
+"14","Oberbipp","Oberbipp","Oberbipp","BE",0.489947626288224,"Oberbipp","Oberbipp","Oberbipp","BE","BE","BE",99.5100523737118,99.5100523737118,99.5100523737118
+"15","Altendorf","Altendorf","Altendorf","SZ",0.755235152763474,"Altendorf","Altendorf","Altendorf","SZ","SZ","SZ",99.2447648472365,99.2447648472365,99.2447648472365
+"16","Hemmiken","Hemmiken","Hemmiken","BL",0.815078960774325,"Hemmiken","Hemmiken","Hemmiken","BL","BL","BL",99.1849210392257,99.1849210392257,99.1849210392257
+"17","Bischofszell","Bischofszell","Bischofszell","TG",0.830434294691954,"Bischofszell","Bischofszell","Bischofszell","TG","TG","TG",99.169565705308,99.169565705308,99.169565705308
+"18","Villarzel","Villarzel","Villarzel","VD",0.868548521797227,"Villarzel","Villarzel","Villarzel","VD","VD","VD",99.1314514782028,99.1314514782028,99.1314514782028
+"19","Rothenfluh","Rothenfluh","Rothenfluh","BL",1.17003688159735,"Rothenfluh","Rothenfluh","Rothenfluh","BL","BL","BL",98.8299631184026,98.8299631184026,98.8299631184026
+"20","Féchy","Féchy","Féchy","VD",1.3355592654424,"Féchy","Féchy","Féchy","VD","VD","VD",98.6644407345576,98.6644407345576,98.6644407345576
+"21","Saulcy","Saulcy","Saulcy","JU",1.37078349684182,"Saulcy","Saulcy","Saulcy","JU","JU","JU",98.6292165031582,98.6292165031582,98.6292165031582
+"22","Hägglingen","Hägglingen","Hägglingen","AG",1.41883588425874,"Hägglingen","Hägglingen","Hägglingen","AG","AG","AG",98.5811641157413,98.5811641157413,98.5811641157413
+"23","Soral","Soral","Soral","GE",1.72263410379416,"Soral","Soral","Soral","GE","GE","GE",98.2773658962058,98.2773658962058,98.2773658962058
+"24","Berolle","Berolle","Berolle","VD",2.0669698222406,"Berolle","Berolle","Berolle","VD","VD","VD",97.9330301777594,97.9330301777594,97.9330301777594
+"25","Opfikon","Opfikon","Opfikon","ZH",2.1382862494147,"Opfikon","Opfikon","Opfikon","ZH","ZH","ZH",97.8617137505853,97.8617137505853,97.8617137505853
+"26","Evolène","Evolène","Evolène","VS",2.48498088476242,"Evolène","Evolène","Evolène","VS","VS","VS",97.5150191152376,97.5150191152376,97.5150191152376
+"27","Ossingen","Ossingen","Ossingen","ZH",2.56910196123409,"Ossingen","Ossingen","Ossingen","ZH","ZH","ZH",97.4308980387659,97.4308980387659,97.4308980387659
+"28","Kienberg","Kienberg","Kienberg","SO",2.62125534950071,"Kienberg","Kienberg","Kienberg","SO","SO","SO",97.3787446504993,97.3787446504993,97.3787446504993
+"29","Novaggio","Novaggio","Novaggio","TI",2.63552603385472,"Novaggio","Novaggio","Novaggio","TI","TI","TI",97.3644739661453,97.3644739661453,97.3644739661453
+"30","Hüntwangen","Hüntwangen","Hüntwangen","ZH",2.71838729383018,"Hüntwangen","Hüntwangen","Hüntwangen","ZH","ZH","ZH",97.2816127061698,97.2816127061698,97.2816127061698
+"31","Romoos","Romoos","Romoos","LU",2.92197699720236,"Romoos","Romoos","Romoos","LU","LU","LU",97.0780230027976,97.0780230027976,97.0780230027976
+"32","Teuffenthal (BE)","Teuffenthal BE","Teuffenthal BE","BE",2.92644344845769,"Teuffenthal (BE)","Teuffenthal BE","Teuffenthal BE","BE","BE","BE",97.0735565515423,97.0735565515423,97.0735565515423
+"33","Uerkheim","Uerkheim","Uerkheim","AG",3.05491574736332,"Uerkheim","Uerkheim","Uerkheim","AG","AG","AG",96.9450842526367,96.9450842526367,96.9450842526367
+"34","Saint-Blaise","Saint-Blaise","Saint-Blaise","NE",3.15126050420168,"Saint-Blaise","Saint-Blaise","Saint-Blaise","NE","NE","NE",96.8487394957983,96.8487394957983,96.8487394957983
+"35","Stetten (AG)","Stetten AG","Stetten AG","AG",3.16175540660175,"Stetten (AG)","Stetten AG","Stetten AG","AG","AG","AG",96.8382445933982,96.8382445933982,96.8382445933982
+"36","Rueyres","Rueyres","Rueyres","VD",3.16328580036152,"Rueyres","Rueyres","Rueyres","VD","VD","VD",96.8367141996385,96.8367141996385,96.8367141996385
+"37","Wohlenschwil","Wohlenschwil","Wohlenschwil","AG",3.1742483514027,"Wohlenschwil","Wohlenschwil","Wohlenschwil","AG","AG","AG",96.8257516485973,96.8257516485973,96.8257516485973
+"38","Habkern","Habkern","Habkern","BE",3.23185011709602,"Habkern","Habkern","Habkern","BE","BE","BE",96.768149882904,96.768149882904,96.768149882904
+"39","Giswil","Giswil","Giswil","OW",3.32608019894311,"Giswil","Giswil","Giswil","OW","OW","OW",96.6739198010569,96.6739198010569,96.6739198010569
+"40","Châtillon (JU)","Châtillon JU","Châtillon JU","JU",3.44224037339557,"Châtillon (JU)","Châtillon JU","Châtillon JU","JU","JU","JU",96.5577596266044,96.5577596266044,96.5577596266044
+"41","Mont-la-Ville","Mont-la-Ville","Mont-la-Ville","VD",3.46476901539897,"Mont-la-Ville","Mont-la-Ville","Mont-la-Ville","VD","VD","VD",96.535230984601,96.535230984601,96.535230984601
+"42","Fétigny","Fétigny","Fétigny","FR",3.5113602832694,"Fétigny","Fétigny","Fétigny","FR","FR","FR",96.4886397167306,96.4886397167306,96.4886397167306
+"43","Adelboden","Adelboden","Adelboden","BE",3.69091558518871,"Adelboden","Adelboden","Adelboden","BE","BE","BE",96.3090844148113,96.3090844148113,96.3090844148113
+"44","Bergün Filisur","Bergün Filisur","Bergün Filisur","GR",3.74882849109653,"Bergün Filisur","Bergün Filisur","Bergün Filisur","GR","GR","GR",96.2511715089035,96.2511715089035,96.2511715089035
+"45","Oberhelfenschwil","Oberhelfenschwil","Oberhelfenschwil","SG",3.87186278219195,"Oberhelfenschwil","Oberhelfenschwil","Oberhelfenschwil","SG","SG","SG",96.128137217808,96.128137217808,96.128137217808
+"46","Goumoëns","Goumoëns","Goumoëns","VD",4.00911633689009,"Goumoëns","Goumoëns","Goumoëns","VD","VD","VD",95.9908836631099,95.9908836631099,95.9908836631099
+"47","Knonau","Knonau","Knonau","ZH",4.02552773686794,"Knonau","Knonau","Knonau","ZH","ZH","ZH",95.9744722631321,95.9744722631321,95.9744722631321
+"48","Le Mouret","Le Mouret","Le Mouret","FR",4.10129709697344,"Le Mouret","Le Mouret","Le Mouret","FR","FR","FR",95.8987029030266,95.8987029030266,95.8987029030266
+"49","Cornaux","Cornaux","Cornaux","NE",4.14184397163121,"Cornaux","Cornaux","Cornaux","NE","NE","NE",95.8581560283688,95.8581560283688,95.8581560283688
+"50","Blumenstein","Blumenstein","Blumenstein","BE",4.14201183431953,"Blumenstein","Blumenstein","Blumenstein","BE","BE","BE",95.8579881656805,95.8579881656805,95.8579881656805

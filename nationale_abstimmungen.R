@@ -10,8 +10,8 @@ for (i in 1:length(vorlagen_short)) {
   results_national <- get_results(json_data,i,level="national")
   
   ###Nationale Resultate simulieren
-  set.seed(i)
-  results_national$jaStimmenInProzent <- sample(0:100,1)
+  #set.seed(i)
+  #results_national$jaStimmenInProzent <- sample(0:100,1)
 
   ###Resultate aus JSON auslesen für Gemeinden
   results <- get_results(json_data,i)
@@ -34,7 +34,7 @@ source("data_simulation_gemeinden.R")
   results_kantone <- get_results(json_data,i,"cantonal")
   
   #Simulation Kantone
-  source("data_simulation_kantone.R")
+  #source("data_simulation_kantone.R")
   
   Ja_Stimmen_Kanton <- results_kantone %>%
     select(Kantons_Nr,jaStimmenInProzent) %>%
@@ -169,15 +169,6 @@ source("data_simulation_gemeinden.R")
   #Output speichern
   write.csv(output_dw,paste0("Output/",vorlagen_short[i],"_dw.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
-  
-  ###Output generieren für Datawrapper Tessin
-  
-  #Output Abstimmungen Gemeinde
-  #output_dw_ticino <- results[results$Kanton_Short == "TI",]
-  #output_dw_ticino <- get_output_gemeinden(output_dw_ticino)
-
-  #Output speichern
-  #write.csv(output_dw_ticino,paste0("Output/",vorlagen_short[i],"_dw_ticino.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
   ###Output generieren für Datawrapper Radiotop
   
