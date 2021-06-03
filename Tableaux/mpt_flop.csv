@@ -1,51 +1,51 @@
 "","Gemeinde_f","Gemeinde_d","Gemeinde_i","Kanton_Short","Ja_Stimmen_In_Prozent","Commune","Gemeinde","Comune","Canton","Kanton","Cantone","Pourcentage de non","Nein in %","Percentuale di no"
-"1","Trub","Trub","Trub","BE",0.0759013282732448,"Trub","Trub","Trub","BE","BE","BE",99.9240986717268,99.9240986717268,99.9240986717268
-"2","Oberwil bei Büren","Oberwil bei Büren","Oberwil bei Büren","BE",0.0841868949066929,"Oberwil bei Büren","Oberwil bei Büren","Oberwil bei Büren","BE","BE","BE",99.9158131050933,99.9158131050933,99.9158131050933
-"3","Verzasca","Verzasca","Verzasca","TI",0.0998502246630055,"Verzasca","Verzasca","Verzasca","TI","TI","TI",99.900149775337,99.900149775337,99.900149775337
-"4","Flühli","Flühli","Flühli","LU",0.293901542983101,"Flühli","Flühli","Flühli","LU","LU","LU",99.7060984570169,99.7060984570169,99.7060984570169
-"5","Seuzach","Seuzach","Seuzach","ZH",0.323415265200517,"Seuzach","Seuzach","Seuzach","ZH","ZH","ZH",99.6765847347995,99.6765847347995,99.6765847347995
-"6","Schwarzhäusern","Schwarzhäusern","Schwarzhäusern","BE",0.323450134770889,"Schwarzhäusern","Schwarzhäusern","Schwarzhäusern","BE","BE","BE",99.6765498652291,99.6765498652291,99.6765498652291
-"7","Villarzel","Villarzel","Villarzel","VD",0.390804597701149,"Villarzel","Villarzel","Villarzel","VD","VD","VD",99.6091954022989,99.6091954022989,99.6091954022989
-"8","Endingen","Endingen","Endingen","AG",0.463210404418315,"Endingen","Endingen","Endingen","AG","AG","AG",99.5367895955817,99.5367895955817,99.5367895955817
-"9","Rafz","Rafz","Rafz","ZH",0.857449088960343,"Rafz","Rafz","Rafz","ZH","ZH","ZH",99.1425509110397,99.1425509110397,99.1425509110397
-"10","Hendschiken","Hendschiken","Hendschiken","AG",0.908402725208176,"Hendschiken","Hendschiken","Hendschiken","AG","AG","AG",99.0915972747918,99.0915972747918,99.0915972747918
-"11","Safnern","Safnern","Safnern","BE",0.916230366492147,"Safnern","Safnern","Safnern","BE","BE","BE",99.0837696335079,99.0837696335079,99.0837696335079
-"12","Kappelen","Kappelen","Kappelen","BE",0.970459635277807,"Kappelen","Kappelen","Kappelen","BE","BE","BE",99.0295403647222,99.0295403647222,99.0295403647222
-"13","Vufflens-la-Ville","Vufflens-la-Ville","Vufflens-la-Ville","VD",1.31525423728814,"Vufflens-la-Ville","Vufflens-la-Ville","Vufflens-la-Ville","VD","VD","VD",98.6847457627119,98.6847457627119,98.6847457627119
-"14","Hallwil","Hallwil","Hallwil","AG",1.32164918833501,"Hallwil","Hallwil","Hallwil","AG","AG","AG",98.678350811665,98.678350811665,98.678350811665
-"15","Eppenberg-Wöschnau","Eppenberg-Wöschnau","Eppenberg-Wöschnau","SO",1.38447571493418,"Eppenberg-Wöschnau","Eppenberg-Wöschnau","Eppenberg-Wöschnau","SO","SO","SO",98.6155242850658,98.6155242850658,98.6155242850658
-"16","Därligen","Därligen","Därligen","BE",1.40257771038666,"Därligen","Därligen","Därligen","BE","BE","BE",98.5974222896133,98.5974222896133,98.5974222896133
-"17","Morbio Inferiore","Morbio Inferiore","Morbio Inferiore","TI",1.41914191419142,"Morbio Inferiore","Morbio Inferiore","Morbio Inferiore","TI","TI","TI",98.5808580858086,98.5808580858086,98.5808580858086
-"18","Pura","Pura","Pura","TI",1.43358689291984,"Pura","Pura","Pura","TI","TI","TI",98.5664131070802,98.5664131070802,98.5664131070802
-"19","Les Enfers","Les Enfers","Les Enfers","JU",1.6751323894953,"Les Enfers","Les Enfers","Les Enfers","JU","JU","JU",98.3248676105047,98.3248676105047,98.3248676105047
-"20","Chevroux","Chevroux","Chevroux","VD",1.70693277310924,"Chevroux","Chevroux","Chevroux","VD","VD","VD",98.2930672268908,98.2930672268908,98.2930672268908
-"21","Lüscherz","Lüscherz","Lüscherz","BE",1.7243285066873,"Lüscherz","Lüscherz","Lüscherz","BE","BE","BE",98.2756714933127,98.2756714933127,98.2756714933127
-"22","Rougemont","Rougemont","Rougemont","VD",1.75135135135135,"Rougemont","Rougemont","Rougemont","VD","VD","VD",98.2486486486487,98.2486486486487,98.2486486486487
-"23","Comano","Comano","Comano","TI",1.92175703500343,"Comano","Comano","Comano","TI","TI","TI",98.0782429649966,98.0782429649966,98.0782429649966
-"24","Trachselwald","Trachselwald","Trachselwald","BE",2.1455938697318,"Trachselwald","Trachselwald","Trachselwald","BE","BE","BE",97.8544061302682,97.8544061302682,97.8544061302682
-"25","Mühleberg","Mühleberg","Mühleberg","BE",2.16147488874762,"Mühleberg","Mühleberg","Mühleberg","BE","BE","BE",97.8385251112524,97.8385251112524,97.8385251112524
-"26","Rueyres","Rueyres","Rueyres","VD",2.17017619252256,"Rueyres","Rueyres","Rueyres","VD","VD","VD",97.8298238074774,97.8298238074774,97.8298238074774
-"27","Maggia","Maggia","Maggia","TI",2.38907849829352,"Maggia","Maggia","Maggia","TI","TI","TI",97.6109215017065,97.6109215017065,97.6109215017065
-"28","Abtwil","Abtwil","Abtwil","AG",2.39394276806592,"Abtwil","Abtwil","Abtwil","AG","AG","AG",97.6060572319341,97.6060572319341,97.6060572319341
-"29","Silenen","Silenen","Silenen","UR",2.42120925199513,"Silenen","Silenen","Silenen","UR","UR","UR",97.5787907480049,97.5787907480049,97.5787907480049
-"30","Dänikon","Dänikon","Dänikon","ZH",2.48390064397424,"Dänikon","Dänikon","Dänikon","ZH","ZH","ZH",97.5160993560258,97.5160993560258,97.5160993560258
-"31","Salvan","Salvan","Salvan","VS",2.64015988219207,"Salvan","Salvan","Salvan","VS","VS","VS",97.3598401178079,97.3598401178079,97.3598401178079
-"32","Wiler bei Utzenstorf","Wiler bei Utzenstorf","Wiler bei Utzenstorf","BE",2.64586160108548,"Wiler bei Utzenstorf","Wiler bei Utzenstorf","Wiler bei Utzenstorf","BE","BE","BE",97.3541383989145,97.3541383989145,97.3541383989145
-"33","Waldenburg","Waldenburg","Waldenburg","BL",2.65599628856414,"Waldenburg","Waldenburg","Waldenburg","BL","BL","BL",97.3440037114359,97.3440037114359,97.3440037114359
-"34","Le Chenit","Le Chenit","Le Chenit","VD",2.66159695817491,"Le Chenit","Le Chenit","Le Chenit","VD","VD","VD",97.3384030418251,97.3384030418251,97.3384030418251
-"35","Neunkirch","Neunkirch","Neunkirch","SH",2.67361111111111,"Neunkirch","Neunkirch","Neunkirch","SH","SH","SH",97.3263888888889,97.3263888888889,97.3263888888889
-"36","Flawil","Flawil","Flawil","SG",2.74067250115154,"Flawil","Flawil","Flawil","SG","SG","SG",97.2593274988485,97.2593274988485,97.2593274988485
-"37","Klosters-Serneus","Klosters-Serneus","Klosters-Serneus","GR",2.87754218952834,"Klosters-Serneus","Klosters-Serneus","Klosters-Serneus","GR","GR","GR",97.1224578104717,97.1224578104717,97.1224578104717
-"38","Orges","Orges","Orges","VD",2.96868645790972,"Orges","Orges","Orges","VD","VD","VD",97.0313135420903,97.0313135420903,97.0313135420903
-"39","Sainte-Croix","Sainte-Croix","Sainte-Croix","VD",3.01395567022399,"Sainte-Croix","Sainte-Croix","Sainte-Croix","VD","VD","VD",96.986044329776,96.986044329776,96.986044329776
-"40","Tägerwilen","Tägerwilen","Tägerwilen","TG",3.04363124560169,"Tägerwilen","Tägerwilen","Tägerwilen","TG","TG","TG",96.9563687543983,96.9563687543983,96.9563687543983
-"41","Delley-Portalban","Delley-Portalban","Delley-Portalban","FR",3.07111519232731,"Delley-Portalban","Delley-Portalban","Delley-Portalban","FR","FR","FR",96.9288848076727,96.9288848076727,96.9288848076727
-"42","Glarus Süd","Glarus Süd","Glarus Süd","GL",3.07785764908373,"Glarus Süd","Glarus Süd","Glarus Süd","GL","GL","GL",96.9221423509163,96.9221423509163,96.9221423509163
-"43","Dizy","Dizy","Dizy","VD",3.10924369747899,"Dizy","Dizy","Dizy","VD","VD","VD",96.890756302521,96.890756302521,96.890756302521
-"44","Urdorf","Urdorf","Urdorf","ZH",3.43360680644181,"Urdorf","Urdorf","Urdorf","ZH","ZH","ZH",96.5663931935582,96.5663931935582,96.5663931935582
-"45","Cureglia","Cureglia","Cureglia","TI",3.45806451612903,"Cureglia","Cureglia","Cureglia","TI","TI","TI",96.541935483871,96.541935483871,96.541935483871
-"46","Valbroye","Valbroye","Valbroye","VD",3.56514600680192,"Valbroye","Valbroye","Valbroye","VD","VD","VD",96.4348539931981,96.4348539931981,96.4348539931981
-"47","Mattstetten","Mattstetten","Mattstetten","BE",3.58953281271407,"Mattstetten","Mattstetten","Mattstetten","BE","BE","BE",96.4104671872859,96.4104671872859,96.4104671872859
-"48","Neuenegg","Neuenegg","Neuenegg","BE",3.77515038373781,"Neuenegg","Neuenegg","Neuenegg","BE","BE","BE",96.2248496162622,96.2248496162622,96.2248496162622
-"49","Ziefen","Ziefen","Ziefen","BL",3.8243006993007,"Ziefen","Ziefen","Ziefen","BL","BL","BL",96.1756993006993,96.1756993006993,96.1756993006993
-"50","Vitznau","Vitznau","Vitznau","LU",3.95670026129153,"Vitznau","Vitznau","Vitznau","LU","LU","LU",96.0432997387085,96.0432997387085,96.0432997387085
+"1","Aeugst am Albis","Aeugst am Albis","Aeugst am Albis","ZH",NA,"Aeugst am Albis","Aeugst am Albis","Aeugst am Albis","ZH","ZH","ZH",NA,NA,NA
+"2","Affoltern am Albis","Affoltern am Albis","Affoltern am Albis","ZH",NA,"Affoltern am Albis","Affoltern am Albis","Affoltern am Albis","ZH","ZH","ZH",NA,NA,NA
+"3","Hausen am Albis","Hausen am Albis","Hausen am Albis","ZH",NA,"Hausen am Albis","Hausen am Albis","Hausen am Albis","ZH","ZH","ZH",NA,NA,NA
+"4","Hedingen","Hedingen","Hedingen","ZH",NA,"Hedingen","Hedingen","Hedingen","ZH","ZH","ZH",NA,NA,NA
+"5","Kappel am Albis","Kappel am Albis","Kappel am Albis","ZH",NA,"Kappel am Albis","Kappel am Albis","Kappel am Albis","ZH","ZH","ZH",NA,NA,NA
+"6","Bonstetten","Bonstetten","Bonstetten","ZH",NA,"Bonstetten","Bonstetten","Bonstetten","ZH","ZH","ZH",NA,NA,NA
+"7","Maschwanden","Maschwanden","Maschwanden","ZH",NA,"Maschwanden","Maschwanden","Maschwanden","ZH","ZH","ZH",NA,NA,NA
+"8","Mettmenstetten","Mettmenstetten","Mettmenstetten","ZH",NA,"Mettmenstetten","Mettmenstetten","Mettmenstetten","ZH","ZH","ZH",NA,NA,NA
+"9","Obfelden","Obfelden","Obfelden","ZH",NA,"Obfelden","Obfelden","Obfelden","ZH","ZH","ZH",NA,NA,NA
+"10","Ottenbach","Ottenbach","Ottenbach","ZH",NA,"Ottenbach","Ottenbach","Ottenbach","ZH","ZH","ZH",NA,NA,NA
+"11","Rifferswil","Rifferswil","Rifferswil","ZH",NA,"Rifferswil","Rifferswil","Rifferswil","ZH","ZH","ZH",NA,NA,NA
+"12","Stallikon","Stallikon","Stallikon","ZH",NA,"Stallikon","Stallikon","Stallikon","ZH","ZH","ZH",NA,NA,NA
+"13","Wettswil am Albis","Wettswil am Albis","Wettswil am Albis","ZH",NA,"Wettswil am Albis","Wettswil am Albis","Wettswil am Albis","ZH","ZH","ZH",NA,NA,NA
+"14","Adlikon","Adlikon","Adlikon","ZH",NA,"Adlikon","Adlikon","Adlikon","ZH","ZH","ZH",NA,NA,NA
+"15","Benken (ZH)","Benken ZH","Benken ZH","ZH",NA,"Benken (ZH)","Benken ZH","Benken ZH","ZH","ZH","ZH",NA,NA,NA
+"16","Berg am Irchel","Berg am Irchel","Berg am Irchel","ZH",NA,"Berg am Irchel","Berg am Irchel","Berg am Irchel","ZH","ZH","ZH",NA,NA,NA
+"17","Buch am Irchel","Buch am Irchel","Buch am Irchel","ZH",NA,"Buch am Irchel","Buch am Irchel","Buch am Irchel","ZH","ZH","ZH",NA,NA,NA
+"18","Dachsen","Dachsen","Dachsen","ZH",NA,"Dachsen","Dachsen","Dachsen","ZH","ZH","ZH",NA,NA,NA
+"19","Dorf","Dorf","Dorf","ZH",NA,"Dorf","Dorf","Dorf","ZH","ZH","ZH",NA,NA,NA
+"20","Feuerthalen","Feuerthalen","Feuerthalen","ZH",NA,"Feuerthalen","Feuerthalen","Feuerthalen","ZH","ZH","ZH",NA,NA,NA
+"21","Flaach","Flaach","Flaach","ZH",NA,"Flaach","Flaach","Flaach","ZH","ZH","ZH",NA,NA,NA
+"22","Flurlingen","Flurlingen","Flurlingen","ZH",NA,"Flurlingen","Flurlingen","Flurlingen","ZH","ZH","ZH",NA,NA,NA
+"23","Andelfingen","Andelfingen","Andelfingen","ZH",NA,"Andelfingen","Andelfingen","Andelfingen","ZH","ZH","ZH",NA,NA,NA
+"24","Henggart","Henggart","Henggart","ZH",NA,"Henggart","Henggart","Henggart","ZH","ZH","ZH",NA,NA,NA
+"25","Humlikon","Humlikon","Humlikon","ZH",NA,"Humlikon","Humlikon","Humlikon","ZH","ZH","ZH",NA,NA,NA
+"26","Kleinandelfingen","Kleinandelfingen","Kleinandelfingen","ZH",NA,"Kleinandelfingen","Kleinandelfingen","Kleinandelfingen","ZH","ZH","ZH",NA,NA,NA
+"27","Laufen-Uhwiesen","Laufen-Uhwiesen","Laufen-Uhwiesen","ZH",NA,"Laufen-Uhwiesen","Laufen-Uhwiesen","Laufen-Uhwiesen","ZH","ZH","ZH",NA,NA,NA
+"28","Marthalen","Marthalen","Marthalen","ZH",NA,"Marthalen","Marthalen","Marthalen","ZH","ZH","ZH",NA,NA,NA
+"29","Ossingen","Ossingen","Ossingen","ZH",NA,"Ossingen","Ossingen","Ossingen","ZH","ZH","ZH",NA,NA,NA
+"30","Rheinau","Rheinau","Rheinau","ZH",NA,"Rheinau","Rheinau","Rheinau","ZH","ZH","ZH",NA,NA,NA
+"31","Thalheim an der Thur","Thalheim an der Thur","Thalheim an der Thur","ZH",NA,"Thalheim an der Thur","Thalheim an der Thur","Thalheim an der Thur","ZH","ZH","ZH",NA,NA,NA
+"32","Trüllikon","Trüllikon","Trüllikon","ZH",NA,"Trüllikon","Trüllikon","Trüllikon","ZH","ZH","ZH",NA,NA,NA
+"33","Truttikon","Truttikon","Truttikon","ZH",NA,"Truttikon","Truttikon","Truttikon","ZH","ZH","ZH",NA,NA,NA
+"34","Volken","Volken","Volken","ZH",NA,"Volken","Volken","Volken","ZH","ZH","ZH",NA,NA,NA
+"35","Bachenbülach","Bachenbülach","Bachenbülach","ZH",NA,"Bachenbülach","Bachenbülach","Bachenbülach","ZH","ZH","ZH",NA,NA,NA
+"36","Bassersdorf","Bassersdorf","Bassersdorf","ZH",NA,"Bassersdorf","Bassersdorf","Bassersdorf","ZH","ZH","ZH",NA,NA,NA
+"37","Bülach","Bülach","Bülach","ZH",NA,"Bülach","Bülach","Bülach","ZH","ZH","ZH",NA,NA,NA
+"38","Dietlikon","Dietlikon","Dietlikon","ZH",NA,"Dietlikon","Dietlikon","Dietlikon","ZH","ZH","ZH",NA,NA,NA
+"39","Eglisau","Eglisau","Eglisau","ZH",NA,"Eglisau","Eglisau","Eglisau","ZH","ZH","ZH",NA,NA,NA
+"40","Embrach","Embrach","Embrach","ZH",NA,"Embrach","Embrach","Embrach","ZH","ZH","ZH",NA,NA,NA
+"41","Freienstein-Teufen","Freienstein-Teufen","Freienstein-Teufen","ZH",NA,"Freienstein-Teufen","Freienstein-Teufen","Freienstein-Teufen","ZH","ZH","ZH",NA,NA,NA
+"42","Glattfelden","Glattfelden","Glattfelden","ZH",NA,"Glattfelden","Glattfelden","Glattfelden","ZH","ZH","ZH",NA,NA,NA
+"43","Hochfelden","Hochfelden","Hochfelden","ZH",NA,"Hochfelden","Hochfelden","Hochfelden","ZH","ZH","ZH",NA,NA,NA
+"44","Höri","Höri","Höri","ZH",NA,"Höri","Höri","Höri","ZH","ZH","ZH",NA,NA,NA
+"45","Hüntwangen","Hüntwangen","Hüntwangen","ZH",NA,"Hüntwangen","Hüntwangen","Hüntwangen","ZH","ZH","ZH",NA,NA,NA
+"46","Kloten","Kloten","Kloten","ZH",NA,"Kloten","Kloten","Kloten","ZH","ZH","ZH",NA,NA,NA
+"47","Lufingen","Lufingen","Lufingen","ZH",NA,"Lufingen","Lufingen","Lufingen","ZH","ZH","ZH",NA,NA,NA
+"48","Nürensdorf","Nürensdorf","Nürensdorf","ZH",NA,"Nürensdorf","Nürensdorf","Nürensdorf","ZH","ZH","ZH",NA,NA,NA
+"49","Oberembrach","Oberembrach","Oberembrach","ZH",NA,"Oberembrach","Oberembrach","Oberembrach","ZH","ZH","ZH",NA,NA,NA
+"50","Opfikon","Opfikon","Opfikon","ZH",NA,"Opfikon","Opfikon","Opfikon","ZH","ZH","ZH",NA,NA,NA
