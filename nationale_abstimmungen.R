@@ -17,7 +17,7 @@ for (i in 1:length(vorlagen_short)) {
   results <- get_results(json_data,i)
 
 #Simulation Gemeinden
-source("data_simulation_gemeinden.R")
+#source("data_simulation_gemeinden.R")
   
 
   #Emergency adapt
@@ -170,18 +170,18 @@ source("data_simulation_gemeinden.R")
   write.csv(output_dw,paste0("Output/",vorlagen_short[i],"_dw.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
   
-  ###Output generieren für Datawrapper Radiotop
+  ###Output generieren für Datawrapper Zentralschweiz
   
-  #output_dw_radiotop <- results[results$Kanton_Short == "ZH" |
-  #                                results$Kanton_Short == "SH" |
-  #                                results$Kanton_Short == "TG" |
-  #                                results$Kanton_Short == "SG" |
-  #                                results$Kanton_Short == "AI" |
-  #                                results$Kanton_Short == "AR",]
+  output_dw_zentralschweiz <- results[results$Kanton_Short == "LU" |
+                                  results$Kanton_Short == "UR" |
+                                  results$Kanton_Short == "SZ" |
+                                  results$Kanton_Short == "OW" |
+                                  results$Kanton_Short == "NW" |
+                                  results$Kanton_Short == "ZG",]
   
-  #output_dw_radiotop <- get_output_gemeinden(output_dw_radiotop)
+  output_dw_zentralschweiz <- get_output_gemeinden(output_dw_zentralschweiz)
   
-  #write.csv(output_dw_radiotop,paste0("Output/",vorlagen_short[i],"_dw_radiotop.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
+  write.csv(output_dw_zentralschweiz,paste0("Output/",vorlagen_short[i],"_dw_zentralschweiz.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
   ###Output generieren für Datawrapper Schwyz Gebiete
   
@@ -247,7 +247,7 @@ source("data_simulation_gemeinden.R")
                             round(results_national$jaStimmenInProzent,1)," %</b> sì, <b>",
                             round(100-results_national$jaStimmenInProzent,1)," %</b> no")
   
-
+  }   
  
     #Karten Gemeinden
     dw_edit_chart(datawrapper_codes[i,2],intro=undertitel_de,annotate=paste0("Letzte Aktualisierung: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
@@ -269,7 +269,7 @@ source("data_simulation_gemeinden.R")
     dw_edit_chart(datawrapper_codes[i,7],intro=undertitel_it,annotate=paste0("Ultimo aggiornamento: ",format(Sys.time(),"%d.%m.%Y %H:%M Uhr")))
     dw_publish_chart(datawrapper_codes[i,7])
     
-  }   
+
   
 
 #Eintrag für Uebersicht

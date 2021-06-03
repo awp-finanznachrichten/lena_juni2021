@@ -422,3 +422,17 @@ Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, S
 
 2021-06-01 20:50:23 Terrorismus
 Zürich, Bern, Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Solothurn, Basel-Stadt, Basel-Landschaft, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Aargau, Thurgau, Tessin, Waadt, Wallis, Neuenburg, Genf, Jura, 
+
+2021-06-03 19:27:24 Trinkwasser
+
+
+2021-06-03 19:27:36 Pestizide
+
+
+2021-06-03 19:27:49 Covid-19
+
+
+2021-06-03 19:28:02 CO2
+
+
+2021-06-03 19:28:14 Terrorismus
