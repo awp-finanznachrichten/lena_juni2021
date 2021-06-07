@@ -183,36 +183,15 @@ for (i in 1:length(vorlagen_short)) {
   
   write.csv(output_dw_zentralschweiz,paste0("Output/",vorlagen_short[i],"_dw_zentralschweiz.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
   
-  ###Output generieren für Datawrapper Schwyz Gebiete
+  ###Output generieren für Datawrapper Appenzell
   
-  #Hoefe
-  #output_dw_hoefe_SZ <- results[results$Gemeinde_Nr == 1323|
-  #                                results$Gemeinde_Nr == 1322 |
-  #                                results$Gemeinde_Nr == 1321,]
+  output_dw_appenzell <- results[results$Kanton_Short == "AI" |
+                                        results$Kanton_Short == "AR",]
   
-  #output_dw_hoefe_SZ <- get_output_gemeinden(output_dw_hoefe_SZ)
+  output_dw_appenzell <- get_output_gemeinden(output_dw_appenzell)
   
-  #March
-  #output_dw_march_SZ <- results[results$Gemeinde_Nr > 1340 &
-  #                                results$Gemeinde_Nr < 1350 ,]
-  
-  #output_dw_march_SZ <- get_output_gemeinden(output_dw_march_SZ)
+  write.csv(output_dw_appenzell,paste0("Output/",vorlagen_short[i],"_dw_appenzell.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
 
-  #Output speichern
-  #write.csv(output_dw_hoefe_SZ,paste0("Output/",vorlagen_short[i],"_hoefe_SZ.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
-  #write.csv(output_dw_march_SZ,paste0("Output/",vorlagen_short[i],"_march_SZ.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
-  
-  
-  ###Output generieren für Datawrapper Sarganserland
-  
-  #Hoefe
-  #output_dw_sarganserland_SG <- results[results$Gemeinde_Nr > 3290 &
-  #                                        results$Gemeinde_Nr < 3300 ,]
-  
-  #output_dw_sarganserland_SG <- get_output_gemeinden(output_dw_sarganserland_SG)
-  
-  #write.csv(output_dw_sarganserland_SG,paste0("Output/",vorlagen_short[i],"_sarganserland_SG.csv"), na = "", row.names = FALSE, fileEncoding = "UTF-8")
-  
   
   #Log Kantone
   cat(paste0("\n\n",Sys.time()," ",vorlagen_short[i],"\n"),file="Output/log_file.txt",append = TRUE)
