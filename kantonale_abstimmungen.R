@@ -79,6 +79,29 @@ for (k in 1:length(kantonal_short) ) {
     
     }
     
+    #Intro Spezialfall Fribourg
+    
+    if (kantonal_short[k] == "FR_BlueFactory") {
+      
+      for (s in 1:nrow(results)) {
+        
+        if ( (results$Gemeinde_Nr[s] == 2196) & (results$Ja_Stimmen_Absolut[s] > results$Nein_Stimmen_Absolut[s]) ) {
+          
+          results$Storyboard[s] <- "Intro_Ja_Fribourg"
+          
+        }
+        
+        if ( (results$Gemeinde_Nr[s] == 2196) & (results$Ja_Stimmen_Absolut[s] < results$Nein_Stimmen_Absolut[s]) ) {
+          
+          results$Storyboard[s] <- "Intro_Nein_Fribourg"
+          
+        } 
+        
+      }
+      
+    }
+    
+    
     #Vergleich innerhalb des Kantons (falls Daten vom Kanton vorhanden) -> Ändern von FALSE auf TRUE
     
     if (json_data_kantone$kantone$vorlagen[[kantonal_number[k]]]$vorlageBeendet[[kantonal_add[k]]] == TRUE) {
