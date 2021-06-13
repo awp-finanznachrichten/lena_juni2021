@@ -594,36 +594,36 @@
 4,1219,,,,,,,,FALSE,"UR","Unterschächen","Unterschächen","Unterschächen","Unterschächen UR","Unterschächen (UR)","Unterschächen UR","Uri","Uri","Uri",,FALSE,FALSE
 4,1220,,,,,,,,FALSE,"UR","Wassen","Wassen","Wassen","Wassen UR","Wassen (UR)","Wassen UR","Uri","Uri","Uri",,FALSE,FALSE
 4,1213,,,,,,,,FALSE,"UR","Schattdorf","Schattdorf","Schattdorf","Schattdorf UR","Schattdorf (UR)","Schattdorf UR","Uri","Uri","Uri",,FALSE,FALSE
-5,1301,,,,,,,,FALSE,"SZ","Einsiedeln","Einsiedeln","Einsiedeln","Einsiedeln SZ","Einsiedeln (SZ)","Einsiedeln SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1321,,,,,,,,FALSE,"SZ","Feusisberg","Feusisberg","Feusisberg","Feusisberg SZ","Feusisberg (SZ)","Feusisberg SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1322,,,,,,,,FALSE,"SZ","Freienbach","Freienbach","Freienbach","Freienbach SZ","Freienbach (SZ)","Freienbach SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1323,,,,,,,,FALSE,"SZ","Wollerau","Wollerau","Wollerau","Wollerau SZ","Wollerau (SZ)","Wollerau SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1311,,,,,,,,FALSE,"SZ","Gersau","Gersau","Gersau","Gersau SZ","Gersau (SZ)","Gersau SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1341,,,,,,,,FALSE,"SZ","Altendorf","Altendorf","Altendorf","Altendorf SZ","Altendorf (SZ)","Altendorf SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1342,,,,,,,,FALSE,"SZ","Galgenen","Galgenen","Galgenen","Galgenen SZ","Galgenen (SZ)","Galgenen SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1343,34.745762712,41,77,80.272108844,118,147,118,TRUE,"SZ","Innerthal","Innerthal","Innerthal","Innerthal SZ","Innerthal (SZ)","Innerthal SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1344,,,,,,,,FALSE,"SZ","Lachen","Lachen","Lachen","Lachen SZ","Lachen (SZ)","Lachen SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1345,,,,,,,,FALSE,"SZ","Reichenburg","Reichenburg","Reichenburg","Reichenburg SZ","Reichenburg (SZ)","Reichenburg SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1346,,,,,,,,FALSE,"SZ","Schübelbach","Schübelbach","Schübelbach","Schübelbach SZ","Schübelbach (SZ)","Schübelbach SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1347,,,,,,,,FALSE,"SZ","Tuggen","Tuggen","Tuggen","Tuggen SZ","Tuggen (SZ)","Tuggen SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1348,,,,,,,,FALSE,"SZ","Vorderthal","Vorderthal","Vorderthal","Vorderthal SZ","Vorderthal (SZ)","Vorderthal SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1349,,,,,,,,FALSE,"SZ","Wangen SZ","Wangen (SZ)","Wangen SZ","Wangen SZ","Wangen (SZ)","Wangen SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1361,18.556701031,72,316,81.551362683,389,477,388,TRUE,"SZ","Alpthal","Alpthal","Alpthal","Alpthal SZ","Alpthal (SZ)","Alpthal SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1362,,,,,,,,FALSE,"SZ","Arth","Arth","Arth","Arth SZ","Arth (SZ)","Arth SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1363,17.418032787,85,403,79.674796748,490,615,488,TRUE,"SZ","Illgau","Illgau","Illgau","Illgau SZ","Illgau (SZ)","Illgau SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1331,,,,,,,,FALSE,"SZ","Küssnacht SZ","Küssnacht (SZ)","Küssnacht SZ","Küssnacht SZ","Küssnacht (SZ)","Küssnacht SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1365,,,,,,,,FALSE,"SZ","Lauerz","Lauerz","Lauerz","Lauerz SZ","Lauerz (SZ)","Lauerz SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1366,,,,,,,,FALSE,"SZ","Morschach","Morschach","Morschach","Morschach SZ","Morschach (SZ)","Morschach SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1367,,,,,,,,FALSE,"SZ","Muotathal","Muotathal","Muotathal","Muotathal SZ","Muotathal (SZ)","Muotathal SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1368,,,,,,,,FALSE,"SZ","Oberiberg","Oberiberg","Oberiberg","Oberiberg SZ","Oberiberg (SZ)","Oberiberg SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1369,22.222222222,10,35,78.947368421,45,57,45,TRUE,"SZ","Riemenstalden","Riemenstalden","Riemenstalden","Riemenstalden SZ","Riemenstalden (SZ)","Riemenstalden SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1370,,,,,,,,FALSE,"SZ","Rothenthurm","Rothenthurm","Rothenthurm","Rothenthurm SZ","Rothenthurm (SZ)","Rothenthurm SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1371,,,,,,,,FALSE,"SZ","Sattel","Sattel","Sattel","Sattel SZ","Sattel (SZ)","Sattel SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1372,,,,,,,,FALSE,"SZ","Schwyz","Schwyz","Svitto","Schwyz SZ","Schwyz (SZ)","Svitto SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1373,,,,,,,,FALSE,"SZ","Steinen","Steinen","Steinen","Steinen SZ","Steinen (SZ)","Steinen SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1374,22.674418605,117,399,72.524407252,520,717,516,TRUE,"SZ","Steinerberg","Steinerberg","Steinerberg","Steinerberg SZ","Steinerberg (SZ)","Steinerberg SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1375,,,,,,,,FALSE,"SZ","Unteriberg","Unteriberg","Unteriberg","Unteriberg SZ","Unteriberg (SZ)","Unteriberg SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
-5,1364,,,,,,,,FALSE,"SZ","Ingenbohl","Ingenbohl","Ingenbohl","Ingenbohl SZ","Ingenbohl (SZ)","Ingenbohl SZ","Schwyz","Schwyz","Svitto",20.900321543,FALSE,FALSE
+5,1301,,,,,,,,FALSE,"SZ","Einsiedeln","Einsiedeln","Einsiedeln","Einsiedeln SZ","Einsiedeln (SZ)","Einsiedeln SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1321,43.835034014,1031,1321,66.657303371,2373,3560,2352,TRUE,"SZ","Feusisberg","Feusisberg","Feusisberg","Feusisberg SZ","Feusisberg (SZ)","Feusisberg SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1322,,,,,,,,FALSE,"SZ","Freienbach","Freienbach","Freienbach","Freienbach SZ","Freienbach (SZ)","Freienbach SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1323,,,,,,,,FALSE,"SZ","Wollerau","Wollerau","Wollerau","Wollerau SZ","Wollerau (SZ)","Wollerau SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1311,,,,,,,,FALSE,"SZ","Gersau","Gersau","Gersau","Gersau SZ","Gersau (SZ)","Gersau SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1341,,,,,,,,FALSE,"SZ","Altendorf","Altendorf","Altendorf","Altendorf SZ","Altendorf (SZ)","Altendorf SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1342,,,,,,,,FALSE,"SZ","Galgenen","Galgenen","Galgenen","Galgenen SZ","Galgenen (SZ)","Galgenen SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1343,34.745762712,41,77,80.272108844,118,147,118,TRUE,"SZ","Innerthal","Innerthal","Innerthal","Innerthal SZ","Innerthal (SZ)","Innerthal SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1344,,,,,,,,FALSE,"SZ","Lachen","Lachen","Lachen","Lachen SZ","Lachen (SZ)","Lachen SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1345,,,,,,,,FALSE,"SZ","Reichenburg","Reichenburg","Reichenburg","Reichenburg SZ","Reichenburg (SZ)","Reichenburg SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1346,,,,,,,,FALSE,"SZ","Schübelbach","Schübelbach","Schübelbach","Schübelbach SZ","Schübelbach (SZ)","Schübelbach SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1347,,,,,,,,FALSE,"SZ","Tuggen","Tuggen","Tuggen","Tuggen SZ","Tuggen (SZ)","Tuggen SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1348,20.173913043,116,459,71.322620519,577,809,575,TRUE,"SZ","Vorderthal","Vorderthal","Vorderthal","Vorderthal SZ","Vorderthal (SZ)","Vorderthal SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1349,,,,,,,,FALSE,"SZ","Wangen SZ","Wangen (SZ)","Wangen SZ","Wangen SZ","Wangen (SZ)","Wangen SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1361,18.556701031,72,316,81.551362683,389,477,388,TRUE,"SZ","Alpthal","Alpthal","Alpthal","Alpthal SZ","Alpthal (SZ)","Alpthal SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1362,,,,,,,,FALSE,"SZ","Arth","Arth","Arth","Arth SZ","Arth (SZ)","Arth SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1363,17.418032787,85,403,79.674796748,490,615,488,TRUE,"SZ","Illgau","Illgau","Illgau","Illgau SZ","Illgau (SZ)","Illgau SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1331,,,,,,,,FALSE,"SZ","Küssnacht SZ","Küssnacht (SZ)","Küssnacht SZ","Küssnacht SZ","Küssnacht (SZ)","Küssnacht SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1365,,,,,,,,FALSE,"SZ","Lauerz","Lauerz","Lauerz","Lauerz SZ","Lauerz (SZ)","Lauerz SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1366,31.860036832,173,370,74.114441417,544,734,543,TRUE,"SZ","Morschach","Morschach","Morschach","Morschach SZ","Morschach (SZ)","Morschach SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1367,,,,,,,,FALSE,"SZ","Muotathal","Muotathal","Muotathal","Muotathal SZ","Muotathal (SZ)","Muotathal SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1368,30.037313433,161,375,76.345609065,539,706,536,TRUE,"SZ","Oberiberg","Oberiberg","Oberiberg","Oberiberg SZ","Oberiberg (SZ)","Oberiberg SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1369,22.222222222,10,35,78.947368421,45,57,45,TRUE,"SZ","Riemenstalden","Riemenstalden","Riemenstalden","Riemenstalden SZ","Riemenstalden (SZ)","Riemenstalden SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1370,,,,,,,,FALSE,"SZ","Rothenthurm","Rothenthurm","Rothenthurm","Rothenthurm SZ","Rothenthurm (SZ)","Rothenthurm SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1371,,,,,,,,FALSE,"SZ","Sattel","Sattel","Sattel","Sattel SZ","Sattel (SZ)","Sattel SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1372,,,,,,,,FALSE,"SZ","Schwyz","Schwyz","Svitto","Schwyz SZ","Schwyz (SZ)","Svitto SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1373,,,,,,,,FALSE,"SZ","Steinen","Steinen","Steinen","Steinen SZ","Steinen (SZ)","Steinen SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1374,22.674418605,117,399,72.524407252,520,717,516,TRUE,"SZ","Steinerberg","Steinerberg","Steinerberg","Steinerberg SZ","Steinerberg (SZ)","Steinerberg SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1375,,,,,,,,FALSE,"SZ","Unteriberg","Unteriberg","Unteriberg","Unteriberg SZ","Unteriberg (SZ)","Unteriberg SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
+5,1364,,,,,,,,FALSE,"SZ","Ingenbohl","Ingenbohl","Ingenbohl","Ingenbohl SZ","Ingenbohl (SZ)","Ingenbohl SZ","Schwyz","Schwyz","Svitto",32.47617335,FALSE,FALSE
 6,1401,,,,,,,,FALSE,"OW","Alpnach","Alpnach","Alpnach","Alpnach OW","Alpnach (OW)","Alpnach OW","Obwalden","Obwald","Obvaldo",,FALSE,FALSE
 6,1402,,,,,,,,FALSE,"OW","Engelberg","Engelberg","Engelberg","Engelberg OW","Engelberg (OW)","Engelberg OW","Obwalden","Obwald","Obvaldo",,FALSE,FALSE
 6,1403,,,,,,,,FALSE,"OW","Giswil","Giswil","Giswil","Giswil OW","Giswil (OW)","Giswil OW","Obwalden","Obwald","Obvaldo",,FALSE,FALSE
@@ -784,113 +784,113 @@
 10,2337,48.976109215,287,299,74.661746617,607,813,586,TRUE,"FR","Le Flon","Le Flon","Le Flon","Le Flon FR","Le Flon (FR)","Le Flon FR","Freiburg","Fribourg","Friburgo",55.966796131,FALSE,FALSE
 10,2338,,,,,,,,FALSE,"FR","La Verrerie","La Verrerie","La Verrerie","La Verrerie FR","La Verrerie (FR)","La Verrerie FR","Freiburg","Fribourg","Friburgo",55.966796131,FALSE,FALSE
 10,2220,,,,,,,,FALSE,"FR","Le Mouret","Le Mouret","Le Mouret","Le Mouret FR","Le Mouret (FR)","Le Mouret FR","Freiburg","Fribourg","Friburgo",55.966796131,FALSE,FALSE
-11,2402,56.70995671,393,300,62.69058296,699,1115,693,TRUE,"SO","Härkingen","Härkingen","Härkingen","Härkingen SO","Härkingen (SO)","Härkingen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2403,52.603036876,485,437,67.197682839,928,1381,922,TRUE,"SO","Kestenholz","Kestenholz","Kestenholz","Kestenholz SO","Kestenholz (SO)","Kestenholz SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2404,,,,,,,,FALSE,"SO","Neuendorf","Neuendorf","Neuendorf","Neuendorf SO","Neuendorf (SO)","Neuendorf SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2401,,,,,,,,FALSE,"SO","Egerkingen","Egerkingen","Egerkingen","Egerkingen SO","Egerkingen (SO)","Egerkingen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2406,,,,,,,,FALSE,"SO","Oberbuchsiten","Oberbuchsiten","Oberbuchsiten","Oberbuchsiten SO","Oberbuchsiten (SO)","Oberbuchsiten SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2407,,,,,,,,FALSE,"SO","Oensingen","Oensingen","Oensingen","Oensingen SO","Oensingen (SO)","Oensingen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2408,53.333333333,552,483,60.803727432,1044,1717,1035,TRUE,"SO","Wolfwil","Wolfwil","Wolfwil","Wolfwil SO","Wolfwil (SO)","Wolfwil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2421,59.826589595,207,139,73.460721868,346,471,346,TRUE,"SO","Aedermannsdorf","Aedermannsdorf","Aedermannsdorf","Aedermannsdorf SO","Aedermannsdorf (SO)","Aedermannsdorf SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2422,56.661991585,1212,927,61.22971819,2151,3513,2139,TRUE,"SO","Balsthal","Balsthal","Balsthal","Balsthal SO","Balsthal (SO)","Balsthal SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2424,48.920863309,136,142,65.148063781,286,439,278,TRUE,"SO","Herbetswil","Herbetswil","Herbetswil","Herbetswil SO","Herbetswil (SO)","Herbetswil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2425,37.620578778,117,194,58.070500928,313,539,311,TRUE,"SO","Holderbank SO","Holderbank (SO)","Holderbank SO","Holderbank SO","Holderbank (SO)","Holderbank SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2426,,,,,,,,FALSE,"SO","Laupersdorf","Laupersdorf","Laupersdorf","Laupersdorf SO","Laupersdorf (SO)","Laupersdorf SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2427,49.529780564,316,322,61.346153846,638,1040,638,TRUE,"SO","Matzendorf","Matzendorf","Matzendorf","Matzendorf SO","Matzendorf (SO)","Matzendorf SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2428,41.230769231,536,764,70.25862069,1304,1856,1300,TRUE,"SO","Mümliswil-Ramiswil","Mümliswil-Ramiswil","Mümliswil-Ramiswil","Mümliswil-Ramiswil SO","Mümliswil-Ramiswil (SO)","Mümliswil-Ramiswil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2430,50.871080139,292,282,65.310734463,578,885,574,TRUE,"SO","Welschenrohr-Gänsbrunnen","Welschenrohr-Gänsbrunnen","Welschenrohr-Gänsbrunnen","Welschenrohr-Gänsbrunnen SO","Welschenrohr-Gänsbrunnen (SO)","Welschenrohr-Gänsbrunnen (SO)","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2445,61.70212766,116,72,72.075471698,191,265,188,TRUE,"SO","Biezwil","Biezwil","Biezwil","Biezwil SO","Biezwil (SO)","Biezwil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2405,,,,,,,,FALSE,"SO","Niederbuchsiten","Niederbuchsiten","Niederbuchsiten","Niederbuchsiten SO","Niederbuchsiten (SO)","Niederbuchsiten SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2456,68.527918782,135,62,71.841155235,199,277,197,TRUE,"SO","Lüterswil-Gächliwil","Lüterswil-Gächliwil","Lüterswil-Gächliwil","Lüterswil-Gächliwil SO","Lüterswil-Gächliwil (SO)","Lüterswil-Gächliwil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2457,,,,,,,,FALSE,"SO","Messen","Messen","Messen","Messen SO","Messen (SO)","Messen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2461,52.358490566,333,303,71.809100999,647,901,636,TRUE,"SO","Schnottwil","Schnottwil","Schnottwil","Schnottwil SO","Schnottwil (SO)","Schnottwil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2463,34.090909091,45,87,72.928176796,132,181,132,TRUE,"SO","Unterramsern","Unterramsern","Unterramsern","Unterramsern SO","Unterramsern (SO)","Unterramsern SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2464,54.561403509,311,259,70.746634027,578,817,570,TRUE,"SO","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen SO","Lüsslingen-Nennigkofen (SO)","Lüsslingen-Nennigkofen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2465,,,,,,,,FALSE,"SO","Buchegg","Buchegg","Buchegg","Buchegg SO","Buchegg (SO)","Buchegg SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2471,,,,,,,,FALSE,"SO","Bättwil","Bättwil","Bättwil","Bättwil SO","Bättwil (SO)","Bättwil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2472,54.545454545,252,210,62.216288385,466,749,462,TRUE,"SO","Büren SO","Büren (SO)","Büren SO","Büren SO","Büren (SO)","Büren SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2473,,,,,,,,FALSE,"SO","Dornach","Dornach","Dornach","Dornach SO","Dornach (SO)","Dornach SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2474,44.522144522,191,238,71.428571429,435,609,429,TRUE,"SO","Gempen","Gempen","Gempen","Gempen SO","Gempen (SO)","Gempen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2475,51.037344398,369,354,76.458333333,734,960,723,TRUE,"SO","Hochwald","Hochwald","Hochwald","Hochwald SO","Hochwald (SO)","Hochwald SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2476,,,,,,,,FALSE,"SO","Hofstetten-Flüh","Hofstetten-Flüh","Hofstetten-Flüh","Hofstetten-Flüh SO","Hofstetten-Flüh (SO)","Hofstetten-Flüh SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2455,60.827250608,250,161,58.923512748,416,706,411,TRUE,"SO","Lüterkofen-Ichertswil","Lüterkofen-Ichertswil","Lüterkofen-Ichertswil","Lüterkofen-Ichertswil SO","Lüterkofen-Ichertswil (SO)","Lüterkofen-Ichertswil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2478,,,,,,,,FALSE,"SO","Nuglar-St. Pantaleon","Nuglar-St. Pantaleon","Nuglar-St. Pantaleon","Nuglar-St. Pantaleon SO","Nuglar-St. Pantaleon (SO)","Nuglar-St. Pantaleon SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2479,61.904761905,468,288,73.866923819,766,1037,756,TRUE,"SO","Rodersdorf","Rodersdorf","Rodersdorf","Rodersdorf SO","Rodersdorf (SO)","Rodersdorf SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2480,,,,,,,,FALSE,"SO","Seewen","Seewen","Seewen","Seewen SO","Seewen (SO)","Seewen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2481,,,,,,,,FALSE,"SO","Witterswil","Witterswil","Witterswil","Witterswil SO","Witterswil (SO)","Witterswil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2491,49.390243902,81,83,71.428571429,165,231,164,TRUE,"SO","Hauenstein-Ifenthal","Hauenstein-Ifenthal","Hauenstein-Ifenthal","Hauenstein-Ifenthal SO","Hauenstein-Ifenthal (SO)","Hauenstein-Ifenthal SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2492,43.775100402,109,140,66.490765172,252,379,249,TRUE,"SO","Kienberg","Kienberg","Kienberg","Kienberg SO","Kienberg (SO)","Kienberg SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2493,58.388520971,1058,754,61.254612546,1826,2981,1812,TRUE,"SO","Lostorf","Lostorf","Lostorf","Lostorf SO","Lostorf (SO)","Lostorf SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2495,55.547226387,741,593,56.365935919,1337,2372,1334,TRUE,"SO","Niedergösgen","Niedergösgen","Niedergösgen","Niedergösgen SO","Niedergösgen (SO)","Niedergösgen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2497,60.890493381,506,325,54.931417374,841,1531,831,TRUE,"SO","Obergösgen","Obergösgen","Obergösgen","Obergösgen SO","Obergösgen (SO)","Obergösgen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2499,,,,,,,,FALSE,"SO","Stüsslingen","Stüsslingen","Stüsslingen","Stüsslingen SO","Stüsslingen (SO)","Stüsslingen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2500,,,,,,,,FALSE,"SO","Trimbach","Trimbach","Trimbach","Trimbach SO","Trimbach (SO)","Trimbach SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2501,,,,,,,,FALSE,"SO","Winznau","Winznau","Winznau","Winznau SO","Winznau (SO)","Winznau SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2502,61.502347418,131,82,64.637681159,223,345,213,TRUE,"SO","Wisen SO","Wisen (SO)","Wisen SO","Wisen SO","Wisen (SO)","Wisen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2503,,,,,,,,FALSE,"SO","Erlinsbach SO","Erlinsbach (SO)","Erlinsbach SO","Erlinsbach SO","Erlinsbach (SO)","Erlinsbach SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2511,57.101449275,394,296,67.34496124,695,1032,690,TRUE,"SO","Aeschi SO","Aeschi (SO)","Aeschi SO","Aeschi SO","Aeschi (SO)","Aeschi SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2513,,,,,,,,FALSE,"SO","Biberist","Biberist","Biberist","Biberist SO","Biberist (SO)","Biberist SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2514,,,,,,,,FALSE,"SO","Bolken","Bolken","Bolken","Bolken SO","Bolken (SO)","Bolken SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2516,66.206896552,672,343,62.108433735,1031,1660,1015,TRUE,"SO","Deitingen","Deitingen","Deitingen","Deitingen SO","Deitingen (SO)","Deitingen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2517,,,,,,,,FALSE,"SO","Derendingen","Derendingen","Derendingen","Derendingen SO","Derendingen (SO)","Derendingen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2518,,,,,,,,FALSE,"SO","Etziken","Etziken","Etziken","Etziken SO","Etziken (SO)","Etziken SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2519,,,,,,,,FALSE,"SO","Gerlafingen","Gerlafingen","Gerlafingen","Gerlafingen SO","Gerlafingen (SO)","Gerlafingen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2520,,,,,,,,FALSE,"SO","Halten","Halten","Halten","Halten SO","Halten (SO)","Halten SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2523,57.787810384,256,187,68.549618321,449,655,443,TRUE,"SO","Horriwil","Horriwil","Horriwil","Horriwil SO","Horriwil (SO)","Horriwil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2524,67.032967033,61,30,78.448275862,91,116,91,TRUE,"SO","Hüniken","Hüniken","Hüniken","Hüniken SO","Hüniken (SO)","Hüniken SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2525,60.141093474,341,226,59.156378601,575,972,567,TRUE,"SO","Kriegstetten","Kriegstetten","Kriegstetten","Kriegstetten SO","Kriegstetten (SO)","Kriegstetten SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2526,,,,,,,,FALSE,"SO","Lohn-Ammannsegg","Lohn-Ammannsegg","Lohn-Ammannsegg","Lohn-Ammannsegg SO","Lohn-Ammannsegg (SO)","Lohn-Ammannsegg SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2527,,,,,,,,FALSE,"SO","Luterbach","Luterbach","Luterbach","Luterbach SO","Luterbach (SO)","Luterbach SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2528,56.647398844,294,225,57.836644592,524,906,519,TRUE,"SO","Obergerlafingen","Obergerlafingen","Obergerlafingen","Obergerlafingen SO","Obergerlafingen (SO)","Obergerlafingen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2529,67.375886525,285,138,66.304347826,427,644,423,TRUE,"SO","Oekingen","Oekingen","Oekingen","Oekingen SO","Oekingen (SO)","Oekingen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2530,,,,,,,,FALSE,"SO","Recherswil","Recherswil","Recherswil","Recherswil SO","Recherswil (SO)","Recherswil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2532,,,,,,,,FALSE,"SO","Subingen","Subingen","Subingen","Subingen SO","Subingen (SO)","Subingen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2534,,,,,,,,FALSE,"SO","Zuchwil","Zuchwil","Zuchwil","Zuchwil SO","Zuchwil (SO)","Zuchwil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2535,55.154639175,214,174,67.647058824,391,578,388,TRUE,"SO","Drei Höfe","Drei Höfe","Drei Höfe","Drei Höfe SO","Drei Höfe (SO)","Drei Höfe SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2541,69.047619048,87,39,77.300613497,126,163,126,TRUE,"SO","Balm bei Günsberg","Balm bei Günsberg","Balm bei Günsberg","Balm bei Günsberg SO","Balm bei Günsberg (SO)","Balm bei Günsberg SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2542,,,,,,,,FALSE,"SO","Bellach","Bellach","Bellach","Bellach SO","Bellach (SO)","Bellach SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2543,57.908565423,1102,801,55.950991832,1918,3428,1903,TRUE,"SO","Bettlach","Bettlach","Bettlach","Bettlach SO","Bettlach (SO)","Bettlach SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2544,66.485507246,367,185,71.688311688,552,770,552,TRUE,"SO","Feldbrunnen-St. Niklaus","Feldbrunnen-St. Niklaus","Feldbrunnen-St. Niklaus","Feldbrunnen-St. Niklaus SO","Feldbrunnen-St. Niklaus (SO)","Feldbrunnen-St. Niklaus SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2545,51.546391753,250,235,61.654135338,492,798,485,TRUE,"SO","Flumenthal","Flumenthal","Flumenthal","Flumenthal SO","Flumenthal (SO)","Flumenthal SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2546,,,,,,,,FALSE,"SO","Grenchen","Granges (SO)","Grenchen","Grenchen SO","Granges (SO)","Grenchen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2477,55.876685934,290,229,76.394849785,534,699,519,TRUE,"SO","Metzerlen-Mariastein","Metzerlen-Mariastein","Metzerlen-Mariastein","Metzerlen-Mariastein SO","Metzerlen-Mariastein (SO)","Metzerlen-Mariastein SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2548,,,,,,,,FALSE,"SO","Hubersdorf","Hubersdorf","Hubersdorf","Hubersdorf SO","Hubersdorf (SO)","Hubersdorf SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2549,65.217391304,15,8,65.714285714,23,35,23,TRUE,"SO","Kammersrohr","Kammersrohr","Kammersrohr","Kammersrohr SO","Kammersrohr (SO)","Kammersrohr SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2550,68.689477082,1064,485,59.162895928,1569,2652,1549,TRUE,"SO","Langendorf","Langendorf","Langendorf","Langendorf SO","Langendorf (SO)","Langendorf SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2551,60.470879802,488,319,67.412935323,813,1206,807,TRUE,"SO","Lommiswil","Lommiswil","Lommiswil","Lommiswil SO","Lommiswil (SO)","Lommiswil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2553,,,,,,,,FALSE,"SO","Oberdorf SO","Oberdorf (SO)","Oberdorf SO","Oberdorf SO","Oberdorf (SO)","Oberdorf SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2554,,,,,,,,FALSE,"SO","Riedholz","Riedholz","Riedholz","Riedholz SO","Riedholz (SO)","Riedholz SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2555,64.228723404,483,269,65.01283148,760,1169,752,TRUE,"SO","Rüttenen","Rüttenen","Rüttenen","Rüttenen SO","Rüttenen (SO)","Rüttenen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2556,,,,,,,,FALSE,"SO","Selzach","Selzach","Selzach","Selzach SO","Selzach (SO)","Selzach SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2571,45.987654321,149,175,59.780621572,327,547,324,TRUE,"SO","Boningen","Boningen","Boningen","Boningen SO","Boningen (SO)","Boningen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2572,56.268509378,570,443,54.259850905,1019,1878,1013,TRUE,"SO","Däniken","Däniken","Däniken","Däniken SO","Däniken (SO)","Däniken SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2573,,,,,,,,FALSE,"SO","Dulliken","Dulliken","Dulliken","Dulliken SO","Dulliken (SO)","Dulliken SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2574,53.608247423,52,45,53.296703297,97,182,97,TRUE,"SO","Eppenberg-Wöschnau","Eppenberg-Wöschnau","Eppenberg-Wöschnau","Eppenberg-Wöschnau SO","Eppenberg-Wöschnau (SO)","Eppenberg-Wöschnau SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2575,,,,,,,,FALSE,"SO","Fulenbach","Fulenbach","Fulenbach","Fulenbach SO","Fulenbach (SO)","Fulenbach SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2576,58.5,585,415,59.085580305,1008,1706,1000,TRUE,"SO","Gretzenbach","Gretzenbach","Gretzenbach","Gretzenbach SO","Gretzenbach (SO)","Gretzenbach SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2578,,,,,,,,FALSE,"SO","Gunzgen","Gunzgen","Gunzgen","Gunzgen SO","Gunzgen (SO)","Gunzgen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2579,,,,,,,,FALSE,"SO","Hägendorf","Hägendorf","Hägendorf","Hägendorf SO","Hägendorf (SO)","Hägendorf SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2580,,,,,,,,FALSE,"SO","Kappel SO","Kappel (SO)","Kappel SO","Kappel SO","Kappel (SO)","Kappel SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2581,,,,,,,,FALSE,"SO","Olten","Olten","Olten","Olten SO","Olten (SO)","Olten SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2582,,,,,,,,FALSE,"SO","Rickenbach SO","Rickenbach (SO)","Rickenbach SO","Rickenbach SO","Rickenbach (SO)","Rickenbach SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2583,58.413461538,729,519,48.256036796,1259,2609,1248,TRUE,"SO","Schönenwerd","Schönenwerd","Schönenwerd","Schönenwerd SO","Schönenwerd (SO)","Schönenwerd SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2584,,,,,,,,FALSE,"SO","Starrkirch-Wil","Starrkirch-Wil","Starrkirch-Wil","Starrkirch-Wil SO","Starrkirch-Wil (SO)","Starrkirch-Wil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2585,45.214521452,137,166,56.111111111,303,540,303,TRUE,"SO","Walterswil SO","Walterswil (SO)","Walterswil SO","Walterswil SO","Walterswil (SO)","Walterswil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2586,,,,,,,,FALSE,"SO","Wangen bei Olten","Wangen bei Olten","Wangen bei Olten","Wangen bei Olten SO","Wangen bei Olten (SO)","Wangen bei Olten SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2601,,,,,,,,FALSE,"SO","Solothurn","Soleure","Soletta","Solothurn SO","Soleure (SO)","Soletta SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2611,44.083526682,190,241,67.592592593,438,648,431,TRUE,"SO","Bärschwil","Bärschwil","Bärschwil","Bärschwil SO","Bärschwil (SO)","Bärschwil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2612,36.06557377,66,117,84.474885845,185,219,183,TRUE,"SO","Beinwil SO","Beinwil (SO)","Beinwil SO","Beinwil SO","Beinwil (SO)","Beinwil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2613,,,,,,,,FALSE,"SO","Breitenbach","Breitenbach","Breitenbach","Breitenbach SO","Breitenbach (SO)","Breitenbach SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2614,41.855873643,424,589,60.944976077,1019,1672,1013,TRUE,"SO","Büsserach","Büsserach","Büsserach","Büsserach SO","Büsserach (SO)","Büsserach SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2615,52.680652681,226,203,64.201183432,434,676,429,TRUE,"SO","Erschwil","Erschwil","Erschwil","Erschwil SO","Erschwil (SO)","Erschwil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2616,43.223443223,118,155,57.961783439,273,471,273,TRUE,"SO","Fehren","Fehren","Fehren","Fehren SO","Fehren (SO)","Fehren SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2617,47.317073171,97,108,52.417302799,206,393,205,TRUE,"SO","Grindel","Grindel","Grindel","Grindel SO","Grindel (SO)","Grindel SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2618,,,,,,,,FALSE,"SO","Himmelried","Himmelried","Himmelried","Himmelried SO","Himmelried (SO)","Himmelried SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2619,,,,,,,,FALSE,"SO","Kleinlützel","Kleinlützel","Kleinlützel","Kleinlützel SO","Kleinlützel (SO)","Kleinlützel SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2620,39.627659574,149,227,74.066797642,377,509,376,TRUE,"SO","Meltingen","Meltingen","Meltingen","Meltingen SO","Meltingen (SO)","Meltingen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2621,,,,,,,,FALSE,"SO","Nunningen","Nunningen","Nunningen","Nunningen SO","Nunningen (SO)","Nunningen SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2622,,,,,,,,FALSE,"SO","Zullwil","Zullwil","Zullwil","Zullwil SO","Zullwil (SO)","Zullwil SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
-11,2547,56.397306397,335,259,63.636363636,602,946,594,TRUE,"SO","Günsberg","Günsberg","Günsberg","Günsberg SO","Günsberg (SO)","Günsberg SO","Solothurn","Soleure","Soletta",55.576729066,FALSE,FALSE
+11,2402,56.70995671,393,300,62.69058296,699,1115,693,TRUE,"SO","Härkingen","Härkingen","Härkingen","Härkingen SO","Härkingen (SO)","Härkingen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2403,52.603036876,485,437,67.197682839,928,1381,922,TRUE,"SO","Kestenholz","Kestenholz","Kestenholz","Kestenholz SO","Kestenholz (SO)","Kestenholz SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2404,,,,,,,,FALSE,"SO","Neuendorf","Neuendorf","Neuendorf","Neuendorf SO","Neuendorf (SO)","Neuendorf SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2401,,,,,,,,FALSE,"SO","Egerkingen","Egerkingen","Egerkingen","Egerkingen SO","Egerkingen (SO)","Egerkingen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2406,,,,,,,,FALSE,"SO","Oberbuchsiten","Oberbuchsiten","Oberbuchsiten","Oberbuchsiten SO","Oberbuchsiten (SO)","Oberbuchsiten SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2407,,,,,,,,FALSE,"SO","Oensingen","Oensingen","Oensingen","Oensingen SO","Oensingen (SO)","Oensingen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2408,53.333333333,552,483,60.803727432,1044,1717,1035,TRUE,"SO","Wolfwil","Wolfwil","Wolfwil","Wolfwil SO","Wolfwil (SO)","Wolfwil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2421,59.826589595,207,139,73.460721868,346,471,346,TRUE,"SO","Aedermannsdorf","Aedermannsdorf","Aedermannsdorf","Aedermannsdorf SO","Aedermannsdorf (SO)","Aedermannsdorf SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2422,56.661991585,1212,927,61.22971819,2151,3513,2139,TRUE,"SO","Balsthal","Balsthal","Balsthal","Balsthal SO","Balsthal (SO)","Balsthal SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2424,48.920863309,136,142,65.148063781,286,439,278,TRUE,"SO","Herbetswil","Herbetswil","Herbetswil","Herbetswil SO","Herbetswil (SO)","Herbetswil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2425,37.620578778,117,194,58.070500928,313,539,311,TRUE,"SO","Holderbank SO","Holderbank (SO)","Holderbank SO","Holderbank SO","Holderbank (SO)","Holderbank SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2426,,,,,,,,FALSE,"SO","Laupersdorf","Laupersdorf","Laupersdorf","Laupersdorf SO","Laupersdorf (SO)","Laupersdorf SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2427,49.529780564,316,322,61.346153846,638,1040,638,TRUE,"SO","Matzendorf","Matzendorf","Matzendorf","Matzendorf SO","Matzendorf (SO)","Matzendorf SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2428,41.230769231,536,764,70.25862069,1304,1856,1300,TRUE,"SO","Mümliswil-Ramiswil","Mümliswil-Ramiswil","Mümliswil-Ramiswil","Mümliswil-Ramiswil SO","Mümliswil-Ramiswil (SO)","Mümliswil-Ramiswil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2430,50.871080139,292,282,65.310734463,578,885,574,TRUE,"SO","Welschenrohr-Gänsbrunnen","Welschenrohr-Gänsbrunnen","Welschenrohr-Gänsbrunnen","Welschenrohr-Gänsbrunnen SO","Welschenrohr-Gänsbrunnen (SO)","Welschenrohr-Gänsbrunnen (SO)","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2445,61.70212766,116,72,72.075471698,191,265,188,TRUE,"SO","Biezwil","Biezwil","Biezwil","Biezwil SO","Biezwil (SO)","Biezwil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2405,,,,,,,,FALSE,"SO","Niederbuchsiten","Niederbuchsiten","Niederbuchsiten","Niederbuchsiten SO","Niederbuchsiten (SO)","Niederbuchsiten SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2456,68.527918782,135,62,71.841155235,199,277,197,TRUE,"SO","Lüterswil-Gächliwil","Lüterswil-Gächliwil","Lüterswil-Gächliwil","Lüterswil-Gächliwil SO","Lüterswil-Gächliwil (SO)","Lüterswil-Gächliwil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2457,,,,,,,,FALSE,"SO","Messen","Messen","Messen","Messen SO","Messen (SO)","Messen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2461,52.358490566,333,303,71.809100999,647,901,636,TRUE,"SO","Schnottwil","Schnottwil","Schnottwil","Schnottwil SO","Schnottwil (SO)","Schnottwil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2463,34.090909091,45,87,72.928176796,132,181,132,TRUE,"SO","Unterramsern","Unterramsern","Unterramsern","Unterramsern SO","Unterramsern (SO)","Unterramsern SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2464,54.561403509,311,259,70.746634027,578,817,570,TRUE,"SO","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen SO","Lüsslingen-Nennigkofen (SO)","Lüsslingen-Nennigkofen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2465,,,,,,,,FALSE,"SO","Buchegg","Buchegg","Buchegg","Buchegg SO","Buchegg (SO)","Buchegg SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2471,52.81124498,263,235,60.359281437,504,835,498,TRUE,"SO","Bättwil","Bättwil","Bättwil","Bättwil SO","Bättwil (SO)","Bättwil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2472,54.545454545,252,210,62.216288385,466,749,462,TRUE,"SO","Büren SO","Büren (SO)","Büren SO","Büren SO","Büren (SO)","Büren SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2473,,,,,,,,FALSE,"SO","Dornach","Dornach","Dornach","Dornach SO","Dornach (SO)","Dornach SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2474,44.522144522,191,238,71.428571429,435,609,429,TRUE,"SO","Gempen","Gempen","Gempen","Gempen SO","Gempen (SO)","Gempen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2475,51.037344398,369,354,76.458333333,734,960,723,TRUE,"SO","Hochwald","Hochwald","Hochwald","Hochwald SO","Hochwald (SO)","Hochwald SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2476,,,,,,,,FALSE,"SO","Hofstetten-Flüh","Hofstetten-Flüh","Hofstetten-Flüh","Hofstetten-Flüh SO","Hofstetten-Flüh (SO)","Hofstetten-Flüh SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2455,60.827250608,250,161,58.923512748,416,706,411,TRUE,"SO","Lüterkofen-Ichertswil","Lüterkofen-Ichertswil","Lüterkofen-Ichertswil","Lüterkofen-Ichertswil SO","Lüterkofen-Ichertswil (SO)","Lüterkofen-Ichertswil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2478,,,,,,,,FALSE,"SO","Nuglar-St. Pantaleon","Nuglar-St. Pantaleon","Nuglar-St. Pantaleon","Nuglar-St. Pantaleon SO","Nuglar-St. Pantaleon (SO)","Nuglar-St. Pantaleon SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2479,61.904761905,468,288,73.866923819,766,1037,756,TRUE,"SO","Rodersdorf","Rodersdorf","Rodersdorf","Rodersdorf SO","Rodersdorf (SO)","Rodersdorf SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2480,,,,,,,,FALSE,"SO","Seewen","Seewen","Seewen","Seewen SO","Seewen (SO)","Seewen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2481,58.420268256,392,279,66.895200784,683,1021,671,TRUE,"SO","Witterswil","Witterswil","Witterswil","Witterswil SO","Witterswil (SO)","Witterswil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2491,49.390243902,81,83,71.428571429,165,231,164,TRUE,"SO","Hauenstein-Ifenthal","Hauenstein-Ifenthal","Hauenstein-Ifenthal","Hauenstein-Ifenthal SO","Hauenstein-Ifenthal (SO)","Hauenstein-Ifenthal SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2492,43.775100402,109,140,66.490765172,252,379,249,TRUE,"SO","Kienberg","Kienberg","Kienberg","Kienberg SO","Kienberg (SO)","Kienberg SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2493,58.388520971,1058,754,61.254612546,1826,2981,1812,TRUE,"SO","Lostorf","Lostorf","Lostorf","Lostorf SO","Lostorf (SO)","Lostorf SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2495,55.547226387,741,593,56.365935919,1337,2372,1334,TRUE,"SO","Niedergösgen","Niedergösgen","Niedergösgen","Niedergösgen SO","Niedergösgen (SO)","Niedergösgen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2497,60.890493381,506,325,54.931417374,841,1531,831,TRUE,"SO","Obergösgen","Obergösgen","Obergösgen","Obergösgen SO","Obergösgen (SO)","Obergösgen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2499,,,,,,,,FALSE,"SO","Stüsslingen","Stüsslingen","Stüsslingen","Stüsslingen SO","Stüsslingen (SO)","Stüsslingen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2500,,,,,,,,FALSE,"SO","Trimbach","Trimbach","Trimbach","Trimbach SO","Trimbach (SO)","Trimbach SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2501,,,,,,,,FALSE,"SO","Winznau","Winznau","Winznau","Winznau SO","Winznau (SO)","Winznau SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2502,61.502347418,131,82,64.637681159,223,345,213,TRUE,"SO","Wisen SO","Wisen (SO)","Wisen SO","Wisen SO","Wisen (SO)","Wisen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2503,,,,,,,,FALSE,"SO","Erlinsbach SO","Erlinsbach (SO)","Erlinsbach SO","Erlinsbach SO","Erlinsbach (SO)","Erlinsbach SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2511,57.101449275,394,296,67.34496124,695,1032,690,TRUE,"SO","Aeschi SO","Aeschi (SO)","Aeschi SO","Aeschi SO","Aeschi (SO)","Aeschi SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2513,,,,,,,,FALSE,"SO","Biberist","Biberist","Biberist","Biberist SO","Biberist (SO)","Biberist SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2514,,,,,,,,FALSE,"SO","Bolken","Bolken","Bolken","Bolken SO","Bolken (SO)","Bolken SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2516,66.206896552,672,343,62.108433735,1031,1660,1015,TRUE,"SO","Deitingen","Deitingen","Deitingen","Deitingen SO","Deitingen (SO)","Deitingen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2517,,,,,,,,FALSE,"SO","Derendingen","Derendingen","Derendingen","Derendingen SO","Derendingen (SO)","Derendingen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2518,54.484304933,243,203,60.704607046,448,738,446,TRUE,"SO","Etziken","Etziken","Etziken","Etziken SO","Etziken (SO)","Etziken SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2519,,,,,,,,FALSE,"SO","Gerlafingen","Gerlafingen","Gerlafingen","Gerlafingen SO","Gerlafingen (SO)","Gerlafingen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2520,,,,,,,,FALSE,"SO","Halten","Halten","Halten","Halten SO","Halten (SO)","Halten SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2523,57.787810384,256,187,68.549618321,449,655,443,TRUE,"SO","Horriwil","Horriwil","Horriwil","Horriwil SO","Horriwil (SO)","Horriwil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2524,67.032967033,61,30,78.448275862,91,116,91,TRUE,"SO","Hüniken","Hüniken","Hüniken","Hüniken SO","Hüniken (SO)","Hüniken SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2525,60.141093474,341,226,59.156378601,575,972,567,TRUE,"SO","Kriegstetten","Kriegstetten","Kriegstetten","Kriegstetten SO","Kriegstetten (SO)","Kriegstetten SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2526,,,,,,,,FALSE,"SO","Lohn-Ammannsegg","Lohn-Ammannsegg","Lohn-Ammannsegg","Lohn-Ammannsegg SO","Lohn-Ammannsegg (SO)","Lohn-Ammannsegg SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2527,,,,,,,,FALSE,"SO","Luterbach","Luterbach","Luterbach","Luterbach SO","Luterbach (SO)","Luterbach SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2528,56.647398844,294,225,57.836644592,524,906,519,TRUE,"SO","Obergerlafingen","Obergerlafingen","Obergerlafingen","Obergerlafingen SO","Obergerlafingen (SO)","Obergerlafingen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2529,67.375886525,285,138,66.304347826,427,644,423,TRUE,"SO","Oekingen","Oekingen","Oekingen","Oekingen SO","Oekingen (SO)","Oekingen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2530,,,,,,,,FALSE,"SO","Recherswil","Recherswil","Recherswil","Recherswil SO","Recherswil (SO)","Recherswil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2532,,,,,,,,FALSE,"SO","Subingen","Subingen","Subingen","Subingen SO","Subingen (SO)","Subingen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2534,,,,,,,,FALSE,"SO","Zuchwil","Zuchwil","Zuchwil","Zuchwil SO","Zuchwil (SO)","Zuchwil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2535,55.154639175,214,174,67.647058824,391,578,388,TRUE,"SO","Drei Höfe","Drei Höfe","Drei Höfe","Drei Höfe SO","Drei Höfe (SO)","Drei Höfe SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2541,69.047619048,87,39,77.300613497,126,163,126,TRUE,"SO","Balm bei Günsberg","Balm bei Günsberg","Balm bei Günsberg","Balm bei Günsberg SO","Balm bei Günsberg (SO)","Balm bei Günsberg SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2542,61.926091825,1106,680,56.207111666,1802,3206,1786,TRUE,"SO","Bellach","Bellach","Bellach","Bellach SO","Bellach (SO)","Bellach SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2543,57.908565423,1102,801,55.950991832,1918,3428,1903,TRUE,"SO","Bettlach","Bettlach","Bettlach","Bettlach SO","Bettlach (SO)","Bettlach SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2544,66.485507246,367,185,71.688311688,552,770,552,TRUE,"SO","Feldbrunnen-St. Niklaus","Feldbrunnen-St. Niklaus","Feldbrunnen-St. Niklaus","Feldbrunnen-St. Niklaus SO","Feldbrunnen-St. Niklaus (SO)","Feldbrunnen-St. Niklaus SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2545,51.546391753,250,235,61.654135338,492,798,485,TRUE,"SO","Flumenthal","Flumenthal","Flumenthal","Flumenthal SO","Flumenthal (SO)","Flumenthal SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2546,,,,,,,,FALSE,"SO","Grenchen","Granges (SO)","Grenchen","Grenchen SO","Granges (SO)","Grenchen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2477,55.876685934,290,229,76.394849785,534,699,519,TRUE,"SO","Metzerlen-Mariastein","Metzerlen-Mariastein","Metzerlen-Mariastein","Metzerlen-Mariastein SO","Metzerlen-Mariastein (SO)","Metzerlen-Mariastein SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2548,,,,,,,,FALSE,"SO","Hubersdorf","Hubersdorf","Hubersdorf","Hubersdorf SO","Hubersdorf (SO)","Hubersdorf SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2549,65.217391304,15,8,65.714285714,23,35,23,TRUE,"SO","Kammersrohr","Kammersrohr","Kammersrohr","Kammersrohr SO","Kammersrohr (SO)","Kammersrohr SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2550,68.689477082,1064,485,59.162895928,1569,2652,1549,TRUE,"SO","Langendorf","Langendorf","Langendorf","Langendorf SO","Langendorf (SO)","Langendorf SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2551,60.470879802,488,319,67.412935323,813,1206,807,TRUE,"SO","Lommiswil","Lommiswil","Lommiswil","Lommiswil SO","Lommiswil (SO)","Lommiswil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2553,,,,,,,,FALSE,"SO","Oberdorf SO","Oberdorf (SO)","Oberdorf SO","Oberdorf SO","Oberdorf (SO)","Oberdorf SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2554,,,,,,,,FALSE,"SO","Riedholz","Riedholz","Riedholz","Riedholz SO","Riedholz (SO)","Riedholz SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2555,64.228723404,483,269,65.01283148,760,1169,752,TRUE,"SO","Rüttenen","Rüttenen","Rüttenen","Rüttenen SO","Rüttenen (SO)","Rüttenen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2556,,,,,,,,FALSE,"SO","Selzach","Selzach","Selzach","Selzach SO","Selzach (SO)","Selzach SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2571,45.987654321,149,175,59.780621572,327,547,324,TRUE,"SO","Boningen","Boningen","Boningen","Boningen SO","Boningen (SO)","Boningen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2572,56.268509378,570,443,54.259850905,1019,1878,1013,TRUE,"SO","Däniken","Däniken","Däniken","Däniken SO","Däniken (SO)","Däniken SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2573,,,,,,,,FALSE,"SO","Dulliken","Dulliken","Dulliken","Dulliken SO","Dulliken (SO)","Dulliken SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2574,53.608247423,52,45,53.296703297,97,182,97,TRUE,"SO","Eppenberg-Wöschnau","Eppenberg-Wöschnau","Eppenberg-Wöschnau","Eppenberg-Wöschnau SO","Eppenberg-Wöschnau (SO)","Eppenberg-Wöschnau SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2575,,,,,,,,FALSE,"SO","Fulenbach","Fulenbach","Fulenbach","Fulenbach SO","Fulenbach (SO)","Fulenbach SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2576,58.5,585,415,59.085580305,1008,1706,1000,TRUE,"SO","Gretzenbach","Gretzenbach","Gretzenbach","Gretzenbach SO","Gretzenbach (SO)","Gretzenbach SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2578,,,,,,,,FALSE,"SO","Gunzgen","Gunzgen","Gunzgen","Gunzgen SO","Gunzgen (SO)","Gunzgen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2579,,,,,,,,FALSE,"SO","Hägendorf","Hägendorf","Hägendorf","Hägendorf SO","Hägendorf (SO)","Hägendorf SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2580,,,,,,,,FALSE,"SO","Kappel SO","Kappel (SO)","Kappel SO","Kappel SO","Kappel (SO)","Kappel SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2581,,,,,,,,FALSE,"SO","Olten","Olten","Olten","Olten SO","Olten (SO)","Olten SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2582,54.830917874,227,187,56.462585034,415,735,414,TRUE,"SO","Rickenbach SO","Rickenbach (SO)","Rickenbach SO","Rickenbach SO","Rickenbach (SO)","Rickenbach SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2583,58.413461538,729,519,48.256036796,1259,2609,1248,TRUE,"SO","Schönenwerd","Schönenwerd","Schönenwerd","Schönenwerd SO","Schönenwerd (SO)","Schönenwerd SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2584,70.580645161,547,228,63.311688312,780,1232,775,TRUE,"SO","Starrkirch-Wil","Starrkirch-Wil","Starrkirch-Wil","Starrkirch-Wil SO","Starrkirch-Wil (SO)","Starrkirch-Wil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2585,45.214521452,137,166,56.111111111,303,540,303,TRUE,"SO","Walterswil SO","Walterswil (SO)","Walterswil SO","Walterswil SO","Walterswil (SO)","Walterswil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2586,,,,,,,,FALSE,"SO","Wangen bei Olten","Wangen bei Olten","Wangen bei Olten","Wangen bei Olten SO","Wangen bei Olten (SO)","Wangen bei Olten SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2601,,,,,,,,FALSE,"SO","Solothurn","Soleure","Soletta","Solothurn SO","Soleure (SO)","Soletta SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2611,44.083526682,190,241,67.592592593,438,648,431,TRUE,"SO","Bärschwil","Bärschwil","Bärschwil","Bärschwil SO","Bärschwil (SO)","Bärschwil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2612,36.06557377,66,117,84.474885845,185,219,183,TRUE,"SO","Beinwil SO","Beinwil (SO)","Beinwil SO","Beinwil SO","Beinwil (SO)","Beinwil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2613,,,,,,,,FALSE,"SO","Breitenbach","Breitenbach","Breitenbach","Breitenbach SO","Breitenbach (SO)","Breitenbach SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2614,41.855873643,424,589,60.944976077,1019,1672,1013,TRUE,"SO","Büsserach","Büsserach","Büsserach","Büsserach SO","Büsserach (SO)","Büsserach SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2615,52.680652681,226,203,64.201183432,434,676,429,TRUE,"SO","Erschwil","Erschwil","Erschwil","Erschwil SO","Erschwil (SO)","Erschwil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2616,43.223443223,118,155,57.961783439,273,471,273,TRUE,"SO","Fehren","Fehren","Fehren","Fehren SO","Fehren (SO)","Fehren SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2617,47.317073171,97,108,52.417302799,206,393,205,TRUE,"SO","Grindel","Grindel","Grindel","Grindel SO","Grindel (SO)","Grindel SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2618,,,,,,,,FALSE,"SO","Himmelried","Himmelried","Himmelried","Himmelried SO","Himmelried (SO)","Himmelried SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2619,,,,,,,,FALSE,"SO","Kleinlützel","Kleinlützel","Kleinlützel","Kleinlützel SO","Kleinlützel (SO)","Kleinlützel SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2620,39.627659574,149,227,74.066797642,377,509,376,TRUE,"SO","Meltingen","Meltingen","Meltingen","Meltingen SO","Meltingen (SO)","Meltingen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2621,,,,,,,,FALSE,"SO","Nunningen","Nunningen","Nunningen","Nunningen SO","Nunningen (SO)","Nunningen SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2622,,,,,,,,FALSE,"SO","Zullwil","Zullwil","Zullwil","Zullwil SO","Zullwil (SO)","Zullwil SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
+11,2547,56.397306397,335,259,63.636363636,602,946,594,TRUE,"SO","Günsberg","Günsberg","Günsberg","Günsberg SO","Günsberg (SO)","Günsberg SO","Solothurn","Soleure","Soletta",56.140438,FALSE,FALSE
 12,2701,69.334980198,35365,15641,57.239049854,52194,91186,51006,FALSE,"BS","Basel","Bâle","Basilea","Basel BS","Bâle (BS)","Basilea BS","Basel-Stadt","Bâle-Ville","Basilea Città",69.139245812,FALSE,FALSE
 12,2703,66.432445759,5389,2723,63.686635945,8292,13020,8112,FALSE,"BS","Riehen","Riehen","Riehen","Riehen BS","Riehen (BS)","Riehen BS","Basel-Stadt","Bâle-Ville","Basilea Città",69.139245812,FALSE,FALSE
 12,2702,63.481953291,299,172,65.924895688,474,719,471,FALSE,"BS","Bettingen","Bettingen","Bettingen","Bettingen BS","Bettingen (BS)","Bettingen BS","Basel-Stadt","Bâle-Ville","Basilea Città",69.139245812,FALSE,FALSE
@@ -1109,107 +1109,107 @@
 17,3443,,,,,,,,FALSE,"SG","Gossau SG","Gossau (SG)","Gossau SG","Gossau SG","Gossau (SG)","Gossau SG","St. Gallen","Saint-Gall","San Gallo",46.632540824,FALSE,FALSE
 17,3444,,,,,,,,FALSE,"SG","Waldkirch","Waldkirch","Waldkirch","Waldkirch SG","Waldkirch (SG)","Waldkirch SG","St. Gallen","Saint-Gall","San Gallo",46.632540824,FALSE,FALSE
 17,3405,,,,,,,,FALSE,"SG","Jonschwil","Jonschwil","Jonschwil","Jonschwil SG","Jonschwil (SG)","Jonschwil SG","St. Gallen","Saint-Gall","San Gallo",46.632540824,FALSE,FALSE
-18,3506,,,,,,,,FALSE,"GR","Vaz/Obervaz","Vaz/Obervaz","Vaz/Obervaz","Vaz/Obervaz GR","Vaz/Obervaz (GR)","Vaz/Obervaz GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3513,56.097560976,138,108,61.290322581,247,403,246,TRUE,"GR","Lantsch/Lenz","Lantsch/Lenz","Lantsch/Lenz","Lantsch/Lenz GR","Lantsch/Lenz (GR)","Lantsch/Lenz GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3514,52.173913043,60,55,65.168539326,116,178,115,TRUE,"GR","Schmitten GR","Schmitten (GR)","Schmitten GR","Schmitten GR","Schmitten (GR)","Schmitten GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3543,57.473481196,596,441,60.495216657,1075,1777,1037,TRUE,"GR","Surses","Surses","Surses","Surses GR","Surses (GR)","Surses GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3544,62.583518931,281,168,68.476621418,454,663,449,TRUE,"GR","Bergün Filisur","Bergün Filisur","Bergün Filisur","Bergün Filisur GR","Bergün Filisur (GR)","Bergün Filisur GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3551,51.882845188,248,230,55.542986425,491,884,478,TRUE,"GR","Brusio","Brusio","Brusio","Brusio GR","Brusio (GR)","Brusio GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3561,63.665594855,990,565,57.624686042,1606,2787,1555,TRUE,"GR","Poschiavo","Poschiavo","Poschiavo","Poschiavo GR","Poschiavo (GR)","Poschiavo GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3572,61.538461538,192,120,68.240343348,318,466,312,TRUE,"GR","Falera","Falera","Falera","Falera GR","Falera (GR)","Falera GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3575,,,,,,,,FALSE,"GR","Laax","Laax","Laax","Laax GR","Laax (GR)","Laax GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3581,65.045592705,214,115,59.502664298,335,563,329,TRUE,"GR","Sagogn","Sagogn","Sagogn","Sagogn GR","Sagogn (GR)","Sagogn GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3582,53.301886792,113,99,53.071253071,216,407,212,TRUE,"GR","Schluein","Schluein","Schluein","Schluein GR","Schluein (GR)","Schluein GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3603,,,,,,,,FALSE,"GR","Vals","Vals","Vals","Vals GR","Vals (GR)","Vals GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3618,,,,,,,,FALSE,"GR","Lumnezia","Lumnezia","Lumnezia","Lumnezia GR","Lumnezia (GR)","Lumnezia GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3619,,,,,,,,FALSE,"GR","Ilanz/Glion","Ilanz/Glion","Ilanz/Glion","Ilanz/Glion GR","Ilanz/Glion (GR)","Ilanz/Glion GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3633,42.592592593,69,93,65.873015873,166,252,162,TRUE,"GR","Fürstenau","Fürstenau","Fürstenau","Fürstenau GR","Fürstenau (GR)","Fürstenau GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3542,51.766784452,293,273,59.423274974,577,971,566,TRUE,"GR","Albula/Alvra","Albula/Alvra","Albula/Alvra","Albula/Alvra GR","Albula/Alvra (GR)","Albula/Alvra GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3638,52.843601896,223,199,66.156202144,432,653,422,TRUE,"GR","Scharans","Scharans","Scharans","Scharans GR","Scharans (GR)","Scharans GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3640,54.213483146,193,163,54.954954955,366,666,356,TRUE,"GR","Sils im Domleschg","Sils im Domleschg","Sils im Domleschg","Sils im Domleschg GR","Sils im Domleschg (GR)","Sils im Domleschg GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3661,48.128342246,450,485,57.383966245,952,1659,935,TRUE,"GR","Cazis","Cazis","Cazis","Cazis GR","Cazis (GR)","Cazis GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3662,45.394736842,69,83,81.28342246,152,187,152,TRUE,"GR","Flerden","Flerden","Flerden","Flerden GR","Flerden (GR)","Flerden GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3663,55.2,138,112,70.027247956,257,367,250,TRUE,"GR","Masein","Masein","Masein","Masein GR","Masein (GR)","Masein GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3668,,,,,,,,FALSE,"GR","Thusis","Thusis","Thusis","Thusis GR","Thusis (GR)","Thusis GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3669,39.08045977,34,53,81.481481481,88,108,87,TRUE,"GR","Tschappina","Tschappina","Tschappina","Tschappina GR","Tschappina (GR)","Tschappina GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3670,59.405940594,60,41,86.776859504,105,121,101,TRUE,"GR","Urmein","Urmein","Urmein","Urmein GR","Urmein (GR)","Urmein GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3672,,,,,,,,FALSE,"GR","Safiental","Safiental","Safiental","Safiental GR","Safiental (GR)","Safiental GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3673,,,,,,,,FALSE,"GR","Domleschg","Domleschg","Domleschg","Domleschg GR","Domleschg (GR)","Domleschg GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3681,39.361702128,37,57,70.289855072,97,138,94,TRUE,"GR","Avers","Avers","Avers","Avers GR","Avers (GR)","Avers GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3695,69.863013699,51,22,73.267326733,74,101,73,TRUE,"GR","Sufers","Sufers","Sufers","Sufers GR","Sufers (GR)","Sufers GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3637,45.390070922,64,77,64.976958525,141,217,141,TRUE,"GR","Rothenbrunnen","Rothenbrunnen","Rothenbrunnen","Rothenbrunnen GR","Rothenbrunnen (GR)","Rothenbrunnen GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3711,30.769230769,8,18,64.285714286,27,42,26,TRUE,"GR","Rongellen","Rongellen","Rongellen","Rongellen GR","Rongellen (GR)","Rongellen GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3712,53.225806452,99,87,66.315789474,189,285,186,TRUE,"GR","Zillis-Reischen","Zillis-Reischen","Zillis-Reischen","Zillis-Reischen GR","Zillis-Reischen (GR)","Zillis-Reischen GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3713,,,,,,,,FALSE,"GR","Ferrera","Ferrera","Ferrera","Ferrera GR","Ferrera (GR)","Ferrera GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3714,58.544303797,185,131,67.299578059,319,474,316,TRUE,"GR","Rheinwald","Rheinwald","Rheinwald","Rheinwald GR","Rheinwald (GR)","Rheinwald GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3715,48.780487805,100,105,71.186440678,210,295,205,TRUE,"GR","Muntogna da Schons","Muntogna da Schons","Muntogna da Schons","Muntogna da Schons GR","Muntogna da Schons (GR)","Muntogna da Schons GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3721,59.81173063,826,555,58.147229115,1406,2418,1381,TRUE,"GR","Bonaduz","Bonaduz","Bonaduz","Bonaduz GR","Bonaduz (GR)","Bonaduz GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3722,63.549252587,1658,951,51.985981308,2670,5136,2609,TRUE,"GR","Domat/Ems","Domat/Ems","Domat/Ems","Domat/Ems GR","Domat/Ems (GR)","Domat/Ems GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3723,56.089193825,327,256,58.939096267,600,1018,583,TRUE,"GR","Rhäzüns","Rhäzüns","Rhäzüns","Rhäzüns GR","Rhäzüns (GR)","Rhäzüns GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3731,63.220494053,691,402,60.216802168,1111,1845,1093,TRUE,"GR","Felsberg","Felsberg","Felsberg","Felsberg GR","Felsberg (GR)","Felsberg GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3732,61.464968153,772,484,66.838576586,1296,1939,1256,TRUE,"GR","Flims","Flims","Flims","Flims GR","Flims (GR)","Flims GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3733,54.814814815,296,244,61.952861953,552,891,540,TRUE,"GR","Tamins","Tamins","Tamins","Tamins GR","Tamins (GR)","Tamins GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3734,63.100137174,460,269,68.927589368,752,1091,729,TRUE,"GR","Trin","Trin","Trin","Trin GR","Trin (GR)","Trin GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3746,55.056179775,392,320,66.424682396,732,1102,712,TRUE,"GR","Zernez","Zernez","Zernez","Zernez GR","Zernez (GR)","Zernez GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3752,34.259259259,111,213,64.940239044,326,502,324,TRUE,"GR","Samnaun","Samnaun","Samnaun","Samnaun GR","Samnaun (GR)","Samnaun GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3762,57.982767359,1144,829,62.472885033,2016,3227,1973,TRUE,"GR","Scuol","Scuol","Scuol","Scuol GR","Scuol (GR)","Scuol GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3764,48.243559719,206,221,64.117647059,436,680,427,TRUE,"GR","Valsot","Valsot","Valsot","Valsot GR","Valsot (GR)","Valsot GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3781,60.586319218,186,121,69.81981982,310,444,307,TRUE,"GR","Bever","Bever","Bever","Bever GR","Bever (GR)","Bever GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3782,63.34519573,356,206,59.733606557,583,976,562,TRUE,"GR","Celerina/Schlarigna","Celerina/Schlarigna","Celerina/Schlarigna","Celerina/Schlarigna GR","Celerina/Schlarigna (GR)","Celerina/Schlarigna GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3783,53.465346535,54,47,71.724137931,104,145,101,TRUE,"GR","Madulain","Madulain","Madulain","Madulain GR","Madulain (GR)","Madulain GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3784,61.923583663,470,289,61.889511609,773,1249,759,TRUE,"GR","Pontresina","Pontresina","Pontresina","Pontresina GR","Pontresina (GR)","Pontresina GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3785,42.379182156,114,155,57.411273486,275,479,269,TRUE,"GR","La Punt-Chamues-ch","La Punt-Chamues-ch","La Punt-Chamues-ch","La Punt-Chamues-ch GR","La Punt-Chamues-ch (GR)","La Punt-Chamues-ch GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3786,57.516891892,681,503,62.231320368,1216,1954,1184,TRUE,"GR","Samedan","Samedan","Samedan","Samedan GR","Samedan (GR)","Samedan GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3787,60.593220339,858,558,55.001887505,1457,2649,1416,TRUE,"GR","St. Moritz","St. Moritz","St. Moritz","St. Moritz GR","St. Moritz (GR)","St. Moritz GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3788,,,,,,,,FALSE,"GR","S-chanf","S-chanf","S-chanf","S-chanf GR","S-chanf (GR)","S-chanf GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3789,63.909774436,170,96,61.073825503,273,447,266,TRUE,"GR","Sils im Engadin/Segl","Sils im Engadin/Segl","Sils im Engadin/Segl","Sils im Engadin/Segl GR","Sils im Engadin/Segl (GR)","Sils im Engadin/Segl GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3790,59.128065395,217,150,55.869242199,376,673,367,TRUE,"GR","Silvaplana","Silvaplana","Silvaplana","Silvaplana GR","Silvaplana (GR)","Silvaplana GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3791,62.111801242,300,183,67.724137931,491,725,483,TRUE,"GR","Zuoz","Zuoz","Zuoz","Zuoz GR","Zuoz (GR)","Zuoz GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3792,59.039548023,418,290,58.556366586,722,1233,708,TRUE,"GR","Bregaglia","Bregaglia","Bregaglia","Bregaglia GR","Bregaglia (GR)","Bregaglia GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3804,74.193548387,23,8,42.666666667,32,75,31,TRUE,"GR","Buseno","Buseno","Buseno","Buseno GR","Buseno (GR)","Buseno GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3805,57.534246575,84,62,53.405017921,149,279,146,TRUE,"GR","Castaneda","Castaneda","Castaneda","Castaneda GR","Castaneda (GR)","Castaneda GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3808,,,,,,,,FALSE,"GR","Rossa","Rossa","Rossa","Rossa GR","Rossa (GR)","Rossa GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3810,63.461538462,33,19,60.204081633,59,98,52,TRUE,"GR","Santa Maria in Calanca","Santa Maria in Calanca","Santa Maria in Calanca","Santa Maria in Calanca GR","Santa Maria in Calanca (GR)","Santa Maria in Calanca GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3821,58.724832215,175,123,53.253424658,311,584,298,TRUE,"GR","Lostallo","Lostallo","Lostallo","Lostallo GR","Lostallo (GR)","Lostallo GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3822,61.78343949,291,180,50.676378772,487,961,471,TRUE,"GR","Mesocco","Mesocco","Mesocco","Mesocco GR","Mesocco (GR)","Mesocco GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3823,58.865248227,83,58,58.536585366,144,246,141,TRUE,"GR","Soazza","Soazza","Soazza","Soazza GR","Soazza (GR)","Soazza GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3831,57.037037037,77,58,38.541666667,148,384,135,TRUE,"GR","Cama","Cama","Cama","Cama GR","Cama (GR)","Cama GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3832,62.325581395,268,162,50.054171181,462,923,430,TRUE,"GR","Grono","Grono","Grono","Grono GR","Grono (GR)","Grono GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3834,65.503355705,488,257,47.670901391,788,1653,745,TRUE,"GR","Roveredo GR","Roveredo (GR)","Roveredo GR","Roveredo GR","Roveredo (GR)","Roveredo GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3835,,,,,,,,FALSE,"GR","San Vittore","San Vittore","San Vittore","San Vittore GR","San Vittore (GR)","San Vittore GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3701,57.416267943,240,178,63.87283237,442,692,418,TRUE,"GR","Andeer","Andeer","Andeer","Andeer GR","Andeer (GR)","Andeer GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3847,53.169469599,411,362,65.359477124,800,1224,773,TRUE,"GR","Val Müstair","Val Müstair","Val Müstair","Val Müstair GR","Val Müstair (GR)","Val Müstair GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3851,,,,,,,,FALSE,"GR","Davos","Davos","Davos","Davos GR","Davos (GR)","Davos GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3861,56.418918919,167,129,63.674321503,305,479,296,TRUE,"GR","Fideris","Fideris","Fideris","Fideris GR","Fideris (GR)","Fideris GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3862,36.134453782,43,76,72.121212121,119,165,119,TRUE,"GR","Furna","Furna","Furna","Furna GR","Furna (GR)","Furna GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3863,41.423357664,227,321,63.344788087,553,873,548,TRUE,"GR","Jenaz","Jenaz","Jenaz","Jenaz GR","Jenaz (GR)","Jenaz GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3871,46.472831268,975,1123,67.647058824,2139,3162,2098,TRUE,"GR","Klosters-Serneus","Klosters-Serneus","Klosters-Serneus","Klosters-Serneus GR","Klosters-Serneus (GR)","Klosters-Serneus GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3881,40.350877193,46,68,68.047337278,115,169,114,TRUE,"GR","Conters im Prättigau","Conters im Prättigau","Conters im Prättigau","Conters im Prättigau GR","Conters im Prättigau (GR)","Conters im Prättigau GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3882,37.135278515,140,237,65.339966833,394,603,377,TRUE,"GR","Küblis","Küblis","Küblis","Küblis GR","Küblis (GR)","Küblis GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3891,,,,,,,,FALSE,"GR","Luzein","Luzein","Luzein","Luzein GR","Luzein (GR)","Luzein GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3901,,,,,,,,FALSE,"GR","Chur","Coire","Coira","Chur GR","Coire (GR)","Coira GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3911,55.582524272,458,366,61.167146974,849,1388,824,TRUE,"GR","Churwalden","Churwalden","Churwalden","Churwalden GR","Churwalden (GR)","Churwalden GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3921,55.071374906,733,598,63.35174954,1376,2172,1331,TRUE,"GR","Arosa","Arosa","Arosa","Arosa GR","Arosa (GR)","Arosa GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3932,,,,,,,,FALSE,"GR","Tschiertschen-Praden","Tschiertschen-Praden","Tschiertschen-Praden","Tschiertschen-Praden GR","Tschiertschen-Praden (GR)","Tschiertschen-Praden GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3945,52.510176391,774,700,62.639635912,1514,2417,1474,TRUE,"GR","Trimmis","Trimmis","Trimmis","Trimmis GR","Trimmis (GR)","Trimmis GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3946,47.596606975,505,556,56.656184486,1081,1908,1061,TRUE,"GR","Untervaz","Untervaz","Untervaz","Untervaz GR","Untervaz (GR)","Untervaz GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3947,53.138686131,728,642,55.740961462,1403,2517,1370,TRUE,"GR","Zizers","Zizers","Zizers","Zizers GR","Zizers (GR)","Zizers GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3951,,,,,,,,FALSE,"GR","Fläsch","Fläsch","Fläsch","Fläsch GR","Fläsch (GR)","Fläsch GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3952,,,,,,,,FALSE,"GR","Jenins","Jenins","Jenins","Jenins GR","Jenins (GR)","Jenins GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3953,55.174731183,821,667,65.082732287,1534,2357,1488,TRUE,"GR","Maienfeld","Maienfeld","Maienfeld","Maienfeld GR","Maienfeld (GR)","Maienfeld GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3954,63.217461601,782,455,67.377398721,1264,1876,1237,TRUE,"GR","Malans","Malans","Malans","Malans GR","Malans (GR)","Malans GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3955,53.873581848,1662,1423,53.788395904,3152,5860,3085,TRUE,"GR","Landquart","Landquart","Landquart","Landquart GR","Landquart (GR)","Landquart GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3961,,,,,,,,FALSE,"GR","Grüsch","Grüsch","Grüsch","Grüsch GR","Grüsch (GR)","Grüsch GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3962,44.634806132,495,614,59.146020032,1122,1897,1109,TRUE,"GR","Schiers","Schiers","Schiers","Schiers GR","Schiers (GR)","Schiers GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3972,44.648318043,292,362,63.001912046,659,1046,654,TRUE,"GR","Seewis im Prättigau","Seewis im Prättigau","Seewis im Prättigau","Seewis im Prättigau GR","Seewis im Prättigau (GR)","Seewis im Prättigau GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3981,,,,,,,,FALSE,"GR","Breil/Brigels","Breil/Brigels","Breil/Brigels","Breil/Brigels GR","Breil/Brigels (GR)","Breil/Brigels GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3982,57.486910995,549,406,62.548262548,972,1554,955,TRUE,"GR","Disentis/Mustér","Disentis/Mustér","Disentis/Mustér","Disentis/Mustér GR","Disentis/Mustér (GR)","Disentis/Mustér GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3983,57.004830918,118,89,66.987179487,209,312,207,TRUE,"GR","Medel (Lucmagn)","Medel (Lucmagn)","Medel (Lucmagn)","Medel (Lucmagn) GR","Medel (Lucmagn) (GR)","Medel (Lucmagn) GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3985,57.048092869,344,259,63.46749226,615,969,603,TRUE,"GR","Sumvitg","Sumvitg","Sumvitg","Sumvitg GR","Sumvitg (GR)","Sumvitg GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3986,62.068965517,342,209,59.752321981,579,969,551,TRUE,"GR","Tujetsch","Tujetsch","Tujetsch","Tujetsch GR","Tujetsch (GR)","Tujetsch GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3987,58.064516129,288,208,52.879581152,505,955,496,TRUE,"GR","Trun","Trun","Trun","Trun GR","Trun (GR)","Trun GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3988,51.41509434,327,309,69.848156182,644,922,636,TRUE,"GR","Obersaxen Mundaun","Obersaxen Mundaun","Obersaxen Mundaun","Obersaxen Mundaun GR","Obersaxen Mundaun (GR)","Obersaxen Mundaun GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
-18,3837,70.930232558,61,25,50.793650794,96,189,86,TRUE,"GR","Calanca","Calanca","Calanca","Calanca GR","Calanca (GR)","Calanca GR","Graubünden","Grisons","Grigioni",55.966258567,FALSE,FALSE
+18,3506,59.95045417,726,485,66.174920969,1256,1898,1211,TRUE,"GR","Vaz/Obervaz","Vaz/Obervaz","Vaz/Obervaz","Vaz/Obervaz GR","Vaz/Obervaz (GR)","Vaz/Obervaz GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3513,56.097560976,138,108,61.290322581,247,403,246,TRUE,"GR","Lantsch/Lenz","Lantsch/Lenz","Lantsch/Lenz","Lantsch/Lenz GR","Lantsch/Lenz (GR)","Lantsch/Lenz GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3514,52.173913043,60,55,65.168539326,116,178,115,TRUE,"GR","Schmitten GR","Schmitten (GR)","Schmitten GR","Schmitten GR","Schmitten (GR)","Schmitten GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3543,57.473481196,596,441,60.495216657,1075,1777,1037,TRUE,"GR","Surses","Surses","Surses","Surses GR","Surses (GR)","Surses GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3544,62.583518931,281,168,68.476621418,454,663,449,TRUE,"GR","Bergün Filisur","Bergün Filisur","Bergün Filisur","Bergün Filisur GR","Bergün Filisur (GR)","Bergün Filisur GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3551,51.882845188,248,230,55.542986425,491,884,478,TRUE,"GR","Brusio","Brusio","Brusio","Brusio GR","Brusio (GR)","Brusio GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3561,63.665594855,990,565,57.624686042,1606,2787,1555,TRUE,"GR","Poschiavo","Poschiavo","Poschiavo","Poschiavo GR","Poschiavo (GR)","Poschiavo GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3572,61.538461538,192,120,68.240343348,318,466,312,TRUE,"GR","Falera","Falera","Falera","Falera GR","Falera (GR)","Falera GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3575,,,,,,,,FALSE,"GR","Laax","Laax","Laax","Laax GR","Laax (GR)","Laax GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3581,65.045592705,214,115,59.502664298,335,563,329,TRUE,"GR","Sagogn","Sagogn","Sagogn","Sagogn GR","Sagogn (GR)","Sagogn GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3582,53.301886792,113,99,53.071253071,216,407,212,TRUE,"GR","Schluein","Schluein","Schluein","Schluein GR","Schluein (GR)","Schluein GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3603,,,,,,,,FALSE,"GR","Vals","Vals","Vals","Vals GR","Vals (GR)","Vals GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3618,,,,,,,,FALSE,"GR","Lumnezia","Lumnezia","Lumnezia","Lumnezia GR","Lumnezia (GR)","Lumnezia GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3619,,,,,,,,FALSE,"GR","Ilanz/Glion","Ilanz/Glion","Ilanz/Glion","Ilanz/Glion GR","Ilanz/Glion (GR)","Ilanz/Glion GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3633,42.592592593,69,93,65.873015873,166,252,162,TRUE,"GR","Fürstenau","Fürstenau","Fürstenau","Fürstenau GR","Fürstenau (GR)","Fürstenau GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3542,51.766784452,293,273,59.423274974,577,971,566,TRUE,"GR","Albula/Alvra","Albula/Alvra","Albula/Alvra","Albula/Alvra GR","Albula/Alvra (GR)","Albula/Alvra GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3638,52.843601896,223,199,66.156202144,432,653,422,TRUE,"GR","Scharans","Scharans","Scharans","Scharans GR","Scharans (GR)","Scharans GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3640,54.213483146,193,163,54.954954955,366,666,356,TRUE,"GR","Sils im Domleschg","Sils im Domleschg","Sils im Domleschg","Sils im Domleschg GR","Sils im Domleschg (GR)","Sils im Domleschg GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3661,48.128342246,450,485,57.383966245,952,1659,935,TRUE,"GR","Cazis","Cazis","Cazis","Cazis GR","Cazis (GR)","Cazis GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3662,45.394736842,69,83,81.28342246,152,187,152,TRUE,"GR","Flerden","Flerden","Flerden","Flerden GR","Flerden (GR)","Flerden GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3663,55.2,138,112,70.027247956,257,367,250,TRUE,"GR","Masein","Masein","Masein","Masein GR","Masein (GR)","Masein GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3668,55.219206681,529,429,49.896907216,968,1940,958,TRUE,"GR","Thusis","Thusis","Thusis","Thusis GR","Thusis (GR)","Thusis GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3669,39.08045977,34,53,81.481481481,88,108,87,TRUE,"GR","Tschappina","Tschappina","Tschappina","Tschappina GR","Tschappina (GR)","Tschappina GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3670,59.405940594,60,41,86.776859504,105,121,101,TRUE,"GR","Urmein","Urmein","Urmein","Urmein GR","Urmein (GR)","Urmein GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3672,,,,,,,,FALSE,"GR","Safiental","Safiental","Safiental","Safiental GR","Safiental (GR)","Safiental GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3673,,,,,,,,FALSE,"GR","Domleschg","Domleschg","Domleschg","Domleschg GR","Domleschg (GR)","Domleschg GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3681,39.361702128,37,57,70.289855072,97,138,94,TRUE,"GR","Avers","Avers","Avers","Avers GR","Avers (GR)","Avers GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3695,69.863013699,51,22,73.267326733,74,101,73,TRUE,"GR","Sufers","Sufers","Sufers","Sufers GR","Sufers (GR)","Sufers GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3637,45.390070922,64,77,64.976958525,141,217,141,TRUE,"GR","Rothenbrunnen","Rothenbrunnen","Rothenbrunnen","Rothenbrunnen GR","Rothenbrunnen (GR)","Rothenbrunnen GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3711,30.769230769,8,18,64.285714286,27,42,26,TRUE,"GR","Rongellen","Rongellen","Rongellen","Rongellen GR","Rongellen (GR)","Rongellen GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3712,53.225806452,99,87,66.315789474,189,285,186,TRUE,"GR","Zillis-Reischen","Zillis-Reischen","Zillis-Reischen","Zillis-Reischen GR","Zillis-Reischen (GR)","Zillis-Reischen GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3713,,,,,,,,FALSE,"GR","Ferrera","Ferrera","Ferrera","Ferrera GR","Ferrera (GR)","Ferrera GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3714,58.544303797,185,131,67.299578059,319,474,316,TRUE,"GR","Rheinwald","Rheinwald","Rheinwald","Rheinwald GR","Rheinwald (GR)","Rheinwald GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3715,48.780487805,100,105,71.186440678,210,295,205,TRUE,"GR","Muntogna da Schons","Muntogna da Schons","Muntogna da Schons","Muntogna da Schons GR","Muntogna da Schons (GR)","Muntogna da Schons GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3721,59.81173063,826,555,58.147229115,1406,2418,1381,TRUE,"GR","Bonaduz","Bonaduz","Bonaduz","Bonaduz GR","Bonaduz (GR)","Bonaduz GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3722,63.549252587,1658,951,51.985981308,2670,5136,2609,TRUE,"GR","Domat/Ems","Domat/Ems","Domat/Ems","Domat/Ems GR","Domat/Ems (GR)","Domat/Ems GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3723,56.089193825,327,256,58.939096267,600,1018,583,TRUE,"GR","Rhäzüns","Rhäzüns","Rhäzüns","Rhäzüns GR","Rhäzüns (GR)","Rhäzüns GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3731,63.220494053,691,402,60.216802168,1111,1845,1093,TRUE,"GR","Felsberg","Felsberg","Felsberg","Felsberg GR","Felsberg (GR)","Felsberg GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3732,61.464968153,772,484,66.838576586,1296,1939,1256,TRUE,"GR","Flims","Flims","Flims","Flims GR","Flims (GR)","Flims GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3733,54.814814815,296,244,61.952861953,552,891,540,TRUE,"GR","Tamins","Tamins","Tamins","Tamins GR","Tamins (GR)","Tamins GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3734,63.100137174,460,269,68.927589368,752,1091,729,TRUE,"GR","Trin","Trin","Trin","Trin GR","Trin (GR)","Trin GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3746,55.056179775,392,320,69.252601703,732,1057,712,TRUE,"GR","Zernez","Zernez","Zernez","Zernez GR","Zernez (GR)","Zernez GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3752,34.259259259,111,213,64.940239044,326,502,324,TRUE,"GR","Samnaun","Samnaun","Samnaun","Samnaun GR","Samnaun (GR)","Samnaun GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3762,57.982767359,1144,829,62.472885033,2016,3227,1973,TRUE,"GR","Scuol","Scuol","Scuol","Scuol GR","Scuol (GR)","Scuol GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3764,48.243559719,206,221,64.117647059,436,680,427,TRUE,"GR","Valsot","Valsot","Valsot","Valsot GR","Valsot (GR)","Valsot GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3781,60.586319218,186,121,69.81981982,310,444,307,TRUE,"GR","Bever","Bever","Bever","Bever GR","Bever (GR)","Bever GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3782,63.34519573,356,206,59.733606557,583,976,562,TRUE,"GR","Celerina/Schlarigna","Celerina/Schlarigna","Celerina/Schlarigna","Celerina/Schlarigna GR","Celerina/Schlarigna (GR)","Celerina/Schlarigna GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3783,53.465346535,54,47,71.724137931,104,145,101,TRUE,"GR","Madulain","Madulain","Madulain","Madulain GR","Madulain (GR)","Madulain GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3784,61.923583663,470,289,61.889511609,773,1249,759,TRUE,"GR","Pontresina","Pontresina","Pontresina","Pontresina GR","Pontresina (GR)","Pontresina GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3785,42.379182156,114,155,57.411273486,275,479,269,TRUE,"GR","La Punt-Chamues-ch","La Punt-Chamues-ch","La Punt-Chamues-ch","La Punt-Chamues-ch GR","La Punt-Chamues-ch (GR)","La Punt-Chamues-ch GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3786,57.516891892,681,503,62.231320368,1216,1954,1184,TRUE,"GR","Samedan","Samedan","Samedan","Samedan GR","Samedan (GR)","Samedan GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3787,60.593220339,858,558,55.001887505,1457,2649,1416,TRUE,"GR","St. Moritz","St. Moritz","St. Moritz","St. Moritz GR","St. Moritz (GR)","St. Moritz GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3788,,,,,,,,FALSE,"GR","S-chanf","S-chanf","S-chanf","S-chanf GR","S-chanf (GR)","S-chanf GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3789,63.909774436,170,96,61.073825503,273,447,266,TRUE,"GR","Sils im Engadin/Segl","Sils im Engadin/Segl","Sils im Engadin/Segl","Sils im Engadin/Segl GR","Sils im Engadin/Segl (GR)","Sils im Engadin/Segl GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3790,59.128065395,217,150,55.869242199,376,673,367,TRUE,"GR","Silvaplana","Silvaplana","Silvaplana","Silvaplana GR","Silvaplana (GR)","Silvaplana GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3791,62.111801242,300,183,67.724137931,491,725,483,TRUE,"GR","Zuoz","Zuoz","Zuoz","Zuoz GR","Zuoz (GR)","Zuoz GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3792,59.039548023,418,290,58.556366586,722,1233,708,TRUE,"GR","Bregaglia","Bregaglia","Bregaglia","Bregaglia GR","Bregaglia (GR)","Bregaglia GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3804,74.193548387,23,8,42.666666667,32,75,31,TRUE,"GR","Buseno","Buseno","Buseno","Buseno GR","Buseno (GR)","Buseno GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3805,57.534246575,84,62,53.405017921,149,279,146,TRUE,"GR","Castaneda","Castaneda","Castaneda","Castaneda GR","Castaneda (GR)","Castaneda GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3808,60.215053763,56,37,56.725146199,97,171,93,TRUE,"GR","Rossa","Rossa","Rossa","Rossa GR","Rossa (GR)","Rossa GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3810,63.461538462,33,19,60.204081633,59,98,52,TRUE,"GR","Santa Maria in Calanca","Santa Maria in Calanca","Santa Maria in Calanca","Santa Maria in Calanca GR","Santa Maria in Calanca (GR)","Santa Maria in Calanca GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3821,58.724832215,175,123,53.253424658,311,584,298,TRUE,"GR","Lostallo","Lostallo","Lostallo","Lostallo GR","Lostallo (GR)","Lostallo GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3822,61.78343949,291,180,50.676378772,487,961,471,TRUE,"GR","Mesocco","Mesocco","Mesocco","Mesocco GR","Mesocco (GR)","Mesocco GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3823,58.865248227,83,58,58.536585366,144,246,141,TRUE,"GR","Soazza","Soazza","Soazza","Soazza GR","Soazza (GR)","Soazza GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3831,57.037037037,77,58,38.541666667,148,384,135,TRUE,"GR","Cama","Cama","Cama","Cama GR","Cama (GR)","Cama GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3832,62.325581395,268,162,50.054171181,462,923,430,TRUE,"GR","Grono","Grono","Grono","Grono GR","Grono (GR)","Grono GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3834,65.503355705,488,257,47.670901391,788,1653,745,TRUE,"GR","Roveredo GR","Roveredo (GR)","Roveredo GR","Roveredo GR","Roveredo (GR)","Roveredo GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3835,,,,,,,,FALSE,"GR","San Vittore","San Vittore","San Vittore","San Vittore GR","San Vittore (GR)","San Vittore GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3701,57.416267943,240,178,63.87283237,442,692,418,TRUE,"GR","Andeer","Andeer","Andeer","Andeer GR","Andeer (GR)","Andeer GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3847,53.169469599,411,362,65.359477124,800,1224,773,TRUE,"GR","Val Müstair","Val Müstair","Val Müstair","Val Müstair GR","Val Müstair (GR)","Val Müstair GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3851,,,,,,,,FALSE,"GR","Davos","Davos","Davos","Davos GR","Davos (GR)","Davos GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3861,56.418918919,167,129,63.674321503,305,479,296,TRUE,"GR","Fideris","Fideris","Fideris","Fideris GR","Fideris (GR)","Fideris GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3862,36.134453782,43,76,72.121212121,119,165,119,TRUE,"GR","Furna","Furna","Furna","Furna GR","Furna (GR)","Furna GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3863,41.423357664,227,321,63.344788087,553,873,548,TRUE,"GR","Jenaz","Jenaz","Jenaz","Jenaz GR","Jenaz (GR)","Jenaz GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3871,46.472831268,975,1123,67.647058824,2139,3162,2098,TRUE,"GR","Klosters-Serneus","Klosters-Serneus","Klosters-Serneus","Klosters-Serneus GR","Klosters-Serneus (GR)","Klosters-Serneus GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3881,40.350877193,46,68,68.047337278,115,169,114,TRUE,"GR","Conters im Prättigau","Conters im Prättigau","Conters im Prättigau","Conters im Prättigau GR","Conters im Prättigau (GR)","Conters im Prättigau GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3882,37.135278515,140,237,65.339966833,394,603,377,TRUE,"GR","Küblis","Küblis","Küblis","Küblis GR","Küblis (GR)","Küblis GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3891,,,,,,,,FALSE,"GR","Luzein","Luzein","Luzein","Luzein GR","Luzein (GR)","Luzein GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3901,,,,,,,,FALSE,"GR","Chur","Coire","Coira","Chur GR","Coire (GR)","Coira GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3911,55.582524272,458,366,61.167146974,849,1388,824,TRUE,"GR","Churwalden","Churwalden","Churwalden","Churwalden GR","Churwalden (GR)","Churwalden GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3921,55.071374906,733,598,63.35174954,1376,2172,1331,TRUE,"GR","Arosa","Arosa","Arosa","Arosa GR","Arosa (GR)","Arosa GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3932,,,,,,,,FALSE,"GR","Tschiertschen-Praden","Tschiertschen-Praden","Tschiertschen-Praden","Tschiertschen-Praden GR","Tschiertschen-Praden (GR)","Tschiertschen-Praden GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3945,52.510176391,774,700,62.639635912,1514,2417,1474,TRUE,"GR","Trimmis","Trimmis","Trimmis","Trimmis GR","Trimmis (GR)","Trimmis GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3946,47.596606975,505,556,56.656184486,1081,1908,1061,TRUE,"GR","Untervaz","Untervaz","Untervaz","Untervaz GR","Untervaz (GR)","Untervaz GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3947,53.138686131,728,642,55.740961462,1403,2517,1370,TRUE,"GR","Zizers","Zizers","Zizers","Zizers GR","Zizers (GR)","Zizers GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3951,53.917050691,234,200,68.429237947,440,643,434,TRUE,"GR","Fläsch","Fläsch","Fläsch","Fläsch GR","Fläsch (GR)","Fläsch GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3952,,,,,,,,FALSE,"GR","Jenins","Jenins","Jenins","Jenins GR","Jenins (GR)","Jenins GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3953,55.174731183,821,667,65.082732287,1534,2357,1488,TRUE,"GR","Maienfeld","Maienfeld","Maienfeld","Maienfeld GR","Maienfeld (GR)","Maienfeld GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3954,63.217461601,782,455,67.377398721,1264,1876,1237,TRUE,"GR","Malans","Malans","Malans","Malans GR","Malans (GR)","Malans GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3955,53.873581848,1662,1423,53.788395904,3152,5860,3085,TRUE,"GR","Landquart","Landquart","Landquart","Landquart GR","Landquart (GR)","Landquart GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3961,46.913580247,494,559,65.225334957,1071,1642,1053,TRUE,"GR","Grüsch","Grüsch","Grüsch","Grüsch GR","Grüsch (GR)","Grüsch GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3962,44.634806132,495,614,59.146020032,1122,1897,1109,TRUE,"GR","Schiers","Schiers","Schiers","Schiers GR","Schiers (GR)","Schiers GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3972,44.648318043,292,362,63.001912046,659,1046,654,TRUE,"GR","Seewis im Prättigau","Seewis im Prättigau","Seewis im Prättigau","Seewis im Prättigau GR","Seewis im Prättigau (GR)","Seewis im Prättigau GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3981,,,,,,,,FALSE,"GR","Breil/Brigels","Breil/Brigels","Breil/Brigels","Breil/Brigels GR","Breil/Brigels (GR)","Breil/Brigels GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3982,57.486910995,549,406,62.548262548,972,1554,955,TRUE,"GR","Disentis/Mustér","Disentis/Mustér","Disentis/Mustér","Disentis/Mustér GR","Disentis/Mustér (GR)","Disentis/Mustér GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3983,57.004830918,118,89,66.987179487,209,312,207,TRUE,"GR","Medel (Lucmagn)","Medel (Lucmagn)","Medel (Lucmagn)","Medel (Lucmagn) GR","Medel (Lucmagn) (GR)","Medel (Lucmagn) GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3985,57.048092869,344,259,63.46749226,615,969,603,TRUE,"GR","Sumvitg","Sumvitg","Sumvitg","Sumvitg GR","Sumvitg (GR)","Sumvitg GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3986,62.068965517,342,209,59.752321981,579,969,551,TRUE,"GR","Tujetsch","Tujetsch","Tujetsch","Tujetsch GR","Tujetsch (GR)","Tujetsch GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3987,58.064516129,288,208,52.879581152,505,955,496,TRUE,"GR","Trun","Trun","Trun","Trun GR","Trun (GR)","Trun GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3988,51.41509434,327,309,69.848156182,644,922,636,TRUE,"GR","Obersaxen Mundaun","Obersaxen Mundaun","Obersaxen Mundaun","Obersaxen Mundaun GR","Obersaxen Mundaun (GR)","Obersaxen Mundaun GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
+18,3837,70.930232558,61,25,50.793650794,96,189,86,TRUE,"GR","Calanca","Calanca","Calanca","Calanca GR","Calanca (GR)","Calanca GR","Graubünden","Grisons","Grigioni",55.85859321,FALSE,FALSE
 19,4002,,,,,,,,FALSE,"AG","Biberstein","Biberstein","Biberstein","Biberstein AG","Biberstein (AG)","Biberstein AG","Aargau","Argovie","Argovia",54.450535759,FALSE,FALSE
 19,4003,,,,,,,,FALSE,"AG","Buchs AG","Buchs (AG)","Buchs AG","Buchs AG","Buchs (AG)","Buchs AG","Aargau","Argovie","Argovia",54.450535759,FALSE,FALSE
 19,4004,,,,,,,,FALSE,"AG","Densbüren","Densbüren","Densbüren","Densbüren AG","Densbüren (AG)","Densbüren AG","Aargau","Argovie","Argovia",54.450535759,FALSE,FALSE
@@ -1500,113 +1500,113 @@
 20,4946,,,,,,,,FALSE,"TG","Weinfelden","Weinfelden","Weinfelden","Weinfelden TG","Weinfelden (TG)","Weinfelden TG","Thurgau","Thurgovie","Turgovia",47.116911281,FALSE,FALSE
 20,4951,,,,,,,,FALSE,"TG","Wigoltingen","Wigoltingen","Wigoltingen","Wigoltingen TG","Wigoltingen (TG)","Wigoltingen TG","Thurgau","Thurgovie","Turgovia",47.116911281,FALSE,FALSE
 20,4683,,,,,,,,FALSE,"TG","Lengwil","Lengwil","Lengwil","Lengwil TG","Lengwil (TG)","Lengwil TG","Thurgau","Thurgovie","Turgovia",47.116911281,FALSE,FALSE
-21,5001,,,,,,,,FALSE,"TI","Arbedo-Castione","Arbedo-Castione","Arbedo-Castione","Arbedo-Castione TI","Arbedo-Castione (TI)","Arbedo-Castione TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5002,,,,,,,,FALSE,"TI","Bellinzona","Bellinzone","Bellinzona","Bellinzona TI","Bellinzone (TI)","Bellinzona TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5009,,,,,,,,FALSE,"TI","Isone","Isone","Isone","Isone TI","Isone (TI)","Isone TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5010,,,,,,,,FALSE,"TI","Lumino","Lumino","Lumino","Lumino TI","Lumino (TI)","Lumino TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5017,,,,,,,,FALSE,"TI","Sant'Antonino","Sant'Antonino","Sant'Antonino","Sant'Antonino TI","Sant'Antonino (TI)","Sant'Antonino TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5048,,,,,,,,FALSE,"TI","Acquarossa","Acquarossa","Acquarossa","Acquarossa TI","Acquarossa (TI)","Acquarossa TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5049,,,,,,,,FALSE,"TI","Blenio","Blenio","Blenio","Blenio TI","Blenio (TI)","Blenio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5050,,,,,,,,FALSE,"TI","Serravalle","Serravalle","Serravalle","Serravalle TI","Serravalle (TI)","Serravalle TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5061,,,,,,,,FALSE,"TI","Airolo","Airolo","Airolo","Airolo TI","Airolo (TI)","Airolo TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5063,,,,,,,,FALSE,"TI","Bedretto","Bedretto","Bedretto","Bedretto TI","Bedretto (TI)","Bedretto TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5064,,,,,,,,FALSE,"TI","Bodio","Bodio","Bodio","Bodio TI","Bodio (TI)","Bodio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5071,,,,,,,,FALSE,"TI","Dalpe","Dalpe","Dalpe","Dalpe TI","Dalpe (TI)","Dalpe TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5072,,,,,,,,FALSE,"TI","Faido","Faido","Faido","Faido TI","Faido (TI)","Faido TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5073,,,,,,,,FALSE,"TI","Giornico","Giornico","Giornico","Giornico TI","Giornico (TI)","Giornico TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5076,,,,,,,,FALSE,"TI","Personico","Personico","Personico","Personico TI","Personico (TI)","Personico TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5077,,,,,,,,FALSE,"TI","Pollegio","Pollegio","Pollegio","Pollegio TI","Pollegio (TI)","Pollegio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5078,,,,,,,,FALSE,"TI","Prato (Leventina)","Prato (Leventina)","Prato (Leventina)","Prato (Leventina) TI","Prato (Leventina) (TI)","Prato (Leventina) TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5079,,,,,,,,FALSE,"TI","Quinto","Quinto","Quinto","Quinto TI","Quinto (TI)","Quinto TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5091,,,,,,,,FALSE,"TI","Ascona","Ascona","Ascona","Ascona TI","Ascona (TI)","Ascona TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5096,,,,,,,,FALSE,"TI","Brione sopra Minusio","Brione sopra Minusio","Brione sopra Minusio","Brione sopra Minusio TI","Brione sopra Minusio (TI)","Brione sopra Minusio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5097,,,,,,,,FALSE,"TI","Brissago","Brissago","Brissago","Brissago TI","Brissago (TI)","Brissago TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5108,,,,,,,,FALSE,"TI","Gordola","Gordola","Gordola","Gordola TI","Gordola (TI)","Gordola TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5112,,,,,,,,FALSE,"TI","Lavertezzo","Lavertezzo","Lavertezzo","Lavertezzo TI","Lavertezzo (TI)","Lavertezzo TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5113,,,,,,,,FALSE,"TI","Locarno","Locarno","Locarno","Locarno TI","Locarno (TI)","Locarno TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5115,,,,,,,,FALSE,"TI","Losone","Losone","Losone","Losone TI","Losone (TI)","Losone TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5117,,,,,,,,FALSE,"TI","Mergoscia","Mergoscia","Mergoscia","Mergoscia TI","Mergoscia (TI)","Mergoscia TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5118,,,,,,,,FALSE,"TI","Minusio","Minusio","Minusio","Minusio TI","Minusio (TI)","Minusio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5120,,,,,,,,FALSE,"TI","Muralto","Muralto","Muralto","Muralto TI","Muralto (TI)","Muralto TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5121,,,,,,,,FALSE,"TI","Orselina","Orselina","Orselina","Orselina TI","Orselina (TI)","Orselina TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5125,,,,,,,,FALSE,"TI","Ronco sopra Ascona","Ronco sopra Ascona","Ronco sopra Ascona","Ronco sopra Ascona TI","Ronco sopra Ascona (TI)","Ronco sopra Ascona TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5131,,,,,,,,FALSE,"TI","Tenero-Contra","Tenero-Contra","Tenero-Contra","Tenero-Contra TI","Tenero-Contra (TI)","Tenero-Contra TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5136,,,,,,,,FALSE,"TI","Onsernone","Onsernone","Onsernone","Onsernone TI","Onsernone (TI)","Onsernone TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5138,,,,,,,,FALSE,"TI","Cugnasco-Gerra","Cugnasco-Gerra","Cugnasco-Gerra","Cugnasco-Gerra TI","Cugnasco-Gerra (TI)","Cugnasco-Gerra TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5141,,,,,,,,FALSE,"TI","Agno","Agno","Agno","Agno TI","Agno (TI)","Agno TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5143,,,,,,,,FALSE,"TI","Aranno","Aranno","Aranno","Aranno TI","Aranno (TI)","Aranno TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5144,,,,,,,,FALSE,"TI","Arogno","Arogno","Arogno","Arogno TI","Arogno (TI)","Arogno TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5146,,,,,,,,FALSE,"TI","Astano","Astano","Astano","Astano TI","Astano (TI)","Astano TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5148,,,,,,,,FALSE,"TI","Bedano","Bedano","Bedano","Bedano TI","Bedano (TI)","Bedano TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5149,,,,,,,,FALSE,"TI","Bedigliora","Bedigliora","Bedigliora","Bedigliora TI","Bedigliora (TI)","Bedigliora TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5151,,,,,,,,FALSE,"TI","Bioggio","Bioggio","Bioggio","Bioggio TI","Bioggio (TI)","Bioggio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5154,,,,,,,,FALSE,"TI","Bissone","Bissone","Bissone","Bissone TI","Bissone (TI)","Bissone TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5003,,,,,,,,FALSE,"TI","Cadenazzo","Cadenazzo","Cadenazzo","Cadenazzo TI","Cadenazzo (TI)","Cadenazzo TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5161,,,,,,,,FALSE,"TI","Cademario","Cademario","Cademario","Cademario TI","Cademario (TI)","Cademario TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5162,70.484581498,320,134,48.849372385,467,956,454,TRUE,"TI","Cadempino","Cadempino","Cadempino","Cadempino TI","Cadempino (TI)","Cadempino TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5167,,,,,,,,FALSE,"TI","Canobbio","Canobbio","Canobbio","Canobbio TI","Canobbio (TI)","Canobbio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5171,,,,,,,,FALSE,"TI","Caslano","Caslano","Caslano","Caslano TI","Caslano (TI)","Caslano TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5176,,,,,,,,FALSE,"TI","Comano","Comano","Comano","Comano TI","Comano (TI)","Comano TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5180,,,,,,,,FALSE,"TI","Cureglia","Cureglia","Cureglia","Cureglia TI","Cureglia (TI)","Cureglia TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5181,,,,,,,,FALSE,"TI","Curio","Curio","Curio","Curio TI","Curio (TI)","Curio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5186,,,,,,,,FALSE,"TI","Grancia","Grancia","Grancia","Grancia TI","Grancia (TI)","Grancia TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5187,,,,,,,,FALSE,"TI","Gravesano","Gravesano","Gravesano","Gravesano TI","Gravesano (TI)","Gravesano TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5189,,,,,,,,FALSE,"TI","Lamone","Lamone","Lamone","Lamone TI","Lamone (TI)","Lamone TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5192,,,,,,,,FALSE,"TI","Lugano","Lugano","Lugano","Lugano TI","Lugano (TI)","Lugano TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5193,,,,,,,,FALSE,"TI","Magliaso","Magliaso","Magliaso","Magliaso TI","Magliaso (TI)","Magliaso TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5194,,,,,,,,FALSE,"TI","Manno","Manno","Manno","Manno TI","Manno (TI)","Manno TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5195,,,,,,,,FALSE,"TI","Maroggia","Maroggia","Maroggia","Maroggia TI","Maroggia (TI)","Maroggia TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5196,,,,,,,,FALSE,"TI","Massagno","Massagno","Massagno","Massagno TI","Massagno (TI)","Massagno TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5197,,,,,,,,FALSE,"TI","Melano","Melano","Melano","Melano TI","Melano (TI)","Melano TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5198,,,,,,,,FALSE,"TI","Melide","Melide","Melide","Melide TI","Melide (TI)","Melide TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5199,,,,,,,,FALSE,"TI","Mezzovico-Vira","Mezzovico-Vira","Mezzovico-Vira","Mezzovico-Vira TI","Mezzovico-Vira (TI)","Mezzovico-Vira TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5200,,,,,,,,FALSE,"TI","Miglieglia","Miglieglia","Miglieglia","Miglieglia TI","Miglieglia (TI)","Miglieglia TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5203,,,,,,,,FALSE,"TI","Morcote","Morcote","Morcote","Morcote TI","Morcote (TI)","Morcote TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5205,,,,,,,,FALSE,"TI","Muzzano","Muzzano","Muzzano","Muzzano TI","Muzzano (TI)","Muzzano TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5206,,,,,,,,FALSE,"TI","Neggio","Neggio","Neggio","Neggio TI","Neggio (TI)","Neggio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5207,,,,,,,,FALSE,"TI","Novaggio","Novaggio","Novaggio","Novaggio TI","Novaggio (TI)","Novaggio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5208,,,,,,,,FALSE,"TI","Origlio","Origlio","Origlio","Origlio TI","Origlio (TI)","Origlio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5210,,,,,,,,FALSE,"TI","Paradiso","Paradiso","Paradiso","Paradiso TI","Paradiso (TI)","Paradiso TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5212,,,,,,,,FALSE,"TI","Ponte Capriasca","Ponte Capriasca","Ponte Capriasca","Ponte Capriasca TI","Ponte Capriasca (TI)","Ponte Capriasca TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5214,,,,,,,,FALSE,"TI","Porza","Porza","Porza","Porza TI","Porza (TI)","Porza TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5216,,,,,,,,FALSE,"TI","Pura","Pura","Pura","Pura TI","Pura (TI)","Pura TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5219,,,,,,,,FALSE,"TI","Rovio","Rovio","Rovio","Rovio TI","Rovio (TI)","Rovio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5221,,,,,,,,FALSE,"TI","Savosa","Savosa","Savosa","Savosa TI","Savosa (TI)","Savosa TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5225,,,,,,,,FALSE,"TI","Sorengo","Sorengo","Sorengo","Sorengo TI","Sorengo (TI)","Sorengo TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5226,,,,,,,,FALSE,"TI","Capriasca","Capriasca","Capriasca","Capriasca TI","Capriasca (TI)","Capriasca TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5227,,,,,,,,FALSE,"TI","Torricella-Taverne","Torricella-Taverne","Torricella-Taverne","Torricella-Taverne TI","Torricella-Taverne (TI)","Torricella-Taverne TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5230,,,,,,,,FALSE,"TI","Vernate","Vernate","Vernate","Vernate TI","Vernate (TI)","Vernate TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5231,,,,,,,,FALSE,"TI","Vezia","Vezia","Vezia","Vezia TI","Vezia (TI)","Vezia TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5233,,,,,,,,FALSE,"TI","Vico Morcote","Vico Morcote","Vico Morcote","Vico Morcote TI","Vico Morcote (TI)","Vico Morcote TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5236,,,,,,,,FALSE,"TI","Collina d'Oro","Collina d'Oro","Collina d'Oro","Collina d'Oro TI","Collina d'Oro (TI)","Collina d'Oro TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5237,,,,,,,,FALSE,"TI","Alto Malcantone","Alto Malcantone","Alto Malcantone","Alto Malcantone TI","Alto Malcantone (TI)","Alto Malcantone TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5238,,,,,,,,FALSE,"TI","Monteceneri","Monteceneri","Monteceneri","Monteceneri TI","Monteceneri (TI)","Monteceneri TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5160,,,,,,,,FALSE,"TI","Brusino Arsizio","Brusino Arsizio","Brusino Arsizio","Brusino Arsizio TI","Brusino Arsizio (TI)","Brusino Arsizio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5242,,,,,,,,FALSE,"TI","Balerna","Balerna","Balerna","Balerna TI","Balerna (TI)","Balerna TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5249,,,,,,,,FALSE,"TI","Castel San Pietro","Castel San Pietro","Castel San Pietro","Castel San Pietro TI","Castel San Pietro (TI)","Castel San Pietro TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5250,,,,,,,,FALSE,"TI","Chiasso","Chiasso","Chiasso","Chiasso TI","Chiasso (TI)","Chiasso TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5251,,,,,,,,FALSE,"TI","Coldrerio","Coldrerio","Coldrerio","Coldrerio TI","Coldrerio (TI)","Coldrerio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5254,,,,,,,,FALSE,"TI","Mendrisio","Mendrisio","Mendrisio","Mendrisio TI","Mendrisio (TI)","Mendrisio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5257,,,,,,,,FALSE,"TI","Morbio Inferiore","Morbio Inferiore","Morbio Inferiore","Morbio Inferiore TI","Morbio Inferiore (TI)","Morbio Inferiore TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5260,,,,,,,,FALSE,"TI","Novazzano","Novazzano","Novazzano","Novazzano TI","Novazzano (TI)","Novazzano TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5263,,,,,,,,FALSE,"TI","Riva San Vitale","Riva San Vitale","Riva San Vitale","Riva San Vitale TI","Riva San Vitale (TI)","Riva San Vitale TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5266,,,,,,,,FALSE,"TI","Stabio","Stabio","Stabio","Stabio TI","Stabio (TI)","Stabio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5268,69.897959184,685,295,46.847267632,1003,2141,980,TRUE,"TI","Vacallo","Vacallo","Vacallo","Vacallo TI","Vacallo (TI)","Vacallo TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5269,,,,,,,,FALSE,"TI","Breggia","Breggia","Breggia","Breggia TI","Breggia (TI)","Breggia TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5281,,,,,,,,FALSE,"TI","Biasca","Biasca","Biasca","Biasca TI","Biasca (TI)","Biasca TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5287,,,,,,,,FALSE,"TI","Riviera","Riviera","Riviera","Riviera TI","Riviera (TI)","Riviera TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5304,82.608695652,19,4,46.153846154,24,52,23,TRUE,"TI","Bosco/Gurin","Bosco/Gurin","Bosco/Gurin","Bosco/Gurin TI","Bosco/Gurin (TI)","Bosco/Gurin TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5307,,,,,,,,FALSE,"TI","Campo (Vallemaggia)","Campo (Vallemaggia)","Campo (Vallemaggia)","Campo (Vallemaggia) TI","Campo (Vallemaggia) (TI)","Campo (Vallemaggia) TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5309,,,,,,,,FALSE,"TI","Cerentino","Cerentino","Cerentino","Cerentino TI","Cerentino (TI)","Cerentino TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5310,,,,,,,,FALSE,"TI","Cevio","Cevio","Cevio","Cevio TI","Cevio (TI)","Cevio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5315,,,,,,,,FALSE,"TI","Linescio","Linescio","Linescio","Linescio TI","Linescio (TI)","Linescio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5317,,,,,,,,FALSE,"TI","Maggia","Maggia","Maggia","Maggia TI","Maggia (TI)","Maggia TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5323,,,,,,,,FALSE,"TI","Lavizzara","Lavizzara","Lavizzara","Lavizzara TI","Lavizzara (TI)","Lavizzara TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5324,,,,,,,,FALSE,"TI","Avegno Gordevio","Avegno Gordevio","Avegno Gordevio","Avegno Gordevio TI","Avegno Gordevio (TI)","Avegno Gordevio TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5396,,,,,,,,FALSE,"TI","Terre di Pedemonte","Terre di Pedemonte","Terre di Pedemonte","Terre di Pedemonte TI","Terre di Pedemonte (TI)","Terre di Pedemonte TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5397,,,,,,,,FALSE,"TI","Centovalli","Centovalli","Centovalli","Centovalli TI","Centovalli (TI)","Centovalli TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5398,,,,,,,,FALSE,"TI","Gambarogno","Gambarogno","Gambarogno","Gambarogno TI","Gambarogno (TI)","Gambarogno TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
-21,5399,,,,,,,,FALSE,"TI","Verzasca","Verzasca","Verzasca","Verzasca TI","Verzasca (TI)","Verzasca TI","Tessin","Tessin","Ticino",70.281400137,FALSE,FALSE
+21,5001,,,,,,,,FALSE,"TI","Arbedo-Castione","Arbedo-Castione","Arbedo-Castione","Arbedo-Castione TI","Arbedo-Castione (TI)","Arbedo-Castione TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5002,,,,,,,,FALSE,"TI","Bellinzona","Bellinzone","Bellinzona","Bellinzona TI","Bellinzone (TI)","Bellinzona TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5009,64.245810056,115,64,59.935897436,187,312,179,TRUE,"TI","Isone","Isone","Isone","Isone TI","Isone (TI)","Isone TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5010,,,,,,,,FALSE,"TI","Lumino","Lumino","Lumino","Lumino TI","Lumino (TI)","Lumino TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5017,65.464632455,472,249,47.773536896,751,1572,721,TRUE,"TI","Sant'Antonino","Sant'Antonino","Sant'Antonino","Sant'Antonino TI","Sant'Antonino (TI)","Sant'Antonino TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5048,,,,,,,,FALSE,"TI","Acquarossa","Acquarossa","Acquarossa","Acquarossa TI","Acquarossa (TI)","Acquarossa TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5049,,,,,,,,FALSE,"TI","Blenio","Blenio","Blenio","Blenio TI","Blenio (TI)","Blenio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5050,,,,,,,,FALSE,"TI","Serravalle","Serravalle","Serravalle","Serravalle TI","Serravalle (TI)","Serravalle TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5061,,,,,,,,FALSE,"TI","Airolo","Airolo","Airolo","Airolo TI","Airolo (TI)","Airolo TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5063,,,,,,,,FALSE,"TI","Bedretto","Bedretto","Bedretto","Bedretto TI","Bedretto (TI)","Bedretto TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5064,,,,,,,,FALSE,"TI","Bodio","Bodio","Bodio","Bodio TI","Bodio (TI)","Bodio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5071,,,,,,,,FALSE,"TI","Dalpe","Dalpe","Dalpe","Dalpe TI","Dalpe (TI)","Dalpe TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5072,,,,,,,,FALSE,"TI","Faido","Faido","Faido","Faido TI","Faido (TI)","Faido TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5073,,,,,,,,FALSE,"TI","Giornico","Giornico","Giornico","Giornico TI","Giornico (TI)","Giornico TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5076,,,,,,,,FALSE,"TI","Personico","Personico","Personico","Personico TI","Personico (TI)","Personico TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5077,,,,,,,,FALSE,"TI","Pollegio","Pollegio","Pollegio","Pollegio TI","Pollegio (TI)","Pollegio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5078,,,,,,,,FALSE,"TI","Prato (Leventina)","Prato (Leventina)","Prato (Leventina)","Prato (Leventina) TI","Prato (Leventina) (TI)","Prato (Leventina) TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5079,,,,,,,,FALSE,"TI","Quinto","Quinto","Quinto","Quinto TI","Quinto (TI)","Quinto TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5091,,,,,,,,FALSE,"TI","Ascona","Ascona","Ascona","Ascona TI","Ascona (TI)","Ascona TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5096,,,,,,,,FALSE,"TI","Brione sopra Minusio","Brione sopra Minusio","Brione sopra Minusio","Brione sopra Minusio TI","Brione sopra Minusio (TI)","Brione sopra Minusio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5097,64.50617284,418,230,51.512800621,664,1289,648,TRUE,"TI","Brissago","Brissago","Brissago","Brissago TI","Brissago (TI)","Brissago TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5108,,,,,,,,FALSE,"TI","Gordola","Gordola","Gordola","Gordola TI","Gordola (TI)","Gordola TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5112,,,,,,,,FALSE,"TI","Lavertezzo","Lavertezzo","Lavertezzo","Lavertezzo TI","Lavertezzo (TI)","Lavertezzo TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5113,,,,,,,,FALSE,"TI","Locarno","Locarno","Locarno","Locarno TI","Locarno (TI)","Locarno TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5115,,,,,,,,FALSE,"TI","Losone","Losone","Losone","Losone TI","Losone (TI)","Losone TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5117,,,,,,,,FALSE,"TI","Mergoscia","Mergoscia","Mergoscia","Mergoscia TI","Mergoscia (TI)","Mergoscia TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5118,,,,,,,,FALSE,"TI","Minusio","Minusio","Minusio","Minusio TI","Minusio (TI)","Minusio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5120,,,,,,,,FALSE,"TI","Muralto","Muralto","Muralto","Muralto TI","Muralto (TI)","Muralto TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5121,,,,,,,,FALSE,"TI","Orselina","Orselina","Orselina","Orselina TI","Orselina (TI)","Orselina TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5125,,,,,,,,FALSE,"TI","Ronco sopra Ascona","Ronco sopra Ascona","Ronco sopra Ascona","Ronco sopra Ascona TI","Ronco sopra Ascona (TI)","Ronco sopra Ascona TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5131,,,,,,,,FALSE,"TI","Tenero-Contra","Tenero-Contra","Tenero-Contra","Tenero-Contra TI","Tenero-Contra (TI)","Tenero-Contra TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5136,,,,,,,,FALSE,"TI","Onsernone","Onsernone","Onsernone","Onsernone TI","Onsernone (TI)","Onsernone TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5138,,,,,,,,FALSE,"TI","Cugnasco-Gerra","Cugnasco-Gerra","Cugnasco-Gerra","Cugnasco-Gerra TI","Cugnasco-Gerra (TI)","Cugnasco-Gerra TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5141,,,,,,,,FALSE,"TI","Agno","Agno","Agno","Agno TI","Agno (TI)","Agno TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5143,66.887417219,101,50,56.928838951,152,267,151,TRUE,"TI","Aranno","Aranno","Aranno","Aranno TI","Aranno (TI)","Aranno TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5144,,,,,,,,FALSE,"TI","Arogno","Arogno","Arogno","Arogno TI","Arogno (TI)","Arogno TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5146,,,,,,,,FALSE,"TI","Astano","Astano","Astano","Astano TI","Astano (TI)","Astano TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5148,,,,,,,,FALSE,"TI","Bedano","Bedano","Bedano","Bedano TI","Bedano (TI)","Bedano TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5149,52.631578947,130,117,51.669941061,263,509,247,TRUE,"TI","Bedigliora","Bedigliora","Bedigliora","Bedigliora TI","Bedigliora (TI)","Bedigliora TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5151,,,,,,,,FALSE,"TI","Bioggio","Bioggio","Bioggio","Bioggio TI","Bioggio (TI)","Bioggio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5154,,,,,,,,FALSE,"TI","Bissone","Bissone","Bissone","Bissone TI","Bissone (TI)","Bissone TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5003,,,,,,,,FALSE,"TI","Cadenazzo","Cadenazzo","Cadenazzo","Cadenazzo TI","Cadenazzo (TI)","Cadenazzo TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5161,,,,,,,,FALSE,"TI","Cademario","Cademario","Cademario","Cademario TI","Cademario (TI)","Cademario TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5162,70.484581498,320,134,48.849372385,467,956,454,TRUE,"TI","Cadempino","Cadempino","Cadempino","Cadempino TI","Cadempino (TI)","Cadempino TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5167,,,,,,,,FALSE,"TI","Canobbio","Canobbio","Canobbio","Canobbio TI","Canobbio (TI)","Canobbio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5171,,,,,,,,FALSE,"TI","Caslano","Caslano","Caslano","Caslano TI","Caslano (TI)","Caslano TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5176,,,,,,,,FALSE,"TI","Comano","Comano","Comano","Comano TI","Comano (TI)","Comano TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5180,,,,,,,,FALSE,"TI","Cureglia","Cureglia","Cureglia","Cureglia TI","Cureglia (TI)","Cureglia TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5181,,,,,,,,FALSE,"TI","Curio","Curio","Curio","Curio TI","Curio (TI)","Curio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5186,71.666666667,86,34,43.75,126,288,120,TRUE,"TI","Grancia","Grancia","Grancia","Grancia TI","Grancia (TI)","Grancia TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5187,,,,,,,,FALSE,"TI","Gravesano","Gravesano","Gravesano","Gravesano TI","Gravesano (TI)","Gravesano TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5189,,,,,,,,FALSE,"TI","Lamone","Lamone","Lamone","Lamone TI","Lamone (TI)","Lamone TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5192,,,,,,,,FALSE,"TI","Lugano","Lugano","Lugano","Lugano TI","Lugano (TI)","Lugano TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5193,,,,,,,,FALSE,"TI","Magliaso","Magliaso","Magliaso","Magliaso TI","Magliaso (TI)","Magliaso TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5194,,,,,,,,FALSE,"TI","Manno","Manno","Manno","Manno TI","Manno (TI)","Manno TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5195,,,,,,,,FALSE,"TI","Maroggia","Maroggia","Maroggia","Maroggia TI","Maroggia (TI)","Maroggia TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5196,,,,,,,,FALSE,"TI","Massagno","Massagno","Massagno","Massagno TI","Massagno (TI)","Massagno TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5197,69.928400955,293,126,48.694665153,429,881,419,TRUE,"TI","Melano","Melano","Melano","Melano TI","Melano (TI)","Melano TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5198,,,,,,,,FALSE,"TI","Melide","Melide","Melide","Melide TI","Melide (TI)","Melide TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5199,,,,,,,,FALSE,"TI","Mezzovico-Vira","Mezzovico-Vira","Mezzovico-Vira","Mezzovico-Vira TI","Mezzovico-Vira (TI)","Mezzovico-Vira TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5200,,,,,,,,FALSE,"TI","Miglieglia","Miglieglia","Miglieglia","Miglieglia TI","Miglieglia (TI)","Miglieglia TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5203,,,,,,,,FALSE,"TI","Morcote","Morcote","Morcote","Morcote TI","Morcote (TI)","Morcote TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5205,,,,,,,,FALSE,"TI","Muzzano","Muzzano","Muzzano","Muzzano TI","Muzzano (TI)","Muzzano TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5206,,,,,,,,FALSE,"TI","Neggio","Neggio","Neggio","Neggio TI","Neggio (TI)","Neggio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5207,,,,,,,,FALSE,"TI","Novaggio","Novaggio","Novaggio","Novaggio TI","Novaggio (TI)","Novaggio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5208,,,,,,,,FALSE,"TI","Origlio","Origlio","Origlio","Origlio TI","Origlio (TI)","Origlio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5210,,,,,,,,FALSE,"TI","Paradiso","Paradiso","Paradiso","Paradiso TI","Paradiso (TI)","Paradiso TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5212,,,,,,,,FALSE,"TI","Ponte Capriasca","Ponte Capriasca","Ponte Capriasca","Ponte Capriasca TI","Ponte Capriasca (TI)","Ponte Capriasca TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5214,,,,,,,,FALSE,"TI","Porza","Porza","Porza","Porza TI","Porza (TI)","Porza TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5216,,,,,,,,FALSE,"TI","Pura","Pura","Pura","Pura TI","Pura (TI)","Pura TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5219,,,,,,,,FALSE,"TI","Rovio","Rovio","Rovio","Rovio TI","Rovio (TI)","Rovio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5221,,,,,,,,FALSE,"TI","Savosa","Savosa","Savosa","Savosa TI","Savosa (TI)","Savosa TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5225,,,,,,,,FALSE,"TI","Sorengo","Sorengo","Sorengo","Sorengo TI","Sorengo (TI)","Sorengo TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5226,,,,,,,,FALSE,"TI","Capriasca","Capriasca","Capriasca","Capriasca TI","Capriasca (TI)","Capriasca TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5227,,,,,,,,FALSE,"TI","Torricella-Taverne","Torricella-Taverne","Torricella-Taverne","Torricella-Taverne TI","Torricella-Taverne (TI)","Torricella-Taverne TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5230,66.19047619,139,71,51.19047619,215,420,210,TRUE,"TI","Vernate","Vernate","Vernate","Vernate TI","Vernate (TI)","Vernate TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5231,,,,,,,,FALSE,"TI","Vezia","Vezia","Vezia","Vezia TI","Vezia (TI)","Vezia TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5233,,,,,,,,FALSE,"TI","Vico Morcote","Vico Morcote","Vico Morcote","Vico Morcote TI","Vico Morcote (TI)","Vico Morcote TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5236,,,,,,,,FALSE,"TI","Collina d'Oro","Collina d'Oro","Collina d'Oro","Collina d'Oro TI","Collina d'Oro (TI)","Collina d'Oro TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5237,,,,,,,,FALSE,"TI","Alto Malcantone","Alto Malcantone","Alto Malcantone","Alto Malcantone TI","Alto Malcantone (TI)","Alto Malcantone TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5238,,,,,,,,FALSE,"TI","Monteceneri","Monteceneri","Monteceneri","Monteceneri TI","Monteceneri (TI)","Monteceneri TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5160,73.863636364,130,46,50.837988827,182,358,176,TRUE,"TI","Brusino Arsizio","Brusino Arsizio","Brusino Arsizio","Brusino Arsizio TI","Brusino Arsizio (TI)","Brusino Arsizio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5242,,,,,,,,FALSE,"TI","Balerna","Balerna","Balerna","Balerna TI","Balerna (TI)","Balerna TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5249,,,,,,,,FALSE,"TI","Castel San Pietro","Castel San Pietro","Castel San Pietro","Castel San Pietro TI","Castel San Pietro (TI)","Castel San Pietro TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5250,,,,,,,,FALSE,"TI","Chiasso","Chiasso","Chiasso","Chiasso TI","Chiasso (TI)","Chiasso TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5251,,,,,,,,FALSE,"TI","Coldrerio","Coldrerio","Coldrerio","Coldrerio TI","Coldrerio (TI)","Coldrerio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5254,,,,,,,,FALSE,"TI","Mendrisio","Mendrisio","Mendrisio","Mendrisio TI","Mendrisio (TI)","Mendrisio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5257,72.126220887,960,371,47.308488613,1371,2898,1331,TRUE,"TI","Morbio Inferiore","Morbio Inferiore","Morbio Inferiore","Morbio Inferiore TI","Morbio Inferiore (TI)","Morbio Inferiore TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5260,72.892209178,683,254,55.498281787,969,1746,937,TRUE,"TI","Novazzano","Novazzano","Novazzano","Novazzano TI","Novazzano (TI)","Novazzano TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5263,,,,,,,,FALSE,"TI","Riva San Vitale","Riva San Vitale","Riva San Vitale","Riva San Vitale TI","Riva San Vitale (TI)","Riva San Vitale TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5266,,,,,,,,FALSE,"TI","Stabio","Stabio","Stabio","Stabio TI","Stabio (TI)","Stabio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5268,69.897959184,685,295,46.847267632,1003,2141,980,TRUE,"TI","Vacallo","Vacallo","Vacallo","Vacallo TI","Vacallo (TI)","Vacallo TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5269,,,,,,,,FALSE,"TI","Breggia","Breggia","Breggia","Breggia TI","Breggia (TI)","Breggia TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5281,,,,,,,,FALSE,"TI","Biasca","Biasca","Biasca","Biasca TI","Biasca (TI)","Biasca TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5287,,,,,,,,FALSE,"TI","Riviera","Riviera","Riviera","Riviera TI","Riviera (TI)","Riviera TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5304,82.608695652,19,4,46.153846154,24,52,23,TRUE,"TI","Bosco/Gurin","Bosco/Gurin","Bosco/Gurin","Bosco/Gurin TI","Bosco/Gurin (TI)","Bosco/Gurin TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5307,,,,,,,,FALSE,"TI","Campo (Vallemaggia)","Campo (Vallemaggia)","Campo (Vallemaggia)","Campo (Vallemaggia) TI","Campo (Vallemaggia) (TI)","Campo (Vallemaggia) TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5309,61.538461538,16,10,57.777777778,26,45,26,TRUE,"TI","Cerentino","Cerentino","Cerentino","Cerentino TI","Cerentino (TI)","Cerentino TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5310,,,,,,,,FALSE,"TI","Cevio","Cevio","Cevio","Cevio TI","Cevio (TI)","Cevio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5315,,,,,,,,FALSE,"TI","Linescio","Linescio","Linescio","Linescio TI","Linescio (TI)","Linescio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5317,,,,,,,,FALSE,"TI","Maggia","Maggia","Maggia","Maggia TI","Maggia (TI)","Maggia TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5323,,,,,,,,FALSE,"TI","Lavizzara","Lavizzara","Lavizzara","Lavizzara TI","Lavizzara (TI)","Lavizzara TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5324,,,,,,,,FALSE,"TI","Avegno Gordevio","Avegno Gordevio","Avegno Gordevio","Avegno Gordevio TI","Avegno Gordevio (TI)","Avegno Gordevio TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5396,,,,,,,,FALSE,"TI","Terre di Pedemonte","Terre di Pedemonte","Terre di Pedemonte","Terre di Pedemonte TI","Terre di Pedemonte (TI)","Terre di Pedemonte TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5397,,,,,,,,FALSE,"TI","Centovalli","Centovalli","Centovalli","Centovalli TI","Centovalli (TI)","Centovalli TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5398,,,,,,,,FALSE,"TI","Gambarogno","Gambarogno","Gambarogno","Gambarogno TI","Gambarogno (TI)","Gambarogno TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
+21,5399,,,,,,,,FALSE,"TI","Verzasca","Verzasca","Verzasca","Verzasca TI","Verzasca (TI)","Verzasca TI","Tessin","Tessin","Ticino",68.967079432,FALSE,FALSE
 22,5401,,,,,,,,FALSE,"VD","Aigle","Aigle","Aigle","Aigle VD","Aigle (VD)","Aigle VD","Waadt","Vaud","Vaud",68.995092917,FALSE,FALSE
 22,5402,,,,,,,,FALSE,"VD","Bex","Bex","Bex","Bex VD","Bex (VD)","Bex VD","Waadt","Vaud","Vaud",68.995092917,FALSE,FALSE
 22,5403,59.900990099,121,81,72.972972973,216,296,202,TRUE,"VD","Chessel","Chessel","Chessel","Chessel VD","Chessel (VD)","Chessel VD","Waadt","Vaud","Vaud",68.995092917,FALSE,FALSE
