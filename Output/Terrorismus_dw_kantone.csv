@@ -1,5 +1,5 @@
 "Kantons_Nr","Kanton_d","Kanton_f","Kanton_i","Ja_Stimmen_In_Prozent_Kanton","Nein_Stimmen_In_Prozent_Kanton","Kanton_color","Gemeinden_overall","Gemeinden_counted","Legende"
-1,"Zürich","Zurich","Zurigo",58.2,41.8,100,162,144,"144/162"
+1,"Zürich","Zurich","Zurigo",58.1,41.9,100,162,146,"146/162"
 2,"Bern","Berne","Berna",54.7,45.3,100,334,85,"85/334"
 3,"Luzern","Lucerne","Lucerna",57.5,42.5,57.5,80,80,
 4,"Uri","Uri","Uri",53.7,46.3,53.7,19,19,
@@ -14,14 +14,14 @@
 13,"Basel-Landschaft","Bâle-Campagne","Basilea Campagna",55,45,100,86,79,"79/86"
 14,"Schaffhausen","Schaffhouse","Sciaffusa",56.4,43.6,56.4,26,26,
 15,"Appenzell Ausserrhoden","Appenzell Rhodes-Extérieures","Appenzello Esterno",51.1,48.9,51.1,20,20,
-16,"Appenzell Innerrhoden","Appenzell Rhodes-Intérieures","Appenzello Interno",0,0,50,6,0,"0/6"
+16,"Appenzell Innerrhoden","Appenzell Rhodes-Intérieures","Appenzello Interno",50,50,50,6,6,
 17,"St. Gallen","Saint-Gall","San Gallo",56.2,43.8,100,77,72,"72/77"
 18,"Graubünden","Grisons","Grigioni",58.8,41.2,58.8,101,101,
-19,"Aargau","Argovie","Argovia",57.1,42.9,100,210,176,"176/210"
+19,"Aargau","Argovie","Argovia",57.1,42.9,100,210,188,"188/210"
 20,"Thurgau","Thurgovie","Turgovia",54.7,45.3,100,80,78,"78/80"
-21,"Tessin","Tessin","Ticino",57.5,42.5,100,107,102,"102/107"
+21,"Tessin","Tessin","Ticino",57.3,42.7,100,107,104,"104/107"
 22,"Waadt","Vaud","Vaud",58.8,41.2,100,308,307,"307/308"
 23,"Wallis","Valais","Vallese",65,35,65,122,122,
 24,"Neuenburg","Neuchâtel","Neuchâtel",0,0,50,27,0,"0/27"
-25,"Genf","Genève","Ginevra",0,0,50,45,0,"0/45"
+25,"Genf","Genève","Ginevra",56,44,56,45,45,
 26,"Jura","Jura","Giura",61.6,38.4,100,53,42,"42/53"
