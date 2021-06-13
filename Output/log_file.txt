@@ -797,3 +797,18 @@ Luzern, Obwalden, Nidwalden, Glarus, Zug, Appenzell Ausserrhoden, Graubünden,
 
 2021-06-13 14:32:31 Terrorismus
 Luzern, Obwalden, Nidwalden, Glarus, Zug, Appenzell Ausserrhoden, Graubünden, 
+
+2021-06-13 14:33:21 Trinkwasser
+Luzern, Obwalden, Nidwalden, Glarus, Zug, Schaffhausen, Appenzell Ausserrhoden, Graubünden, Wallis, 
+
+2021-06-13 14:33:49 Pestizide
+Luzern, Obwalden, Nidwalden, Glarus, Zug, Schaffhausen, Appenzell Ausserrhoden, Graubünden, Wallis, 
+
+2021-06-13 14:34:16 Covid-19
+Luzern, Obwalden, Nidwalden, Glarus, Zug, Schaffhausen, Appenzell Ausserrhoden, Graubünden, Wallis, 
+
+2021-06-13 14:34:42 CO2
+Luzern, Obwalden, Nidwalden, Glarus, Zug, Schaffhausen, Appenzell Ausserrhoden, Graubünden, Wallis, 
+
+2021-06-13 14:35:08 Terrorismus
+Luzern, Obwalden, Nidwalden, Glarus, Zug, Schaffhausen, Appenzell Ausserrhoden, Graubünden, Wallis, 
