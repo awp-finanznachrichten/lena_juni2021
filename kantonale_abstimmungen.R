@@ -20,6 +20,7 @@ for (k in 1:length(kantonal_short) ) {
                                             kantonal_add[k],
                                             "kantonal")
   
+  results$Ja_Stimmen_In_Prozent_Kanton <- Ja_Stimmen_Kanton
   #results$Ja_Stimmen_In_Prozent_Kanton <- 55  #Ja_Stimmen_Kanton Simulation
   
   #Wie viele Gemeinden sind ausgezählt?
@@ -104,11 +105,11 @@ for (k in 1:length(kantonal_short) ) {
     
     #Vergleich innerhalb des Kantons (falls Daten vom Kanton vorhanden) -> Ändern von FALSE auf TRUE
     
-    #if (json_data_kantone$kantone$vorlagen[[kantonal_number[k]]]$vorlageBeendet[[kantonal_add[k]]] == TRUE) {
+    if (json_data_kantone$kantone$vorlagen[[kantonal_number[k]]]$vorlageBeendet[[kantonal_add[k]]] == TRUE) {
     
-    #results <- kanton_storyfinder_kantonal(results)
+    results <- kanton_storyfinder_kantonal(results)
     
-    #}
+    }
     
     #Textvorlagen laden
     Textbausteine <- as.data.frame(read_excel("Data/Textbausteine_LENA_Juni2021.xlsx", 
