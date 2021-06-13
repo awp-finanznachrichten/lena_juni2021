@@ -6,23 +6,23 @@
 "5","Fribourg","Freiburg","Friburgo","FR",67.332560421,"Fribourg","Freiburg","Friburgo","FR","FR","FR",67.332560421,67.332560421,67.332560421
 "6","Lucerne","Luzern","Lucerna","LU",66.584499152,"Lucerne","Luzern","Lucerna","LU","LU","LU",66.584499152,66.584499152,66.584499152
 "7","Soleure","Solothurn","Soletta","SO",66.27032937,"Soleure","Solothurn","Soletta","SO","SO","SO",66.27032937,66.27032937,66.27032937
-"8","Choulex","Choulex","Choulex","GE",66.098081023,"Choulex","Choulex","Choulex","GE","GE","GE",66.098081023,66.098081023,66.098081023
-"9","Vevey","Vevey","Vevey","VD",65.745623286,"Vevey","Vevey","Vevey","VD","VD","VD",65.745623286,65.745623286,65.745623286
-"10","Baden","Baden","Baden","AG",65.525322224,"Baden","Baden","Baden","AG","AG","AG",65.525322224,65.525322224,65.525322224
-"11","Genève","Genf","Ginevra","GE",65.385235518,"Genève","Genf","Ginevra","GE","GE","GE",65.385235518,65.385235518,65.385235518
-"12","Aarau","Aarau","Aarau","AG",65.137919575,"Aarau","Aarau","Aarau","AG","AG","AG",65.137919575,65.137919575,65.137919575
-"13","Carouge (GE)","CarouGE","CarouGE","GE",64.593467686,"Carouge (GE)","CarouGE","CarouGE","GE","GE","GE",64.593467686,64.593467686,64.593467686
-"14","Neuchâtel","Neuenburg","Neuenburg","NE",63.561484073,"Neuchâtel","Neuenburg","Neuenburg","NE","NE","NE",63.561484073,63.561484073,63.561484073
-"15","Pully","Pully","Pully","VD",63.004194902,"Pully","Pully","Pully","VD","VD","VD",63.004194902,63.004194902,63.004194902
-"16","Lully (VD)","Lully VD","Lully VD","VD",62.992125984,"Lully (VD)","Lully VD","Lully VD","VD","VD","VD",62.992125984,62.992125984,62.992125984
-"17","Chêne-Bougeries","Chêne-Bougeries","Chêne-Bougeries","GE",62.990810359,"Chêne-Bougeries","Chêne-Bougeries","Chêne-Bougeries","GE","GE","GE",62.990810359,62.990810359,62.990810359
-"18","Confignon","Confignon","Confignon","GE",62.791991101,"Confignon","Confignon","Confignon","GE","GE","GE",62.791991101,62.791991101,62.791991101
-"19","Saint-Gall","St. Gallen","San Gallo","SG",62.606528381,"Saint-Gall","St. Gallen","San Gallo","SG","SG","SG",62.606528381,62.606528381,62.606528381
-"20","Pregny-Chambésy","Pregny-Chambésy","Pregny-Chambésy","GE",62.264150943,"Pregny-Chambésy","Pregny-Chambésy","Pregny-Chambésy","GE","GE","GE",62.264150943,62.264150943,62.264150943
-"21","Rivaz","Rivaz","Rivaz","VD",62.162162162,"Rivaz","Rivaz","Rivaz","VD","VD","VD",62.162162162,62.162162162,62.162162162
-"22","Trogen","Trogen","Trogen","AR",61.95995785,"Trogen","Trogen","Trogen","AR","AR","AR",61.95995785,61.95995785,61.95995785
-"23","Saint-Blaise","Saint-Blaise","Saint-Blaise","NE",61.868300153,"Saint-Blaise","Saint-Blaise","Saint-Blaise","NE","NE","NE",61.868300153,61.868300153,61.868300153
-"24","Winterthour","Winterthur","Winterthur","ZH",61.857074187,"Winterthour","Winterthur","Winterthur","ZH","ZH","ZH",61.857074187,61.857074187,61.857074187
+"8","Winterthour","Winterthur","Winterthur","ZH",66.126267469,"Winterthour","Winterthur","Winterthur","ZH","ZH","ZH",66.126267469,66.126267469,66.126267469
+"9","Choulex","Choulex","Choulex","GE",66.098081023,"Choulex","Choulex","Choulex","GE","GE","GE",66.098081023,66.098081023,66.098081023
+"10","Vevey","Vevey","Vevey","VD",65.745623286,"Vevey","Vevey","Vevey","VD","VD","VD",65.745623286,65.745623286,65.745623286
+"11","Baden","Baden","Baden","AG",65.525322224,"Baden","Baden","Baden","AG","AG","AG",65.525322224,65.525322224,65.525322224
+"12","Genève","Genf","Ginevra","GE",65.385235518,"Genève","Genf","Ginevra","GE","GE","GE",65.385235518,65.385235518,65.385235518
+"13","Aarau","Aarau","Aarau","AG",65.137919575,"Aarau","Aarau","Aarau","AG","AG","AG",65.137919575,65.137919575,65.137919575
+"14","Carouge (GE)","CarouGE","CarouGE","GE",64.593467686,"Carouge (GE)","CarouGE","CarouGE","GE","GE","GE",64.593467686,64.593467686,64.593467686
+"15","Neuchâtel","Neuenburg","Neuenburg","NE",63.561484073,"Neuchâtel","Neuenburg","Neuenburg","NE","NE","NE",63.561484073,63.561484073,63.561484073
+"16","Pully","Pully","Pully","VD",63.004194902,"Pully","Pully","Pully","VD","VD","VD",63.004194902,63.004194902,63.004194902
+"17","Lully (VD)","Lully VD","Lully VD","VD",62.992125984,"Lully (VD)","Lully VD","Lully VD","VD","VD","VD",62.992125984,62.992125984,62.992125984
+"18","Chêne-Bougeries","Chêne-Bougeries","Chêne-Bougeries","GE",62.990810359,"Chêne-Bougeries","Chêne-Bougeries","Chêne-Bougeries","GE","GE","GE",62.990810359,62.990810359,62.990810359
+"19","Confignon","Confignon","Confignon","GE",62.791991101,"Confignon","Confignon","Confignon","GE","GE","GE",62.791991101,62.791991101,62.791991101
+"20","Saint-Gall","St. Gallen","San Gallo","SG",62.606528381,"Saint-Gall","St. Gallen","San Gallo","SG","SG","SG",62.606528381,62.606528381,62.606528381
+"21","Pregny-Chambésy","Pregny-Chambésy","Pregny-Chambésy","GE",62.264150943,"Pregny-Chambésy","Pregny-Chambésy","Pregny-Chambésy","GE","GE","GE",62.264150943,62.264150943,62.264150943
+"22","Rivaz","Rivaz","Rivaz","VD",62.162162162,"Rivaz","Rivaz","Rivaz","VD","VD","VD",62.162162162,62.162162162,62.162162162
+"23","Trogen","Trogen","Trogen","AR",61.95995785,"Trogen","Trogen","Trogen","AR","AR","AR",61.95995785,61.95995785,61.95995785
+"24","Saint-Blaise","Saint-Blaise","Saint-Blaise","NE",61.868300153,"Saint-Blaise","Saint-Blaise","Saint-Blaise","NE","NE","NE",61.868300153,61.868300153,61.868300153
 "25","Veyrier","Veyrier","Veyrier","GE",61.614071392,"Veyrier","Veyrier","Veyrier","GE","GE","GE",61.614071392,61.614071392,61.614071392
 "26","Coppet","Coppet","Coppet","VD",61.595744681,"Coppet","Coppet","Coppet","VD","VD","VD",61.595744681,61.595744681,61.595744681
 "27","Lenzburg","Lenzburg","Lenzburg","AG",61.339381003,"Lenzburg","Lenzburg","Lenzburg","AG","AG","AG",61.339381003,61.339381003,61.339381003
