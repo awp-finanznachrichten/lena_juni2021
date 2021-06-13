@@ -1,51 +1,51 @@
 "","Gemeinde_f","Gemeinde_d","Gemeinde_i","Kanton_Short","Ja_Stimmen_In_Prozent","Commune","Gemeinde","Comune","Canton","Kanton","Cantone","Pourcentage de non","Nein in %","Percentuale di no"
-"1","Riemenstalden","Riemenstalden","Riemenstalden","SZ",9.090909091,"Riemenstalden","Riemenstalden","Riemenstalden","SZ","SZ","SZ",90.909090909,90.909090909,90.909090909
-"2","Zwischbergen","Zwischbergen","Zwischbergen","VS",9.375,"Zwischbergen","Zwischbergen","Zwischbergen","VS","VS","VS",90.625,90.625,90.625
-"3","Vorderthal","Vorderthal","Vorderthal","SZ",12.237762238,"Vorderthal","Vorderthal","Vorderthal","SZ","SZ","SZ",87.762237762,87.762237762,87.762237762
-"4","Innerthal","Innerthal","Innerthal","SZ",13.793103448,"Innerthal","Innerthal","Innerthal","SZ","SZ","SZ",86.206896552,86.206896552,86.206896552
-"5","Alpthal","Alpthal","Alpthal","SZ",15.463917526,"Alpthal","Alpthal","Alpthal","SZ","SZ","SZ",84.536082474,84.536082474,84.536082474
-"6","Bourg-Saint-Pierre","Bourg-Saint-Pierre","Bourg-Saint-Pierre","VS",16.239316239,"Bourg-Saint-Pierre","Bourg-Saint-Pierre","Bourg-Saint-Pierre","VS","VS","VS",83.760683761,83.760683761,83.760683761
-"7","Le Châtelard","Le Châtelard","Le Châtelard","FR",16.990291262,"Le Châtelard","Le Châtelard","Le Châtelard","FR","FR","FR",83.009708738,83.009708738,83.009708738
-"8","Isone","Isone","Isone","TI",17.204301075,"Isone","Isone","Isone","TI","TI","TI",82.795698925,82.795698925,82.795698925
-"9","Hasle (LU)","Hasle LU","Hasle LU","LU",18.106617647,"Hasle (LU)","Hasle LU","Hasle LU","LU","LU","LU",81.893382353,81.893382353,81.893382353
-"10","Prévondavaux","Prévondavaux","Prévondavaux","FR",18.181818182,"Prévondavaux","Prévondavaux","Prévondavaux","FR","FR","FR",81.818181818,81.818181818,81.818181818
-"11","Zullwil","Zullwil","Zullwil","SO",18.587360595,"Zullwil","Zullwil","Zullwil","SO","SO","SO",81.412639405,81.412639405,81.412639405
-"12","Buseno","Buseno","Buseno","GR",18.75,"Buseno","Buseno","Buseno","GR","GR","GR",81.25,81.25,81.25
-"13","Raperswilen","Raperswilen","Raperswilen","TG",18.942731278,"Raperswilen","Raperswilen","Raperswilen","TG","TG","TG",81.057268722,81.057268722,81.057268722
-"14","Bellegarde","Jaun","Jaun","FR",19.553072626,"Bellegarde","Jaun","Jaun","FR","FR","FR",80.446927374,80.446927374,80.446927374
-"15","Saint-Silvestre","St. Silvester","St. Silvester","FR",20.374220374,"Saint-Silvestre","St. Silvester","St. Silvester","FR","FR","FR",79.625779626,79.625779626,79.625779626
-"16","Liedertswil","Liedertswil","Liedertswil","BL",20.481927711,"Liedertswil","Liedertswil","Liedertswil","BL","BL","BL",79.518072289,79.518072289,79.518072289
-"17","Samnaun","Samnaun","Samnaun","GR",20.78313253,"Samnaun","Samnaun","Samnaun","GR","GR","GR",79.21686747,79.21686747,79.21686747
-"18","Linescio","Linescio","Linescio","TI",20.833333333,"Linescio","Linescio","Linescio","TI","TI","TI",79.166666667,79.166666667,79.166666667
-"19","Illgau","Illgau","Illgau","SZ",20.987654321,"Illgau","Illgau","Illgau","SZ","SZ","SZ",79.012345679,79.012345679,79.012345679
-"20","Kirchleerau","Kirchleerau","Kirchleerau","AG",21.234567901,"Kirchleerau","Kirchleerau","Kirchleerau","AG","AG","AG",78.765432099,78.765432099,78.765432099
-"21","Furna","Furna","Furna","GR",21.428571429,"Furna","Furna","Furna","GR","GR","GR",78.571428571,78.571428571,78.571428571
-"22","Grangettes","Grangettes","Grangettes","FR",21.649484536,"Grangettes","Grangettes","Grangettes","FR","FR","FR",78.350515464,78.350515464,78.350515464
-"23","Schmiedrued","Schmiedrued","Schmiedrued","AG",21.880650995,"Schmiedrued","Schmiedrued","Schmiedrued","AG","AG","AG",78.119349005,78.119349005,78.119349005
-"24","Roggliswil","Roggliswil","Roggliswil","LU",21.939953811,"Roggliswil","Roggliswil","Roggliswil","LU","LU","LU",78.060046189,78.060046189,78.060046189
-"25","Saas-Grund","Saas-Grund","Saas-Grund","VS",22.072072072,"Saas-Grund","Saas-Grund","Saas-Grund","VS","VS","VS",77.927927928,77.927927928,77.927927928
-"26","Holderbank (SO)","Holderbank SO","Holderbank SO","SO",22.115384615,"Holderbank (SO)","Holderbank SO","Holderbank SO","SO","SO","SO",77.884615385,77.884615385,77.884615385
-"27","Moosleerau","Moosleerau","Moosleerau","AG",22.343324251,"Moosleerau","Moosleerau","Moosleerau","AG","AG","AG",77.656675749,77.656675749,77.656675749
-"28","Novalles","Novalles","Novalles","VD",22.580645161,"Novalles","Novalles","Novalles","VD","VD","VD",77.419354839,77.419354839,77.419354839
-"29","Agarn","Agarn","Agarn","VS",22.580645161,"Agarn","Agarn","Agarn","VS","VS","VS",77.419354839,77.419354839,77.419354839
-"30","Sembrancher","Sembrancher","Sembrancher","VS",22.845691383,"Sembrancher","Sembrancher","Sembrancher","VS","VS","VS",77.154308617,77.154308617,77.154308617
-"31","Embd","Embd","Embd","VS",22.916666667,"Embd","Embd","Embd","VS","VS","VS",77.083333333,77.083333333,77.083333333
-"32","Holziken","Holziken","Holziken","AG",22.961730449,"Holziken","Holziken","Holziken","AG","AG","AG",77.038269551,77.038269551,77.038269551
-"33","Ferrera","Ferrera","Ferrera","GR",23.076923077,"Ferrera","Ferrera","Ferrera","GR","GR","GR",76.923076923,76.923076923,76.923076923
-"34","Bretzwil","Bretzwil","Bretzwil","BL",23.232323232,"Bretzwil","Bretzwil","Bretzwil","BL","BL","BL",76.767676768,76.767676768,76.767676768
-"35","Mümliswil-Ramiswil","Mümliswil-Ramiswil","Mümliswil-Ramiswil","SO",23.236196319,"Mümliswil-Ramiswil","Mümliswil-Ramiswil","Mümliswil-Ramiswil","SO","SO","SO",76.763803681,76.763803681,76.763803681
-"36","Henniez","Henniez","Henniez","VD",23.287671233,"Henniez","Henniez","Henniez","VD","VD","VD",76.712328767,76.712328767,76.712328767
-"37","Leimbach (AG)","Leimbach AG","Leimbach AG","AG",23.651452282,"Leimbach (AG)","Leimbach AG","Leimbach AG","AG","AG","AG",76.348547718,76.348547718,76.348547718
-"38","Schönholzerswilen","Schönholzerswilen","Schönholzerswilen","TG",23.706896552,"Schönholzerswilen","Schönholzerswilen","Schönholzerswilen","TG","TG","TG",76.293103448,76.293103448,76.293103448
-"39","Steinerberg","Steinerberg","Steinerberg","SZ",23.837209302,"Steinerberg","Steinerberg","Steinerberg","SZ","SZ","SZ",76.162790698,76.162790698,76.162790698
-"40","Oberiberg","Oberiberg","Oberiberg","SZ",23.985239852,"Oberiberg","Oberiberg","Oberiberg","SZ","SZ","SZ",76.014760148,76.014760148,76.014760148
-"41","Sergey","Sergey","Sergey","VD",24.050632911,"Sergey","Sergey","Sergey","VD","VD","VD",75.949367089,75.949367089,75.949367089
-"42","Hergiswil bei Willisau","Hergiswil bei Willisau","Hergiswil bei Willisau","LU",24.060822898,"Hergiswil bei Willisau","Hergiswil bei Willisau","Hergiswil bei Willisau","LU","LU","LU",75.939177102,75.939177102,75.939177102
-"43","Romoos","Romoos","Romoos","LU",24.121779859,"Romoos","Romoos","Romoos","LU","LU","LU",75.878220141,75.878220141,75.878220141
-"44","Liddes","Liddes","Liddes","VS",24.137931034,"Liddes","Liddes","Liddes","VS","VS","VS",75.862068966,75.862068966,75.862068966
-"45","Chavannes-le-Chêne","Chavannes-le-Chêne","Chavannes-le-Chêne","VD",24.157303371,"Chavannes-le-Chêne","Chavannes-le-Chêne","Chavannes-le-Chêne","VD","VD","VD",75.842696629,75.842696629,75.842696629
-"46","Ménières","Ménières","Ménières","FR",24.193548387,"Ménières","Ménières","Ménières","FR","FR","FR",75.806451613,75.806451613,75.806451613
-"47","Fischbach","Fischbach","Fischbach","LU",24.310776942,"Fischbach","Fischbach","Fischbach","LU","LU","LU",75.689223058,75.689223058,75.689223058
-"48","Bedretto","Bedretto","Bedretto","TI",24.528301887,"Bedretto","Bedretto","Bedretto","TI","TI","TI",75.471698113,75.471698113,75.471698113
-"49","Böbikon","Böbikon","Böbikon","AG",24.742268041,"Böbikon","Böbikon","Böbikon","AG","AG","AG",75.257731959,75.257731959,75.257731959
-"50","Ufhusen","Ufhusen","Ufhusen","LU",24.813432836,"Ufhusen","Ufhusen","Ufhusen","LU","LU","LU",75.186567164,75.186567164,75.186567164
+"1","Ederswiler","Ederswiler","Ederswiler","JU",8.474576271,"Ederswiler","Ederswiler","Ederswiler","JU","JU","JU",91.525423729,91.525423729,91.525423729
+"2","Riemenstalden","Riemenstalden","Riemenstalden","SZ",9.090909091,"Riemenstalden","Riemenstalden","Riemenstalden","SZ","SZ","SZ",90.909090909,90.909090909,90.909090909
+"3","Zwischbergen","Zwischbergen","Zwischbergen","VS",9.375,"Zwischbergen","Zwischbergen","Zwischbergen","VS","VS","VS",90.625,90.625,90.625
+"4","Unteriberg","Unteriberg","Unteriberg","SZ",10.683760684,"Unteriberg","Unteriberg","Unteriberg","SZ","SZ","SZ",89.316239316,89.316239316,89.316239316
+"5","Vorderthal","Vorderthal","Vorderthal","SZ",12.237762238,"Vorderthal","Vorderthal","Vorderthal","SZ","SZ","SZ",87.762237762,87.762237762,87.762237762
+"6","Innerthal","Innerthal","Innerthal","SZ",13.793103448,"Innerthal","Innerthal","Innerthal","SZ","SZ","SZ",86.206896552,86.206896552,86.206896552
+"7","Rothenthurm","Rothenthurm","Rothenthurm","SZ",15.243415802,"Rothenthurm","Rothenthurm","Rothenthurm","SZ","SZ","SZ",84.756584198,84.756584198,84.756584198
+"8","Alpthal","Alpthal","Alpthal","SZ",15.463917526,"Alpthal","Alpthal","Alpthal","SZ","SZ","SZ",84.536082474,84.536082474,84.536082474
+"9","Bourg-Saint-Pierre","Bourg-Saint-Pierre","Bourg-Saint-Pierre","VS",16.239316239,"Bourg-Saint-Pierre","Bourg-Saint-Pierre","Bourg-Saint-Pierre","VS","VS","VS",83.760683761,83.760683761,83.760683761
+"10","Le Châtelard","Le Châtelard","Le Châtelard","FR",16.990291262,"Le Châtelard","Le Châtelard","Le Châtelard","FR","FR","FR",83.009708738,83.009708738,83.009708738
+"11","Isone","Isone","Isone","TI",17.204301075,"Isone","Isone","Isone","TI","TI","TI",82.795698925,82.795698925,82.795698925
+"12","Hasle (LU)","Hasle LU","Hasle LU","LU",18.106617647,"Hasle (LU)","Hasle LU","Hasle LU","LU","LU","LU",81.893382353,81.893382353,81.893382353
+"13","Prévondavaux","Prévondavaux","Prévondavaux","FR",18.181818182,"Prévondavaux","Prévondavaux","Prévondavaux","FR","FR","FR",81.818181818,81.818181818,81.818181818
+"14","Zullwil","Zullwil","Zullwil","SO",18.587360595,"Zullwil","Zullwil","Zullwil","SO","SO","SO",81.412639405,81.412639405,81.412639405
+"15","Buseno","Buseno","Buseno","GR",18.75,"Buseno","Buseno","Buseno","GR","GR","GR",81.25,81.25,81.25
+"16","Raperswilen","Raperswilen","Raperswilen","TG",18.942731278,"Raperswilen","Raperswilen","Raperswilen","TG","TG","TG",81.057268722,81.057268722,81.057268722
+"17","Bellegarde","Jaun","Jaun","FR",19.553072626,"Bellegarde","Jaun","Jaun","FR","FR","FR",80.446927374,80.446927374,80.446927374
+"18","Saint-Silvestre","St. Silvester","St. Silvester","FR",20.374220374,"Saint-Silvestre","St. Silvester","St. Silvester","FR","FR","FR",79.625779626,79.625779626,79.625779626
+"19","Liedertswil","Liedertswil","Liedertswil","BL",20.481927711,"Liedertswil","Liedertswil","Liedertswil","BL","BL","BL",79.518072289,79.518072289,79.518072289
+"20","Samnaun","Samnaun","Samnaun","GR",20.78313253,"Samnaun","Samnaun","Samnaun","GR","GR","GR",79.21686747,79.21686747,79.21686747
+"21","Linescio","Linescio","Linescio","TI",20.833333333,"Linescio","Linescio","Linescio","TI","TI","TI",79.166666667,79.166666667,79.166666667
+"22","Illgau","Illgau","Illgau","SZ",20.987654321,"Illgau","Illgau","Illgau","SZ","SZ","SZ",79.012345679,79.012345679,79.012345679
+"23","Kirchleerau","Kirchleerau","Kirchleerau","AG",21.234567901,"Kirchleerau","Kirchleerau","Kirchleerau","AG","AG","AG",78.765432099,78.765432099,78.765432099
+"24","Furna","Furna","Furna","GR",21.428571429,"Furna","Furna","Furna","GR","GR","GR",78.571428571,78.571428571,78.571428571
+"25","Grangettes","Grangettes","Grangettes","FR",21.649484536,"Grangettes","Grangettes","Grangettes","FR","FR","FR",78.350515464,78.350515464,78.350515464
+"26","Schmiedrued","Schmiedrued","Schmiedrued","AG",21.880650995,"Schmiedrued","Schmiedrued","Schmiedrued","AG","AG","AG",78.119349005,78.119349005,78.119349005
+"27","Roggliswil","Roggliswil","Roggliswil","LU",21.939953811,"Roggliswil","Roggliswil","Roggliswil","LU","LU","LU",78.060046189,78.060046189,78.060046189
+"28","Saas-Grund","Saas-Grund","Saas-Grund","VS",22.072072072,"Saas-Grund","Saas-Grund","Saas-Grund","VS","VS","VS",77.927927928,77.927927928,77.927927928
+"29","Holderbank (SO)","Holderbank SO","Holderbank SO","SO",22.115384615,"Holderbank (SO)","Holderbank SO","Holderbank SO","SO","SO","SO",77.884615385,77.884615385,77.884615385
+"30","Moosleerau","Moosleerau","Moosleerau","AG",22.343324251,"Moosleerau","Moosleerau","Moosleerau","AG","AG","AG",77.656675749,77.656675749,77.656675749
+"31","Novalles","Novalles","Novalles","VD",22.580645161,"Novalles","Novalles","Novalles","VD","VD","VD",77.419354839,77.419354839,77.419354839
+"32","Agarn","Agarn","Agarn","VS",22.580645161,"Agarn","Agarn","Agarn","VS","VS","VS",77.419354839,77.419354839,77.419354839
+"33","Sembrancher","Sembrancher","Sembrancher","VS",22.845691383,"Sembrancher","Sembrancher","Sembrancher","VS","VS","VS",77.154308617,77.154308617,77.154308617
+"34","Embd","Embd","Embd","VS",22.916666667,"Embd","Embd","Embd","VS","VS","VS",77.083333333,77.083333333,77.083333333
+"35","Holziken","Holziken","Holziken","AG",22.961730449,"Holziken","Holziken","Holziken","AG","AG","AG",77.038269551,77.038269551,77.038269551
+"36","Ferrera","Ferrera","Ferrera","GR",23.076923077,"Ferrera","Ferrera","Ferrera","GR","GR","GR",76.923076923,76.923076923,76.923076923
+"37","Bretzwil","Bretzwil","Bretzwil","BL",23.232323232,"Bretzwil","Bretzwil","Bretzwil","BL","BL","BL",76.767676768,76.767676768,76.767676768
+"38","Mümliswil-Ramiswil","Mümliswil-Ramiswil","Mümliswil-Ramiswil","SO",23.236196319,"Mümliswil-Ramiswil","Mümliswil-Ramiswil","Mümliswil-Ramiswil","SO","SO","SO",76.763803681,76.763803681,76.763803681
+"39","Henniez","Henniez","Henniez","VD",23.287671233,"Henniez","Henniez","Henniez","VD","VD","VD",76.712328767,76.712328767,76.712328767
+"40","Leimbach (AG)","Leimbach AG","Leimbach AG","AG",23.651452282,"Leimbach (AG)","Leimbach AG","Leimbach AG","AG","AG","AG",76.348547718,76.348547718,76.348547718
+"41","Schönholzerswilen","Schönholzerswilen","Schönholzerswilen","TG",23.706896552,"Schönholzerswilen","Schönholzerswilen","Schönholzerswilen","TG","TG","TG",76.293103448,76.293103448,76.293103448
+"42","Steinerberg","Steinerberg","Steinerberg","SZ",23.837209302,"Steinerberg","Steinerberg","Steinerberg","SZ","SZ","SZ",76.162790698,76.162790698,76.162790698
+"43","Oberiberg","Oberiberg","Oberiberg","SZ",23.985239852,"Oberiberg","Oberiberg","Oberiberg","SZ","SZ","SZ",76.014760148,76.014760148,76.014760148
+"44","Sergey","Sergey","Sergey","VD",24.050632911,"Sergey","Sergey","Sergey","VD","VD","VD",75.949367089,75.949367089,75.949367089
+"45","Hergiswil bei Willisau","Hergiswil bei Willisau","Hergiswil bei Willisau","LU",24.060822898,"Hergiswil bei Willisau","Hergiswil bei Willisau","Hergiswil bei Willisau","LU","LU","LU",75.939177102,75.939177102,75.939177102
+"46","Romoos","Romoos","Romoos","LU",24.121779859,"Romoos","Romoos","Romoos","LU","LU","LU",75.878220141,75.878220141,75.878220141
+"47","Liddes","Liddes","Liddes","VS",24.137931034,"Liddes","Liddes","Liddes","VS","VS","VS",75.862068966,75.862068966,75.862068966
+"48","Chavannes-le-Chêne","Chavannes-le-Chêne","Chavannes-le-Chêne","VD",24.157303371,"Chavannes-le-Chêne","Chavannes-le-Chêne","Chavannes-le-Chêne","VD","VD","VD",75.842696629,75.842696629,75.842696629
+"49","Ménières","Ménières","Ménières","FR",24.193548387,"Ménières","Ménières","Ménières","FR","FR","FR",75.806451613,75.806451613,75.806451613
+"50","Fischbach","Fischbach","Fischbach","LU",24.310776942,"Fischbach","Fischbach","Fischbach","LU","LU","LU",75.689223058,75.689223058,75.689223058
