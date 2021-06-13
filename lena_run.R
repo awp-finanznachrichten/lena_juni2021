@@ -2,7 +2,7 @@
 setwd("C:/Users/simon/OneDrive/LENA_Project/lena_juni2021")
 
 ###LENA alle 5 Sekunden laufen lassen
-repeat{
+#repeat{
 
 #Sys.sleep(60)
 
@@ -57,4 +57,4 @@ cat("Daten erfolgreich auf Github hochgeladen\n")
 time_end <- Sys.time()
 cat(time_end-time_start)
 
-}
+#}

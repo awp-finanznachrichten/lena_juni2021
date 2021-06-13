@@ -1019,3 +1019,30 @@ Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell
 
 2021-06-13 15:15:43 Terrorismus
 Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Wallis, Neuenburg, Genf, 
+
+2021-06-13 15:16:34 Trinkwasser
+Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Wallis, Neuenburg, Genf, 
+
+2021-06-13 15:17:02 Pestizide
+Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Wallis, Neuenburg, Genf, 
+
+2021-06-13 15:17:29 Covid-19
+Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Wallis, Neuenburg, Genf, 
+
+2021-06-13 15:17:57 CO2
+Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Wallis, Neuenburg, Genf, 
+
+2021-06-13 15:21:58 Trinkwasser
+Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Wallis, Neuenburg, Genf, 
+
+2021-06-13 15:22:35 Pestizide
+Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Wallis, Neuenburg, Genf, 
+
+2021-06-13 15:23:04 Covid-19
+Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Wallis, Neuenburg, Genf, 
+
+2021-06-13 15:23:34 CO2
+Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Wallis, Neuenburg, Genf, 
+
+2021-06-13 15:24:05 Terrorismus
+Luzern, Uri, Schwyz, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Tessin, Waadt, Wallis, Neuenburg, Genf, 
