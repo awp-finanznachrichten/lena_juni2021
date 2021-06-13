@@ -584,3 +584,18 @@ Glarus,
 
 2021-06-13 13:48:03 Terrorismus
 Glarus, 
+
+2021-06-13 13:49:29 Trinkwasser
+Glarus, 
+
+2021-06-13 13:49:56 Pestizide
+Glarus, 
+
+2021-06-13 13:50:23 Covid-19
+Glarus, 
+
+2021-06-13 13:50:46 CO2
+Glarus, 
+
+2021-06-13 13:51:10 Terrorismus
+Glarus, 
