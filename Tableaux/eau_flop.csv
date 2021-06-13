@@ -1,51 +1,51 @@
 "","Gemeinde_f","Gemeinde_d","Gemeinde_i","Kanton_Short","Ja_Stimmen_In_Prozent","Commune","Gemeinde","Comune","Canton","Kanton","Cantone","Pourcentage de non","Nein in %","Percentuale di no"
-"1","Bourg-Saint-Pierre","Bourg-Saint-Pierre","Bourg-Saint-Pierre","VS",4.201680672,"Bourg-Saint-Pierre","Bourg-Saint-Pierre","Bourg-Saint-Pierre","VS","VS","VS",95.798319328,95.798319328,95.798319328
+"1","Bourg-Saint-Pierre","Bourg-Saint-Pierre","Bourg-Saint-Pierre","VS",4.201681,"Bourg-Saint-Pierre","Bourg-Saint-Pierre","Bourg-Saint-Pierre","VS","VS","VS",95.798319,95.798319,95.798319
 "2","Riemenstalden","Riemenstalden","Riemenstalden","SZ",4.444444444,"Riemenstalden","Riemenstalden","Riemenstalden","SZ","SZ","SZ",95.555555556,95.555555556,95.555555556
 "3","Romoos","Romoos","Romoos","LU",6.944444444,"Romoos","Romoos","Romoos","LU","LU","LU",93.055555556,93.055555556,93.055555556
-"4","Villars-le-Comte","Villars-le-Comte","Villars-le-Comte","VD",7.042253521,"Villars-le-Comte","Villars-le-Comte","Villars-le-Comte","VD","VD","VD",92.957746479,92.957746479,92.957746479
+"4","Villars-le-Comte","Villars-le-Comte","Villars-le-Comte","VD",7.042254,"Villars-le-Comte","Villars-le-Comte","Villars-le-Comte","VD","VD","VD",92.957746,92.957746,92.957746
 "5","Luthern","Luthern","Luthern","LU",7.124010554,"Luthern","Luthern","Luthern","LU","LU","LU",92.875989446,92.875989446,92.875989446
-"6","Isérables","Isérables","Isérables","VS",8.415841584,"Isérables","Isérables","Isérables","VS","VS","VS",91.584158416,91.584158416,91.584158416
+"6","Isérables","Isérables","Isérables","VS",8.415842,"Isérables","Isérables","Isérables","VS","VS","VS",91.584158,91.584158,91.584158
 "7","Innerthal","Innerthal","Innerthal","SZ",8.474576271,"Innerthal","Innerthal","Innerthal","SZ","SZ","SZ",91.525423729,91.525423729,91.525423729
-"8","Törbel","Törbel","Törbel","VS",8.766233766,"Törbel","Törbel","Törbel","VS","VS","VS",91.233766234,91.233766234,91.233766234
-"9","Chavannes-le-Veyron","Chavannes-le-Veyron","Chavannes-le-Veyron","VD",9.411764706,"Chavannes-le-Veyron","Chavannes-le-Veyron","Chavannes-le-Veyron","VD","VD","VD",90.588235294,90.588235294,90.588235294
+"8","Törbel","Törbel","Törbel","VS",8.766234,"Törbel","Törbel","Törbel","VS","VS","VS",91.233766,91.233766,91.233766
+"9","Chavannes-le-Veyron","Chavannes-le-Veyron","Chavannes-le-Veyron","VD",9.411765,"Chavannes-le-Veyron","Chavannes-le-Veyron","Chavannes-le-Veyron","VD","VD","VD",90.588235,90.588235,90.588235
 "10","Hergiswil bei Willisau","Hergiswil bei Willisau","Hergiswil bei Willisau","LU",9.460654288,"Hergiswil bei Willisau","Hergiswil bei Willisau","Hergiswil bei Willisau","LU","LU","LU",90.539345712,90.539345712,90.539345712
 "11","Le Châtelard","Le Châtelard","Le Châtelard","FR",10.04784689,"Le Châtelard","Le Châtelard","Le Châtelard","FR","FR","FR",89.95215311,89.95215311,89.95215311
 "12","Entlebuch","Entlebuch","Entlebuch","LU",10.297961317,"Entlebuch","Entlebuch","Entlebuch","LU","LU","LU",89.702038683,89.702038683,89.702038683
 "13","Flühli","Flühli","Flühli","LU",10.664172123,"Flühli","Flühli","Flühli","LU","LU","LU",89.335827877,89.335827877,89.335827877
 "14","Hasle (LU)","Hasle LU","Hasle LU","LU",11.030082042,"Hasle (LU)","Hasle LU","Hasle LU","LU","LU","LU",88.969917958,88.969917958,88.969917958
-"15","Saas-Balen","Saas-Balen","Saas-Balen","VS",11.162790698,"Saas-Balen","Saas-Balen","Saas-Balen","VS","VS","VS",88.837209302,88.837209302,88.837209302
-"16","Poliez-Pittet","Poliez-Pittet","Poliez-Pittet","VD",11.168831169,"Poliez-Pittet","Poliez-Pittet","Poliez-Pittet","VD","VD","VD",88.831168831,88.831168831,88.831168831
+"15","Saas-Balen","Saas-Balen","Saas-Balen","VS",11.16279,"Saas-Balen","Saas-Balen","Saas-Balen","VS","VS","VS",88.83721,88.83721,88.83721
+"16","Poliez-Pittet","Poliez-Pittet","Poliez-Pittet","VD",11.16883,"Poliez-Pittet","Poliez-Pittet","Poliez-Pittet","VD","VD","VD",88.83117,88.83117,88.83117
 "17","Prévondavaux","Prévondavaux","Prévondavaux","FR",11.363636364,"Prévondavaux","Prévondavaux","Prévondavaux","FR","FR","FR",88.636363636,88.636363636,88.636363636
-"18","Saas-Grund","Saas-Grund","Saas-Grund","VS",11.409395973,"Saas-Grund","Saas-Grund","Saas-Grund","VS","VS","VS",88.590604027,88.590604027,88.590604027
-"19","Cerentino","Cerentino","Cerentino","TI",11.538461538,"Cerentino","Cerentino","Cerentino","TI","TI","TI",88.461538462,88.461538462,88.461538462
-"20","Sévery","Sévery","Sévery","VD",11.627906977,"Sévery","Sévery","Sévery","VD","VD","VD",88.372093023,88.372093023,88.372093023
-"21","Embd","Embd","Embd","VS",11.724137931,"Embd","Embd","Embd","VS","VS","VS",88.275862069,88.275862069,88.275862069
-"22","Treytorrens (Payerne)","Treytorrens (Payerne)","Treytorrens (Payerne)","VD",11.764705882,"Treytorrens (Payerne)","Treytorrens (Payerne)","Treytorrens (Payerne)","VD","VD","VD",88.235294118,88.235294118,88.235294118
+"18","Saas-Grund","Saas-Grund","Saas-Grund","VS",11.4094,"Saas-Grund","Saas-Grund","Saas-Grund","VS","VS","VS",88.5906,88.5906,88.5906
+"19","Cerentino","Cerentino","Cerentino","TI",11.53846,"Cerentino","Cerentino","Cerentino","TI","TI","TI",88.46154,88.46154,88.46154
+"20","Sévery","Sévery","Sévery","VD",11.62791,"Sévery","Sévery","Sévery","VD","VD","VD",88.37209,88.37209,88.37209
+"21","Embd","Embd","Embd","VS",11.72414,"Embd","Embd","Embd","VS","VS","VS",88.27586,88.27586,88.27586
+"22","Treytorrens (Payerne)","Treytorrens (Payerne)","Treytorrens (Payerne)","VD",11.76471,"Treytorrens (Payerne)","Treytorrens (Payerne)","Treytorrens (Payerne)","VD","VD","VD",88.23529,88.23529,88.23529
 "23","Pont-la-Ville","Pont-la-Ville","Pont-la-Ville","FR",11.897106109,"Pont-la-Ville","Pont-la-Ville","Pont-la-Ville","FR","FR","FR",88.102893891,88.102893891,88.102893891
 "24","Villarsel-sur-Marly","Villarsel-sur-Marly","Villarsel-sur-Marly","FR",11.904761905,"Villarsel-sur-Marly","Villarsel-sur-Marly","Villarsel-sur-Marly","FR","FR","FR",88.095238095,88.095238095,88.095238095
 "25","Doppleschwand","Doppleschwand","Doppleschwand","LU",12.007874016,"Doppleschwand","Doppleschwand","Doppleschwand","LU","LU","LU",87.992125984,87.992125984,87.992125984
-"26","Hermenches","Hermenches","Hermenches","VD",12.021857923,"Hermenches","Hermenches","Hermenches","VD","VD","VD",87.978142077,87.978142077,87.978142077
+"26","Hermenches","Hermenches","Hermenches","VD",12.02186,"Hermenches","Hermenches","Hermenches","VD","VD","VD",87.97814,87.97814,87.97814
 "27","Ufhusen","Ufhusen","Ufhusen","LU",12.081784387,"Ufhusen","Ufhusen","Ufhusen","LU","LU","LU",87.918215613,87.918215613,87.918215613
-"28","Bioley-Orjulaz","Bioley-Orjulaz","Bioley-Orjulaz","VD",12.096774194,"Bioley-Orjulaz","Bioley-Orjulaz","Bioley-Orjulaz","VD","VD","VD",87.903225806,87.903225806,87.903225806
-"29","Bussy-sur-Moudon","Bussy-sur-Moudon","Bussy-sur-Moudon","VD",12.096774194,"Bussy-sur-Moudon","Bussy-sur-Moudon","Bussy-sur-Moudon","VD","VD","VD",87.903225806,87.903225806,87.903225806
-"30","Saint-Martin (VS)","Saint-Martin VS","Saint-Martin VS","VS",12.173913043,"Saint-Martin (VS)","Saint-Martin VS","Saint-Martin VS","VS","VS","VS",87.826086957,87.826086957,87.826086957
-"31","Hérémence","Hérémence","Hérémence","VS",12.209302326,"Hérémence","Hérémence","Hérémence","VS","VS","VS",87.790697674,87.790697674,87.790697674
-"32","Sembrancher","Sembrancher","Sembrancher","VS",12.248995984,"Sembrancher","Sembrancher","Sembrancher","VS","VS","VS",87.751004016,87.751004016,87.751004016
+"28","Bioley-Orjulaz","Bioley-Orjulaz","Bioley-Orjulaz","VD",12.09677,"Bioley-Orjulaz","Bioley-Orjulaz","Bioley-Orjulaz","VD","VD","VD",87.90323,87.90323,87.90323
+"29","Bussy-sur-Moudon","Bussy-sur-Moudon","Bussy-sur-Moudon","VD",12.09677,"Bussy-sur-Moudon","Bussy-sur-Moudon","Bussy-sur-Moudon","VD","VD","VD",87.90323,87.90323,87.90323
+"30","Saint-Martin (VS)","Saint-Martin VS","Saint-Martin VS","VS",12.17391,"Saint-Martin (VS)","Saint-Martin VS","Saint-Martin VS","VS","VS","VS",87.82609,87.82609,87.82609
+"31","Hérémence","Hérémence","Hérémence","VS",12.2093,"Hérémence","Hérémence","Hérémence","VS","VS","VS",87.7907,87.7907,87.7907
+"32","Sembrancher","Sembrancher","Sembrancher","VS",12.249,"Sembrancher","Sembrancher","Sembrancher","VS","VS","VS",87.751,87.751,87.751
 "33","Unteriberg","Unteriberg","Unteriberg","SZ",12.306610408,"Unteriberg","Unteriberg","Unteriberg","SZ","SZ","SZ",87.693389592,87.693389592,87.693389592
-"34","Bovernier","Bovernier","Bovernier","VS",12.371134021,"Bovernier","Bovernier","Bovernier","VS","VS","VS",87.628865979,87.628865979,87.628865979
-"35","Simplon","Simplon","Sempione","VS",12.376237624,"Simplon","Simplon","Sempione","VS","VS","VS",87.623762376,87.623762376,87.623762376
+"34","Bovernier","Bovernier","Bovernier","VS",12.37113,"Bovernier","Bovernier","Bovernier","VS","VS","VS",87.62887,87.62887,87.62887
+"35","Simplon","Simplon","Sempione","VS",12.37624,"Simplon","Simplon","Sempione","VS","VS","VS",87.62376,87.62376,87.62376
 "36","Kammersrohr","Kammersrohr","Kammersrohr","SO",13.043478261,"Kammersrohr","Kammersrohr","Kammersrohr","SO","SO","SO",86.956521739,86.956521739,86.956521739
-"37","Menznau","Menznau","Menznau","LU",13.333333333,"Menznau","Menznau","Menznau","LU","LU","LU",86.666666667,86.666666667,86.666666667
-"38","Chavannes-le-Chêne","Chavannes-le-Chêne","Chavannes-le-Chêne","VD",13.333333333,"Chavannes-le-Chêne","Chavannes-le-Chêne","Chavannes-le-Chêne","VD","VD","VD",86.666666667,86.666666667,86.666666667
-"39","Ederswiler","Ederswiler","Ederswiler","JU",13.333333333,"Ederswiler","Ederswiler","Ederswiler","JU","JU","JU",86.666666667,86.666666667,86.666666667
+"37","Chavannes-le-Chêne","Chavannes-le-Chêne","Chavannes-le-Chêne","VD",13.33333,"Chavannes-le-Chêne","Chavannes-le-Chêne","Chavannes-le-Chêne","VD","VD","VD",86.66667,86.66667,86.66667
+"38","Ederswiler","Ederswiler","Ederswiler","JU",13.33333,"Ederswiler","Ederswiler","Ederswiler","JU","JU","JU",86.66667,86.66667,86.66667
+"39","Menznau","Menznau","Menznau","LU",13.333333333,"Menznau","Menznau","Menznau","LU","LU","LU",86.666666667,86.666666667,86.666666667
 "40","Illgau","Illgau","Illgau","SZ",13.347022587,"Illgau","Illgau","Illgau","SZ","SZ","SZ",86.652977413,86.652977413,86.652977413
-"41","Eischoll","Eischoll","Eischoll","VS",13.389121339,"Eischoll","Eischoll","Eischoll","VS","VS","VS",86.610878661,86.610878661,86.610878661
-"42","Orsières","Orsières","Orsières","VS",13.393432067,"Orsières","Orsières","Orsières","VS","VS","VS",86.606567933,86.606567933,86.606567933
-"43","Leytron","Leytron","Leytron","VS",13.48534202,"Leytron","Leytron","Leytron","VS","VS","VS",86.51465798,86.51465798,86.51465798
-"44","Rovray","Rovray","Rovray","VD",13.513513514,"Rovray","Rovray","Rovray","VD","VD","VD",86.486486486,86.486486486,86.486486486
-"45","Démoret","Démoret","Démoret","VD",13.541666667,"Démoret","Démoret","Démoret","VD","VD","VD",86.458333333,86.458333333,86.458333333
-"46","Rossenges","Rossenges","Rossenges","VD",13.636363636,"Rossenges","Rossenges","Rossenges","VD","VD","VD",86.363636364,86.363636364,86.363636364
+"41","Eischoll","Eischoll","Eischoll","VS",13.38912,"Eischoll","Eischoll","Eischoll","VS","VS","VS",86.61088,86.61088,86.61088
+"42","Orsières","Orsières","Orsières","VS",13.39343,"Orsières","Orsières","Orsières","VS","VS","VS",86.60657,86.60657,86.60657
+"43","Leytron","Leytron","Leytron","VS",13.48534,"Leytron","Leytron","Leytron","VS","VS","VS",86.51466,86.51466,86.51466
+"44","Rovray","Rovray","Rovray","VD",13.51351,"Rovray","Rovray","Rovray","VD","VD","VD",86.48649,86.48649,86.48649
+"45","Démoret","Démoret","Démoret","VD",13.54167,"Démoret","Démoret","Démoret","VD","VD","VD",86.45833,86.45833,86.45833
+"46","Rossenges","Rossenges","Rossenges","VD",13.63636,"Rossenges","Rossenges","Rossenges","VD","VD","VD",86.36364,86.36364,86.36364
 "47","Ménières","Ménières","Ménières","FR",13.829787234,"Ménières","Ménières","Ménières","FR","FR","FR",86.170212766,86.170212766,86.170212766
-"48","Raperswilen","Raperswilen","Raperswilen","TG",13.852813853,"Raperswilen","Raperswilen","Raperswilen","TG","TG","TG",86.147186147,86.147186147,86.147186147
+"48","Raperswilen","Raperswilen","Raperswilen","TG",13.85281,"Raperswilen","Raperswilen","Raperswilen","TG","TG","TG",86.14719,86.14719,86.14719
 "49","Alpthal","Alpthal","Alpthal","SZ",13.917525773,"Alpthal","Alpthal","Alpthal","SZ","SZ","SZ",86.082474227,86.082474227,86.082474227
 "50","Vuisternens-devant-Romont","Vuisternens-devant-Romont","Vuisternens-devant-Romont","FR",13.990066225,"Vuisternens-devant-Romont","Vuisternens-devant-Romont","Vuisternens-devant-Romont","FR","FR","FR",86.009933775,86.009933775,86.009933775
