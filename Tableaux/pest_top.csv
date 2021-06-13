@@ -1,5 +1,5 @@
 "","Gemeinde_f","Gemeinde_d","Gemeinde_i","Kanton_Short","Ja_Stimmen_In_Prozent","Commune","Gemeinde","Comune","Canton","Kanton","Cantone","Pourcentage de oui","Ja in %","Percentuale di sì"
-"1","Le Chenit","Le Chenit","Le Chenit","VD",62.402402402,"Le Chenit","Le Chenit","Le Chenit","VD","VD","VD",62.402402402,62.402402402,62.402402402
+"1","Bâle","Basel","Basilea","BS",58.93226625,"Bâle","Basel","Basilea","BS","BS","BS",58.93226625,58.93226625,58.93226625
 "2","Rodersdorf","Rodersdorf","Rodersdorf","SO",56.850192061,"Rodersdorf","Rodersdorf","Rodersdorf","SO","SO","SO",56.850192061,56.850192061,56.850192061
 "3","Gempen","Gempen","Gempen","SO",56.32183908,"Gempen","Gempen","Gempen","SO","SO","SO",56.32183908,56.32183908,56.32183908
 "4","Rüttenen","Rüttenen","Rüttenen","SO",52.683615819,"Rüttenen","Rüttenen","Rüttenen","SO","SO","SO",52.683615819,52.683615819,52.683615819
@@ -10,42 +10,42 @@
 "9","Sils im Engadin/Segl","Sils im Engadin/Segl","Sils im Engadin/Segl","GR",48.540145985,"Sils im Engadin/Segl","Sils im Engadin/Segl","Sils im Engadin/Segl","GR","GR","GR",48.540145985,48.540145985,48.540145985
 "10","Flims","Flims","Flims","GR",48.139158576,"Flims","Flims","Flims","GR","GR","GR",48.139158576,48.139158576,48.139158576
 "11","Bärschwil","Bärschwil","Bärschwil","SO",47.235023041,"Bärschwil","Bärschwil","Bärschwil","SO","SO","SO",47.235023041,47.235023041,47.235023041
-"12","Malans","Malans","Malans","GR",46.757405925,"Malans","Malans","Malans","GR","GR","GR",46.757405925,46.757405925,46.757405925
-"13","Hochwald","Hochwald","Hochwald","SO",46.648426813,"Hochwald","Hochwald","Hochwald","SO","SO","SO",46.648426813,46.648426813,46.648426813
-"14","Stallikon","Stallikon","Stallikon","ZH",46.577946768,"Stallikon","Stallikon","Stallikon","ZH","ZH","ZH",46.577946768,46.577946768,46.577946768
-"15","Grindel","Grindel","Grindel","SO",45.833333333,"Grindel","Grindel","Grindel","SO","SO","SO",45.833333333,45.833333333,45.833333333
-"16","Hauenstein-Ifenthal","Hauenstein-Ifenthal","Hauenstein-Ifenthal","SO",45.78313253,"Hauenstein-Ifenthal","Hauenstein-Ifenthal","Hauenstein-Ifenthal","SO","SO","SO",45.78313253,45.78313253,45.78313253
-"17","Ferreyres","Ferreyres","Ferreyres","VD",45.398773006,"Ferreyres","Ferreyres","Ferreyres","VD","VD","VD",45.398773006,45.398773006,45.398773006
-"18","Madulain","Madulain","Madulain","GR",44.230769231,"Madulain","Madulain","Madulain","GR","GR","GR",44.230769231,44.230769231,44.230769231
-"19","Scuol","Scuol","Scuol","GR",44.162940884,"Scuol","Scuol","Scuol","GR","GR","GR",44.162940884,44.162940884,44.162940884
-"20","Tamins","Tamins","Tamins","GR",44.117647059,"Tamins","Tamins","Tamins","GR","GR","GR",44.117647059,44.117647059,44.117647059
-"21","Romainmôtier-Envy","Romainmôtier-Envy","Romainmôtier-Envy","VD",44.106463878,"Romainmôtier-Envy","Romainmôtier-Envy","Romainmôtier-Envy","VD","VD","VD",44.106463878,44.106463878,44.106463878
-"22","Santa Maria in Calanca","Santa Maria in Calanca","Santa Maria in Calanca","GR",44.06779661,"Santa Maria in Calanca","Santa Maria in Calanca","Santa Maria in Calanca","GR","GR","GR",44.06779661,44.06779661,44.06779661
-"23","Schmerikon","Schmerikon","Schmerikon","SG",43.769230769,"Schmerikon","Schmerikon","Schmerikon","SG","SG","SG",43.769230769,43.769230769,43.769230769
-"24","Sagogn","Sagogn","Sagogn","GR",43.695014663,"Sagogn","Sagogn","Sagogn","GR","GR","GR",43.695014663,43.695014663,43.695014663
-"25","Hausen am Albis","Hausen am Albis","Hausen am Albis","ZH",43.28611898,"Hausen am Albis","Hausen am Albis","Hausen am Albis","ZH","ZH","ZH",43.28611898,43.28611898,43.28611898
-"26","Ottenbach","Ottenbach","Ottenbach","ZH",43.192133132,"Ottenbach","Ottenbach","Ottenbach","ZH","ZH","ZH",43.192133132,43.192133132,43.192133132
-"27","Prilly","Prilly","Prilly","VD",43.135210288,"Prilly","Prilly","Prilly","VD","VD","VD",43.135210288,43.135210288,43.135210288
-"28","Val Müstair","Val Müstair","Val Müstair","GR",42.258883249,"Val Müstair","Val Müstair","Val Müstair","GR","GR","GR",42.258883249,42.258883249,42.258883249
-"29","Reverolle","Reverolle","Reverolle","VD",42.222222222,"Reverolle","Reverolle","Reverolle","VD","VD","VD",42.222222222,42.222222222,42.222222222
-"30","Bever","Bever","Bever","GR",42.207792208,"Bever","Bever","Bever","GR","GR","GR",42.207792208,42.207792208,42.207792208
-"31","Oppens","Oppens","Oppens","VD",42.045454545,"Oppens","Oppens","Oppens","VD","VD","VD",42.045454545,42.045454545,42.045454545
-"32","Seltisberg","Seltisberg","Seltisberg","BL",41.907514451,"Seltisberg","Seltisberg","Seltisberg","BL","BL","BL",41.907514451,41.907514451,41.907514451
-"33","Hüniken","Hüniken","Hüniken","SO",41.758241758,"Hüniken","Hüniken","Hüniken","SO","SO","SO",41.758241758,41.758241758,41.758241758
-"34","Rothenbrunnen","Rothenbrunnen","Rothenbrunnen","GR",41.605839416,"Rothenbrunnen","Rothenbrunnen","Rothenbrunnen","GR","GR","GR",41.605839416,41.605839416,41.605839416
-"35","Vufflens-la-Ville","Vufflens-la-Ville","Vufflens-la-Ville","VD",41.373534338,"Vufflens-la-Ville","Vufflens-la-Ville","Vufflens-la-Ville","VD","VD","VD",41.373534338,41.373534338,41.373534338
-"36","Dänikon","Dänikon","Dänikon","ZH",41.185410334,"Dänikon","Dänikon","Dänikon","ZH","ZH","ZH",41.185410334,41.185410334,41.185410334
-"37","Zeneggen","Zeneggen","Zeneggen","VS",41.044776119,"Zeneggen","Zeneggen","Zeneggen","VS","VS","VS",41.044776119,41.044776119,41.044776119
-"38","Knonau","Knonau","Knonau","ZH",41.017964072,"Knonau","Knonau","Knonau","ZH","ZH","ZH",41.017964072,41.017964072,41.017964072
-"39","Bonaduz","Bonaduz","Bonaduz","GR",40.785714286,"Bonaduz","Bonaduz","Bonaduz","GR","GR","GR",40.785714286,40.785714286,40.785714286
-"40","Churwalden","Churwalden","Churwalden","GR",40.780141844,"Churwalden","Churwalden","Churwalden","GR","GR","GR",40.780141844,40.780141844,40.780141844
-"41","La Tour-de-Peilz","La Tour-de-Peilz","La Tour-de-Peilz","VD",40.540540541,"La Tour-de-Peilz","La Tour-de-Peilz","La Tour-de-Peilz","VD","VD","VD",40.540540541,40.540540541,40.540540541
-"42","Albula/Alvra","Albula/Alvra","Albula/Alvra","GR",40.455341506,"Albula/Alvra","Albula/Alvra","Albula/Alvra","GR","GR","GR",40.455341506,40.455341506,40.455341506
-"43","Giez","Giez","Giez","VD",40.298507463,"Giez","Giez","Giez","VD","VD","VD",40.298507463,40.298507463,40.298507463
-"44","Castaneda","Castaneda","Castaneda","GR",40.136054422,"Castaneda","Castaneda","Castaneda","GR","GR","GR",40.136054422,40.136054422,40.136054422
-"45","Jouxtens-Mézery","Jouxtens-Mézery","Jouxtens-Mézery","VD",40.064102564,"Jouxtens-Mézery","Jouxtens-Mézery","Jouxtens-Mézery","VD","VD","VD",40.064102564,40.064102564,40.064102564
-"46","Dägerlen","Dägerlen","Dägerlen","ZH",40,"Dägerlen","Dägerlen","Dägerlen","ZH","ZH","ZH",40,40,40
-"47","Horriwil","Horriwil","Horriwil","SO",39.86636971,"Horriwil","Horriwil","Horriwil","SO","SO","SO",39.86636971,39.86636971,39.86636971
-"48","Maienfeld","Maienfeld","Maienfeld","GR",39.854593523,"Maienfeld","Maienfeld","Maienfeld","GR","GR","GR",39.854593523,39.854593523,39.854593523
-"49","Felsberg","Felsberg","Felsberg","GR",39.689781022,"Felsberg","Felsberg","Felsberg","GR","GR","GR",39.689781022,39.689781022,39.689781022
-"50","Untervaz","Untervaz","Untervaz","GR",39.424860853,"Untervaz","Untervaz","Untervaz","GR","GR","GR",39.424860853,39.424860853,39.424860853
+"12","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","SO",46.956521739,"Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","Lüsslingen-Nennigkofen","SO","SO","SO",46.956521739,46.956521739,46.956521739
+"13","Malans","Malans","Malans","GR",46.757405925,"Malans","Malans","Malans","GR","GR","GR",46.757405925,46.757405925,46.757405925
+"14","Hochwald","Hochwald","Hochwald","SO",46.648426813,"Hochwald","Hochwald","Hochwald","SO","SO","SO",46.648426813,46.648426813,46.648426813
+"15","Stallikon","Stallikon","Stallikon","ZH",46.577946768,"Stallikon","Stallikon","Stallikon","ZH","ZH","ZH",46.577946768,46.577946768,46.577946768
+"16","Grindel","Grindel","Grindel","SO",45.833333333,"Grindel","Grindel","Grindel","SO","SO","SO",45.833333333,45.833333333,45.833333333
+"17","Hauenstein-Ifenthal","Hauenstein-Ifenthal","Hauenstein-Ifenthal","SO",45.78313253,"Hauenstein-Ifenthal","Hauenstein-Ifenthal","Hauenstein-Ifenthal","SO","SO","SO",45.78313253,45.78313253,45.78313253
+"18","Ferreyres","Ferreyres","Ferreyres","VD",45.398773006,"Ferreyres","Ferreyres","Ferreyres","VD","VD","VD",45.398773006,45.398773006,45.398773006
+"19","Madulain","Madulain","Madulain","GR",44.230769231,"Madulain","Madulain","Madulain","GR","GR","GR",44.230769231,44.230769231,44.230769231
+"20","Scuol","Scuol","Scuol","GR",44.162940884,"Scuol","Scuol","Scuol","GR","GR","GR",44.162940884,44.162940884,44.162940884
+"21","Tamins","Tamins","Tamins","GR",44.117647059,"Tamins","Tamins","Tamins","GR","GR","GR",44.117647059,44.117647059,44.117647059
+"22","Romainmôtier-Envy","Romainmôtier-Envy","Romainmôtier-Envy","VD",44.106463878,"Romainmôtier-Envy","Romainmôtier-Envy","Romainmôtier-Envy","VD","VD","VD",44.106463878,44.106463878,44.106463878
+"23","Santa Maria in Calanca","Santa Maria in Calanca","Santa Maria in Calanca","GR",44.06779661,"Santa Maria in Calanca","Santa Maria in Calanca","Santa Maria in Calanca","GR","GR","GR",44.06779661,44.06779661,44.06779661
+"24","Schmerikon","Schmerikon","Schmerikon","SG",43.769230769,"Schmerikon","Schmerikon","Schmerikon","SG","SG","SG",43.769230769,43.769230769,43.769230769
+"25","Sagogn","Sagogn","Sagogn","GR",43.695014663,"Sagogn","Sagogn","Sagogn","GR","GR","GR",43.695014663,43.695014663,43.695014663
+"26","Riehen","Riehen","Riehen","BS",43.60920666,"Riehen","Riehen","Riehen","BS","BS","BS",43.60920666,43.60920666,43.60920666
+"27","Hausen am Albis","Hausen am Albis","Hausen am Albis","ZH",43.28611898,"Hausen am Albis","Hausen am Albis","Hausen am Albis","ZH","ZH","ZH",43.28611898,43.28611898,43.28611898
+"28","Ottenbach","Ottenbach","Ottenbach","ZH",43.192133132,"Ottenbach","Ottenbach","Ottenbach","ZH","ZH","ZH",43.192133132,43.192133132,43.192133132
+"29","Prilly","Prilly","Prilly","VD",43.135210288,"Prilly","Prilly","Prilly","VD","VD","VD",43.135210288,43.135210288,43.135210288
+"30","Uetikon am See","Uetikon am See","Uetikon am See","ZH",42.75147929,"Uetikon am See","Uetikon am See","Uetikon am See","ZH","ZH","ZH",42.75147929,42.75147929,42.75147929
+"31","Regensberg","Regensberg","Regensberg","ZH",42.452830189,"Regensberg","Regensberg","Regensberg","ZH","ZH","ZH",42.452830189,42.452830189,42.452830189
+"32","Val Müstair","Val Müstair","Val Müstair","GR",42.258883249,"Val Müstair","Val Müstair","Val Müstair","GR","GR","GR",42.258883249,42.258883249,42.258883249
+"33","Reverolle","Reverolle","Reverolle","VD",42.222222222,"Reverolle","Reverolle","Reverolle","VD","VD","VD",42.222222222,42.222222222,42.222222222
+"34","Bever","Bever","Bever","GR",42.207792208,"Bever","Bever","Bever","GR","GR","GR",42.207792208,42.207792208,42.207792208
+"35","Oppens","Oppens","Oppens","VD",42.045454545,"Oppens","Oppens","Oppens","VD","VD","VD",42.045454545,42.045454545,42.045454545
+"36","Seltisberg","Seltisberg","Seltisberg","BL",41.907514451,"Seltisberg","Seltisberg","Seltisberg","BL","BL","BL",41.907514451,41.907514451,41.907514451
+"37","Hüniken","Hüniken","Hüniken","SO",41.758241758,"Hüniken","Hüniken","Hüniken","SO","SO","SO",41.758241758,41.758241758,41.758241758
+"38","Rothenbrunnen","Rothenbrunnen","Rothenbrunnen","GR",41.605839416,"Rothenbrunnen","Rothenbrunnen","Rothenbrunnen","GR","GR","GR",41.605839416,41.605839416,41.605839416
+"39","Vufflens-la-Ville","Vufflens-la-Ville","Vufflens-la-Ville","VD",41.373534338,"Vufflens-la-Ville","Vufflens-la-Ville","Vufflens-la-Ville","VD","VD","VD",41.373534338,41.373534338,41.373534338
+"40","Dänikon","Dänikon","Dänikon","ZH",41.185410334,"Dänikon","Dänikon","Dänikon","ZH","ZH","ZH",41.185410334,41.185410334,41.185410334
+"41","Zeneggen","Zeneggen","Zeneggen","VS",41.044776119,"Zeneggen","Zeneggen","Zeneggen","VS","VS","VS",41.044776119,41.044776119,41.044776119
+"42","Knonau","Knonau","Knonau","ZH",41.017964072,"Knonau","Knonau","Knonau","ZH","ZH","ZH",41.017964072,41.017964072,41.017964072
+"43","Bonaduz","Bonaduz","Bonaduz","GR",40.785714286,"Bonaduz","Bonaduz","Bonaduz","GR","GR","GR",40.785714286,40.785714286,40.785714286
+"44","Churwalden","Churwalden","Churwalden","GR",40.780141844,"Churwalden","Churwalden","Churwalden","GR","GR","GR",40.780141844,40.780141844,40.780141844
+"45","La Tour-de-Peilz","La Tour-de-Peilz","La Tour-de-Peilz","VD",40.540540541,"La Tour-de-Peilz","La Tour-de-Peilz","La Tour-de-Peilz","VD","VD","VD",40.540540541,40.540540541,40.540540541
+"46","Albula/Alvra","Albula/Alvra","Albula/Alvra","GR",40.455341506,"Albula/Alvra","Albula/Alvra","Albula/Alvra","GR","GR","GR",40.455341506,40.455341506,40.455341506
+"47","Giez","Giez","Giez","VD",40.298507463,"Giez","Giez","Giez","VD","VD","VD",40.298507463,40.298507463,40.298507463
+"48","Castaneda","Castaneda","Castaneda","GR",40.136054422,"Castaneda","Castaneda","Castaneda","GR","GR","GR",40.136054422,40.136054422,40.136054422
+"49","Jouxtens-Mézery","Jouxtens-Mézery","Jouxtens-Mézery","VD",40.064102564,"Jouxtens-Mézery","Jouxtens-Mézery","Jouxtens-Mézery","VD","VD","VD",40.064102564,40.064102564,40.064102564
+"50","Dägerlen","Dägerlen","Dägerlen","ZH",40,"Dägerlen","Dägerlen","Dägerlen","ZH","ZH","ZH",40,40,40
