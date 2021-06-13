@@ -1,51 +1,51 @@
 "","Gemeinde_f","Gemeinde_d","Gemeinde_i","Kanton_Short","Ja_Stimmen_In_Prozent","Commune","Gemeinde","Comune","Canton","Kanton","Cantone","Pourcentage de oui","Ja in %","Percentuale di sì"
 "1","Le Flon","Le Flon","Le Flon","FR",79.632721202,"Le Flon","Le Flon","Le Flon","FR","FR","FR",79.632721202,79.632721202,79.632721202
 "2","Remaufens","Remaufens","Remaufens","FR",73.306772908,"Remaufens","Remaufens","Remaufens","FR","FR","FR",73.306772908,73.306772908,73.306772908
-"3","Astano","Astano","Astano","TI",68.70748,"Astano","Astano","Astano","TI","TI","TI",68.70748,68.70748,68.70748
-"4","Quinto","Quinto","Quinto","TI",61.87215,"Quinto","Quinto","Quinto","TI","TI","TI",61.87215,61.87215,61.87215
+"3","Astano","Astano","Astano","TI",68.707482993,"Astano","Astano","Astano","TI","TI","TI",68.707482993,68.707482993,68.707482993
+"4","Quinto","Quinto","Quinto","TI",61.872146119,"Quinto","Quinto","Quinto","TI","TI","TI",61.872146119,61.872146119,61.872146119
 "5","Bâle","Basel","Basilea","BS",60.43598535,"Bâle","Basel","Basilea","BS","BS","BS",60.43598535,60.43598535,60.43598535
-"6","Trogen","Trogen","Trogen","AR",58.74346,"Trogen","Trogen","Trogen","AR","AR","AR",58.74346,58.74346,58.74346
+"6","Trogen","Trogen","Trogen","AR",58.743455497,"Trogen","Trogen","Trogen","AR","AR","AR",58.743455497,58.743455497,58.743455497
 "7","Rodersdorf","Rodersdorf","Rodersdorf","SO",57.928388747,"Rodersdorf","Rodersdorf","Rodersdorf","SO","SO","SO",57.928388747,57.928388747,57.928388747
 "8","Flurlingen","Flurlingen","Flurlingen","ZH",57.5,"Flurlingen","Flurlingen","Flurlingen","ZH","ZH","ZH",57.5,57.5,57.5
-"9","Winterthour","Winterthur","Winterthur","ZH",56.360801051,"Winterthour","Winterthur","Winterthur","ZH","ZH","ZH",56.360801051,56.360801051,56.360801051
-"10","Lucerne","Luzern","Lucerna","LU",55.809181841,"Lucerne","Luzern","Lucerna","LU","LU","LU",55.809181841,55.809181841,55.809181841
-"11","Arlesheim","Arlesheim","Arlesheim","BL",54.857881137,"Arlesheim","Arlesheim","Arlesheim","BL","BL","BL",54.857881137,54.857881137,54.857881137
-"12","Gempen","Gempen","Gempen","SO",53.773584906,"Gempen","Gempen","Gempen","SO","SO","SO",53.773584906,53.773584906,53.773584906
-"13","Mergoscia","Mergoscia","Mergoscia","TI",53.60825,"Mergoscia","Mergoscia","Mergoscia","TI","TI","TI",53.60825,53.60825,53.60825
-"14","Lausanne","Lausanne","Losanna","VD",52.08672,"Lausanne","Lausanne","Losanna","VD","VD","VD",52.08672,52.08672,52.08672
-"15","Rheinau","Rheinau","Rheinau","ZH",52.012882448,"Rheinau","Rheinau","Rheinau","ZH","ZH","ZH",52.012882448,52.012882448,52.012882448
-"16","Dittingen","Dittingen","Dittingen","BL",51.063829787,"Dittingen","Dittingen","Dittingen","BL","BL","BL",51.063829787,51.063829787,51.063829787
-"17","Seegräben","Seegräben","Seegräben","ZH",51.026392962,"Seegräben","Seegräben","Seegräben","ZH","ZH","ZH",51.026392962,51.026392962,51.026392962
-"18","Starrkirch-Wil","Starrkirch-Wil","Starrkirch-Wil","SO",50.769230769,"Starrkirch-Wil","Starrkirch-Wil","Starrkirch-Wil","SO","SO","SO",50.769230769,50.769230769,50.769230769
-"19","Windisch","Windisch","Windisch","AG",50.74684,"Windisch","Windisch","Windisch","AG","AG","AG",50.74684,50.74684,50.74684
-"20","Münchenstein","Münchenstein","Münchenstein","BL",50.720461095,"Münchenstein","Münchenstein","Münchenstein","BL","BL","BL",50.720461095,50.720461095,50.720461095
-"21","Rehetobel","Rehetobel","Rehetobel","AR",50.7027,"Rehetobel","Rehetobel","Rehetobel","AR","AR","AR",50.7027,50.7027,50.7027
-"22","Aranno","Aranno","Aranno","TI",50.65789,"Aranno","Aranno","Aranno","TI","TI","TI",50.65789,50.65789,50.65789
-"23","Trin","Trin","Trin","GR",50.59603,"Trin","Trin","Trin","GR","GR","GR",50.59603,50.59603,50.59603
-"24","Bärschwil","Bärschwil","Bärschwil","SO",50.114942529,"Bärschwil","Bärschwil","Bärschwil","SO","SO","SO",50.114942529,50.114942529,50.114942529
-"25","Birsfelden","Birsfelden","Birsfelden","BL",50.102669405,"Birsfelden","Birsfelden","Birsfelden","BL","BL","BL",50.102669405,50.102669405,50.102669405
-"26","Rifferswil","Rifferswil","Rifferswil","ZH",50.07751938,"Rifferswil","Rifferswil","Rifferswil","ZH","ZH","ZH",50.07751938,50.07751938,50.07751938
-"27","Vernate","Vernate","Vernate","TI",50,"Vernate","Vernate","Vernate","TI","TI","TI",50,50,50
-"28","Meyriez","Merlach","Merlach","FR",49.693251534,"Meyriez","Merlach","Merlach","FR","FR","FR",49.693251534,49.693251534,49.693251534
-"29","Burg im Leimental","Burg im Leimental","Burg im Leimental","BL",49.659863946,"Burg im Leimental","Burg im Leimental","Burg im Leimental","BL","BL","BL",49.659863946,49.659863946,49.659863946
-"30","Gottlieben","Gottlieben","Gottlieben","TG",49.51456,"Gottlieben","Gottlieben","Gottlieben","TG","TG","TG",49.51456,49.51456,49.51456
-"31","Oberrieden","Oberrieden","Oberrieden","ZH",49.500907441,"Oberrieden","Oberrieden","Oberrieden","ZH","ZH","ZH",49.500907441,49.500907441,49.500907441
-"32","Trimbach","Trimbach","Trimbach","SO",49.267049076,"Trimbach","Trimbach","Trimbach","SO","SO","SO",49.267049076,49.267049076,49.267049076
-"33","Fribourg","Freiburg","Friburgo","FR",49.210314982,"Fribourg","Freiburg","Friburgo","FR","FR","FR",49.210314982,49.210314982,49.210314982
-"34","Greng","Greng","Greng","FR",49.019607843,"Greng","Greng","Greng","FR","FR","FR",49.019607843,49.019607843,49.019607843
-"35","Miglieglia","Miglieglia","Miglieglia","TI",48.97959,"Miglieglia","Miglieglia","Miglieglia","TI","TI","TI",48.97959,48.97959,48.97959
-"36","Montilier","Muntelier","Muntelier","FR",48.717948718,"Montilier","Muntelier","Muntelier","FR","FR","FR",48.717948718,48.717948718,48.717948718
-"37","Hedingen","Hedingen","Hedingen","ZH",48.65967366,"Hedingen","Hedingen","Hedingen","ZH","ZH","ZH",48.65967366,48.65967366,48.65967366
-"38","Stallikon","Stallikon","Stallikon","ZH",48.362720403,"Stallikon","Stallikon","Stallikon","ZH","ZH","ZH",48.362720403,48.362720403,48.362720403
-"39","Brugg","Brugg","Brugg","AG",48.29436,"Brugg","Brugg","Brugg","AG","AG","AG",48.29436,48.29436,48.29436
-"40","Hochwald","Hochwald","Hochwald","SO",48.214285714,"Hochwald","Hochwald","Hochwald","SO","SO","SO",48.214285714,48.214285714,48.214285714
-"41","Schwerzenbach","Schwerzenbach","Schwerzenbach","ZH",48.152359295,"Schwerzenbach","Schwerzenbach","Schwerzenbach","ZH","ZH","ZH",48.152359295,48.152359295,48.152359295
-"42","Aeugst am Albis","Aeugst am Albis","Aeugst am Albis","ZH",48.12992126,"Aeugst am Albis","Aeugst am Albis","Aeugst am Albis","ZH","ZH","ZH",48.12992126,48.12992126,48.12992126
-"43","Langendorf","Langendorf","Langendorf","SO",47.984644914,"Langendorf","Langendorf","Langendorf","SO","SO","SO",47.984644914,47.984644914,47.984644914
-"44","Bister","Bister","Bister","VS",47.82609,"Bister","Bister","Bister","VS","VS","VS",47.82609,47.82609,47.82609
-"45","Gais","Gais","Gais","AR",47.81772,"Gais","Gais","Gais","AR","AR","AR",47.81772,47.81772,47.81772
-"46","Bedigliora","Bedigliora","Bedigliora","TI",47.80876,"Bedigliora","Bedigliora","Bedigliora","TI","TI","TI",47.80876,47.80876,47.80876
-"47","Bottighofen","Bottighofen","Bottighofen","TG",47.66249,"Bottighofen","Bottighofen","Bottighofen","TG","TG","TG",47.66249,47.66249,47.66249
-"48","Zofingue","Zofingen","Zofingen","AG",47.62284,"Zofingue","Zofingen","Zofingen","AG","AG","AG",47.62284,47.62284,47.62284
-"49","Scharans","Scharans","Scharans","GR",47.47706,"Scharans","Scharans","Scharans","GR","GR","GR",47.47706,47.47706,47.47706
-"50","Wettswil am Albis","Wettswil am Albis","Wettswil am Albis","ZH",47.370727432,"Wettswil am Albis","Wettswil am Albis","Wettswil am Albis","ZH","ZH","ZH",47.370727432,47.370727432,47.370727432
+"9","Ennetbaden","Ennetbaden","Ennetbaden","AG",57.486979167,"Ennetbaden","Ennetbaden","Ennetbaden","AG","AG","AG",57.486979167,57.486979167,57.486979167
+"10","Winterthour","Winterthur","Winterthur","ZH",56.360801051,"Winterthour","Winterthur","Winterthur","ZH","ZH","ZH",56.360801051,56.360801051,56.360801051
+"11","Baden","Baden","Baden","AG",55.908912446,"Baden","Baden","Baden","AG","AG","AG",55.908912446,55.908912446,55.908912446
+"12","Lucerne","Luzern","Lucerna","LU",55.809181841,"Lucerne","Luzern","Lucerna","LU","LU","LU",55.809181841,55.809181841,55.809181841
+"13","Arlesheim","Arlesheim","Arlesheim","BL",54.857881137,"Arlesheim","Arlesheim","Arlesheim","BL","BL","BL",54.857881137,54.857881137,54.857881137
+"14","Saint-Gall","St. Gallen","San Gallo","SG",54.016508959,"Saint-Gall","St. Gallen","San Gallo","SG","SG","SG",54.016508959,54.016508959,54.016508959
+"15","Stetten (AG)","Stetten AG","Stetten AG","AG",53.922789539,"Stetten (AG)","Stetten AG","Stetten AG","AG","AG","AG",53.922789539,53.922789539,53.922789539
+"16","Gempen","Gempen","Gempen","SO",53.773584906,"Gempen","Gempen","Gempen","SO","SO","SO",53.773584906,53.773584906,53.773584906
+"17","Mergoscia","Mergoscia","Mergoscia","TI",53.608247423,"Mergoscia","Mergoscia","Mergoscia","TI","TI","TI",53.608247423,53.608247423,53.608247423
+"18","Lausanne","Lausanne","Losanna","VD",52.086722563,"Lausanne","Lausanne","Losanna","VD","VD","VD",52.086722563,52.086722563,52.086722563
+"19","Rheinau","Rheinau","Rheinau","ZH",52.012882448,"Rheinau","Rheinau","Rheinau","ZH","ZH","ZH",52.012882448,52.012882448,52.012882448
+"20","Turgi","Turgi","Turgi","AG",51.600985222,"Turgi","Turgi","Turgi","AG","AG","AG",51.600985222,51.600985222,51.600985222
+"21","Dittingen","Dittingen","Dittingen","BL",51.063829787,"Dittingen","Dittingen","Dittingen","BL","BL","BL",51.063829787,51.063829787,51.063829787
+"22","Seegräben","Seegräben","Seegräben","ZH",51.026392962,"Seegräben","Seegräben","Seegräben","ZH","ZH","ZH",51.026392962,51.026392962,51.026392962
+"23","Starrkirch-Wil","Starrkirch-Wil","Starrkirch-Wil","SO",50.769230769,"Starrkirch-Wil","Starrkirch-Wil","Starrkirch-Wil","SO","SO","SO",50.769230769,50.769230769,50.769230769
+"24","Windisch","Windisch","Windisch","AG",50.746840291,"Windisch","Windisch","Windisch","AG","AG","AG",50.746840291,50.746840291,50.746840291
+"25","Lenzburg","Lenzburg","Lenzburg","AG",50.734312417,"Lenzburg","Lenzburg","Lenzburg","AG","AG","AG",50.734312417,50.734312417,50.734312417
+"26","Münchenstein","Münchenstein","Münchenstein","BL",50.720461095,"Münchenstein","Münchenstein","Münchenstein","BL","BL","BL",50.720461095,50.720461095,50.720461095
+"27","Rehetobel","Rehetobel","Rehetobel","AR",50.702702703,"Rehetobel","Rehetobel","Rehetobel","AR","AR","AR",50.702702703,50.702702703,50.702702703
+"28","Aranno","Aranno","Aranno","TI",50.657894737,"Aranno","Aranno","Aranno","TI","TI","TI",50.657894737,50.657894737,50.657894737
+"29","Rorschach","Rorschach","Rorschach","SG",50.617283951,"Rorschach","Rorschach","Rorschach","SG","SG","SG",50.617283951,50.617283951,50.617283951
+"30","Trin","Trin","Trin","GR",50.59602649,"Trin","Trin","Trin","GR","GR","GR",50.59602649,50.59602649,50.59602649
+"31","Bärschwil","Bärschwil","Bärschwil","SO",50.114942529,"Bärschwil","Bärschwil","Bärschwil","SO","SO","SO",50.114942529,50.114942529,50.114942529
+"32","Birsfelden","Birsfelden","Birsfelden","BL",50.102669405,"Birsfelden","Birsfelden","Birsfelden","BL","BL","BL",50.102669405,50.102669405,50.102669405
+"33","Rifferswil","Rifferswil","Rifferswil","ZH",50.07751938,"Rifferswil","Rifferswil","Rifferswil","ZH","ZH","ZH",50.07751938,50.07751938,50.07751938
+"34","Vernate","Vernate","Vernate","TI",50,"Vernate","Vernate","Vernate","TI","TI","TI",50,50,50
+"35","Meyriez","Merlach","Merlach","FR",49.693251534,"Meyriez","Merlach","Merlach","FR","FR","FR",49.693251534,49.693251534,49.693251534
+"36","Burg im Leimental","Burg im Leimental","Burg im Leimental","BL",49.659863946,"Burg im Leimental","Burg im Leimental","Burg im Leimental","BL","BL","BL",49.659863946,49.659863946,49.659863946
+"37","Gottlieben","Gottlieben","Gottlieben","TG",49.514563107,"Gottlieben","Gottlieben","Gottlieben","TG","TG","TG",49.514563107,49.514563107,49.514563107
+"38","Oberrieden","Oberrieden","Oberrieden","ZH",49.500907441,"Oberrieden","Oberrieden","Oberrieden","ZH","ZH","ZH",49.500907441,49.500907441,49.500907441
+"39","Rapperswil-Jona","Rapperswil-Jona","Rapperswil-Jona","SG",49.331365858,"Rapperswil-Jona","Rapperswil-Jona","Rapperswil-Jona","SG","SG","SG",49.331365858,49.331365858,49.331365858
+"40","Trimbach","Trimbach","Trimbach","SO",49.267049076,"Trimbach","Trimbach","Trimbach","SO","SO","SO",49.267049076,49.267049076,49.267049076
+"41","Fribourg","Freiburg","Friburgo","FR",49.210314982,"Fribourg","Freiburg","Friburgo","FR","FR","FR",49.210314982,49.210314982,49.210314982
+"42","Greng","Greng","Greng","FR",49.019607843,"Greng","Greng","Greng","FR","FR","FR",49.019607843,49.019607843,49.019607843
+"43","Miglieglia","Miglieglia","Miglieglia","TI",48.979591837,"Miglieglia","Miglieglia","Miglieglia","TI","TI","TI",48.979591837,48.979591837,48.979591837
+"44","Montilier","Muntelier","Muntelier","FR",48.717948718,"Montilier","Muntelier","Muntelier","FR","FR","FR",48.717948718,48.717948718,48.717948718
+"45","Hedingen","Hedingen","Hedingen","ZH",48.65967366,"Hedingen","Hedingen","Hedingen","ZH","ZH","ZH",48.65967366,48.65967366,48.65967366
+"46","Stallikon","Stallikon","Stallikon","ZH",48.362720403,"Stallikon","Stallikon","Stallikon","ZH","ZH","ZH",48.362720403,48.362720403,48.362720403
+"47","Brugg","Brugg","Brugg","AG",48.294357434,"Brugg","Brugg","Brugg","AG","AG","AG",48.294357434,48.294357434,48.294357434
+"48","Hochwald","Hochwald","Hochwald","SO",48.214285714,"Hochwald","Hochwald","Hochwald","SO","SO","SO",48.214285714,48.214285714,48.214285714
+"49","Schwerzenbach","Schwerzenbach","Schwerzenbach","ZH",48.152359295,"Schwerzenbach","Schwerzenbach","Schwerzenbach","ZH","ZH","ZH",48.152359295,48.152359295,48.152359295
+"50","Aeugst am Albis","Aeugst am Albis","Aeugst am Albis","ZH",48.12992126,"Aeugst am Albis","Aeugst am Albis","Aeugst am Albis","ZH","ZH","ZH",48.12992126,48.12992126,48.12992126
