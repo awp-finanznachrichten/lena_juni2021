@@ -659,3 +659,48 @@ Nidwalden, Glarus, Zug, Graubünden,
 
 2021-06-13 14:03:07 Terrorismus
 Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:03:56 Trinkwasser
+Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:04:21 Pestizide
+Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:04:44 Covid-19
+Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:05:08 CO2
+Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:05:34 Terrorismus
+Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:06:21 Trinkwasser
+Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:06:45 Pestizide
+Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:07:09 Covid-19
+Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:07:33 CO2
+Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:07:58 Terrorismus
+Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:10:48 Trinkwasser
+Luzern, Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:11:12 Pestizide
+Luzern, Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:11:37 Covid-19
+Luzern, Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:12:00 CO2
+Luzern, Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 14:12:24 Terrorismus
+Luzern, Nidwalden, Glarus, Zug, Graubünden, 
