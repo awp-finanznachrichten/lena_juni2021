@@ -1,6 +1,6 @@
 "Kantons_Nr","Kanton_d","Kanton_f","Kanton_i","Ja_Stimmen_In_Prozent_Kanton","Nein_Stimmen_In_Prozent_Kanton","Kanton_color","Gemeinden_overall","Gemeinden_counted","Legende"
 1,"Zürich","Zurich","Zurigo",41.9,58.1,0,162,150,"150/162"
-2,"Bern","Berne","Berna",30.5,69.5,0,334,85,"85/334"
+2,"Bern","Berne","Berna",30.5,69.5,0,334,164,"164/334"
 3,"Luzern","Lucerne","Lucerna",33.9,66.1,33.9,80,80,
 4,"Uri","Uri","Uri",27.7,72.3,27.7,19,19,
 5,"Schwyz","Schwyz","Svitto",28.3,71.7,0,30,27,"27/30"
