@@ -974,3 +974,18 @@ Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell
 
 2021-06-13 15:05:18 Terrorismus
 Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Wallis, Neuenburg, Genf, 
+
+2021-06-13 15:06:14 Trinkwasser
+Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Wallis, Neuenburg, Genf, 
+
+2021-06-13 15:06:41 Pestizide
+Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Wallis, Neuenburg, Genf, 
+
+2021-06-13 15:07:08 Covid-19
+Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Wallis, Neuenburg, Genf, 
+
+2021-06-13 15:07:38 CO2
+Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Wallis, Neuenburg, Genf, 
+
+2021-06-13 15:08:05 Terrorismus
+Luzern, Uri, Obwalden, Nidwalden, Glarus, Zug, Freiburg, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, Graubünden, Aargau, Wallis, Neuenburg, Genf, 
