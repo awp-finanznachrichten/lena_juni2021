@@ -614,3 +614,18 @@ Glarus, Zug, Graubünden,
 
 2021-06-13 13:54:49 Terrorismus
 Glarus, Graubünden, 
+
+2021-06-13 13:55:55 Trinkwasser
+Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 13:56:21 Pestizide
+Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 13:56:46 Covid-19
+Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 13:57:10 CO2
+Nidwalden, Glarus, Zug, Graubünden, 
+
+2021-06-13 13:57:34 Terrorismus
+Nidwalden, Glarus, Zug, Graubünden, 
