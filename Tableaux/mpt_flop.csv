@@ -11,41 +11,41 @@
 "10","Trey","Trey","Trey","VD",34.693877551,"Trey","Trey","Trey","VD","VD","VD",65.306122449,65.306122449,65.306122449
 "11","Alpthal","Alpthal","Alpthal","SZ",35.078534031,"Alpthal","Alpthal","Alpthal","SZ","SZ","SZ",64.921465969,64.921465969,64.921465969
 "12","Bellegarde","Jaun","Jaun","FR",35.410764873,"Bellegarde","Jaun","Jaun","FR","FR","FR",64.589235127,64.589235127,64.589235127
-"13","Rothenthurm","Rothenthurm","Rothenthurm","SZ",36.956521739,"Rothenthurm","Rothenthurm","Rothenthurm","SZ","SZ","SZ",63.043478261,63.043478261,63.043478261
-"14","Rongellen","Rongellen","Rongellen","GR",37.037037037,"Rongellen","Rongellen","Rongellen","GR","GR","GR",62.962962963,62.962962963,62.962962963
-"15","Kestenholz","Kestenholz","Kestenholz","SO",38.152173913,"Kestenholz","Kestenholz","Kestenholz","SO","SO","SO",61.847826087,61.847826087,61.847826087
-"16","Morschach","Morschach","Morschach","SZ",38.305709024,"Morschach","Morschach","Morschach","SZ","SZ","SZ",61.694290976,61.694290976,61.694290976
-"17","Ropraz","Ropraz","Ropraz","VD",39.150943396,"Ropraz","Ropraz","Ropraz","VD","VD","VD",60.849056604,60.849056604,60.849056604
-"18","Oberiberg","Oberiberg","Oberiberg","SZ",39.298892989,"Oberiberg","Oberiberg","Oberiberg","SZ","SZ","SZ",60.701107011,60.701107011,60.701107011
-"19","Avers","Avers","Avers","GR",40.206185567,"Avers","Avers","Avers","GR","GR","GR",59.793814433,59.793814433,59.793814433
-"20","Mergoscia","Mergoscia","Mergoscia","TI",40.206185567,"Mergoscia","Mergoscia","Mergoscia","TI","TI","TI",59.793814433,59.793814433,59.793814433
-"21","Lauwil","Lauwil","Lauwil","BL",40.397350993,"Lauwil","Lauwil","Lauwil","BL","BL","BL",59.602649007,59.602649007,59.602649007
-"22","Beinwil (SO)","Beinwil SO","Beinwil SO","SO",41.379310345,"Beinwil (SO)","Beinwil SO","Beinwil SO","SO","SO","SO",58.620689655,58.620689655,58.620689655
-"23","Binn","Binn","Binn","VS",41.379310345,"Binn","Binn","Binn","VS","VS","VS",58.620689655,58.620689655,58.620689655
-"24","Hasle (LU)","Hasle LU","Hasle LU","LU",41.47250699,"Hasle (LU)","Hasle LU","Hasle LU","LU","LU","LU",58.52749301,58.52749301,58.52749301
-"25","Warth-Weiningen","Warth-Weiningen","Warth-Weiningen","TG",41.540785498,"Warth-Weiningen","Warth-Weiningen","Warth-Weiningen","TG","TG","TG",58.459214502,58.459214502,58.459214502
-"26","Samnaun","Samnaun","Samnaun","GR",41.666666667,"Samnaun","Samnaun","Samnaun","GR","GR","GR",58.333333333,58.333333333,58.333333333
-"27","Surses","Surses","Surses","GR",41.733067729,"Surses","Surses","Surses","GR","GR","GR",58.266932271,58.266932271,58.266932271
-"28","Albinen","Albinen","Albinen","VS",41.791044776,"Albinen","Albinen","Albinen","VS","VS","VS",58.208955224,58.208955224,58.208955224
-"29","Fischenthal","Fischenthal","Fischenthal","ZH",41.803989592,"Fischenthal","Fischenthal","Fischenthal","ZH","ZH","ZH",58.196010408,58.196010408,58.196010408
-"30","Ziefen","Ziefen","Ziefen","BL",41.860465116,"Ziefen","Ziefen","Ziefen","BL","BL","BL",58.139534884,58.139534884,58.139534884
-"31","Raperswilen","Raperswilen","Raperswilen","TG",42.03539823,"Raperswilen","Raperswilen","Raperswilen","TG","TG","TG",57.96460177,57.96460177,57.96460177
-"32","Vaux-sur-Morges","Vaux-sur-Morges","Vaux-sur-Morges","VD",42.222222222,"Vaux-sur-Morges","Vaux-sur-Morges","Vaux-sur-Morges","VD","VD","VD",57.777777778,57.777777778,57.777777778
-"33","Böbikon","Böbikon","Böbikon","AG",42.268041237,"Böbikon","Böbikon","Böbikon","AG","AG","AG",57.731958763,57.731958763,57.731958763
-"34","Campo (Vallemaggia)","Campo (Vallemaggia)","Campo (Vallemaggia)","TI",42.424242424,"Campo (Vallemaggia)","Campo (Vallemaggia)","Campo (Vallemaggia)","TI","TI","TI",57.575757576,57.575757576,57.575757576
-"35","Romainmôtier-Envy","Romainmôtier-Envy","Romainmôtier-Envy","VD",42.519685039,"Romainmôtier-Envy","Romainmôtier-Envy","Romainmôtier-Envy","VD","VD","VD",57.480314961,57.480314961,57.480314961
-"36","Marthalen","Marthalen","Marthalen","ZH",42.697768763,"Marthalen","Marthalen","Marthalen","ZH","ZH","ZH",57.302231237,57.302231237,57.302231237
-"37","Walzenhausen","Walzenhausen","Walzenhausen","AR",42.705882353,"Walzenhausen","Walzenhausen","Walzenhausen","AR","AR","AR",57.294117647,57.294117647,57.294117647
-"38","Astano","Astano","Astano","TI",42.857142857,"Astano","Astano","Astano","TI","TI","TI",57.142857143,57.142857143,57.142857143
-"39","Ederswiler","Ederswiler","Ederswiler","JU",42.857142857,"Ederswiler","Ederswiler","Ederswiler","JU","JU","JU",57.142857143,57.142857143,57.142857143
-"40","Roggenburg","Roggenburg","Roggenburg","BL",43.046357616,"Roggenburg","Roggenburg","Roggenburg","BL","BL","BL",56.953642384,56.953642384,56.953642384
-"41","Aranno","Aranno","Aranno","TI",43.333333333,"Aranno","Aranno","Aranno","TI","TI","TI",56.666666667,56.666666667,56.666666667
-"42","Romoos","Romoos","Romoos","LU",43.436754177,"Romoos","Romoos","Romoos","LU","LU","LU",56.563245823,56.563245823,56.563245823
-"43","Linescio","Linescio","Linescio","TI",43.47826087,"Linescio","Linescio","Linescio","TI","TI","TI",56.52173913,56.52173913,56.52173913
-"44","Bâle","Basel","Basilea","BS",43.591004781,"Bâle","Basel","Basilea","BS","BS","BS",56.408995219,56.408995219,56.408995219
-"45","Lauerz","Lauerz","Lauerz","SZ",43.771626298,"Lauerz","Lauerz","Lauerz","SZ","SZ","SZ",56.228373702,56.228373702,56.228373702
-"46","Gempen","Gempen","Gempen","SO",44.186046512,"Gempen","Gempen","Gempen","SO","SO","SO",55.813953488,55.813953488,55.813953488
-"47","Hemberg","Hemberg","Hemberg","SG",44.401544402,"Hemberg","Hemberg","Hemberg","SG","SG","SG",55.598455598,55.598455598,55.598455598
-"48","Rifferswil","Rifferswil","Rifferswil","ZH",44.620253165,"Rifferswil","Rifferswil","Rifferswil","ZH","ZH","ZH",55.379746835,55.379746835,55.379746835
-"49","Tschappina","Tschappina","Tschappina","GR",44.705882353,"Tschappina","Tschappina","Tschappina","GR","GR","GR",55.294117647,55.294117647,55.294117647
-"50","Neckertal","Neckertal","Neckertal","SG",44.776876268,"Neckertal","Neckertal","Neckertal","SG","SG","SG",55.223123732,55.223123732,55.223123732
+"13","Wald (AR)","Wald AR","Wald AR","AR",36.477987421,"Wald (AR)","Wald AR","Wald AR","AR","AR","AR",63.522012579,63.522012579,63.522012579
+"14","Rothenthurm","Rothenthurm","Rothenthurm","SZ",36.956521739,"Rothenthurm","Rothenthurm","Rothenthurm","SZ","SZ","SZ",63.043478261,63.043478261,63.043478261
+"15","Rongellen","Rongellen","Rongellen","GR",37.037037037,"Rongellen","Rongellen","Rongellen","GR","GR","GR",62.962962963,62.962962963,62.962962963
+"16","Kestenholz","Kestenholz","Kestenholz","SO",38.152173913,"Kestenholz","Kestenholz","Kestenholz","SO","SO","SO",61.847826087,61.847826087,61.847826087
+"17","Morschach","Morschach","Morschach","SZ",38.305709024,"Morschach","Morschach","Morschach","SZ","SZ","SZ",61.694290976,61.694290976,61.694290976
+"18","Ropraz","Ropraz","Ropraz","VD",39.150943396,"Ropraz","Ropraz","Ropraz","VD","VD","VD",60.849056604,60.849056604,60.849056604
+"19","Oberiberg","Oberiberg","Oberiberg","SZ",39.298892989,"Oberiberg","Oberiberg","Oberiberg","SZ","SZ","SZ",60.701107011,60.701107011,60.701107011
+"20","Avers","Avers","Avers","GR",40.206185567,"Avers","Avers","Avers","GR","GR","GR",59.793814433,59.793814433,59.793814433
+"21","Mergoscia","Mergoscia","Mergoscia","TI",40.206185567,"Mergoscia","Mergoscia","Mergoscia","TI","TI","TI",59.793814433,59.793814433,59.793814433
+"22","Lauwil","Lauwil","Lauwil","BL",40.397350993,"Lauwil","Lauwil","Lauwil","BL","BL","BL",59.602649007,59.602649007,59.602649007
+"23","Hundwil","Hundwil","Hundwil","AR",41.005802708,"Hundwil","Hundwil","Hundwil","AR","AR","AR",58.994197292,58.994197292,58.994197292
+"24","Beinwil (SO)","Beinwil SO","Beinwil SO","SO",41.379310345,"Beinwil (SO)","Beinwil SO","Beinwil SO","SO","SO","SO",58.620689655,58.620689655,58.620689655
+"25","Binn","Binn","Binn","VS",41.379310345,"Binn","Binn","Binn","VS","VS","VS",58.620689655,58.620689655,58.620689655
+"26","Hasle (LU)","Hasle LU","Hasle LU","LU",41.47250699,"Hasle (LU)","Hasle LU","Hasle LU","LU","LU","LU",58.52749301,58.52749301,58.52749301
+"27","Warth-Weiningen","Warth-Weiningen","Warth-Weiningen","TG",41.540785498,"Warth-Weiningen","Warth-Weiningen","Warth-Weiningen","TG","TG","TG",58.459214502,58.459214502,58.459214502
+"28","Trogen","Trogen","Trogen","AR",41.604278075,"Trogen","Trogen","Trogen","AR","AR","AR",58.395721925,58.395721925,58.395721925
+"29","Samnaun","Samnaun","Samnaun","GR",41.666666667,"Samnaun","Samnaun","Samnaun","GR","GR","GR",58.333333333,58.333333333,58.333333333
+"30","Surses","Surses","Surses","GR",41.733067729,"Surses","Surses","Surses","GR","GR","GR",58.266932271,58.266932271,58.266932271
+"31","Albinen","Albinen","Albinen","VS",41.791044776,"Albinen","Albinen","Albinen","VS","VS","VS",58.208955224,58.208955224,58.208955224
+"32","Fischenthal","Fischenthal","Fischenthal","ZH",41.803989592,"Fischenthal","Fischenthal","Fischenthal","ZH","ZH","ZH",58.196010408,58.196010408,58.196010408
+"33","Ziefen","Ziefen","Ziefen","BL",41.860465116,"Ziefen","Ziefen","Ziefen","BL","BL","BL",58.139534884,58.139534884,58.139534884
+"34","Raperswilen","Raperswilen","Raperswilen","TG",42.03539823,"Raperswilen","Raperswilen","Raperswilen","TG","TG","TG",57.96460177,57.96460177,57.96460177
+"35","Vaux-sur-Morges","Vaux-sur-Morges","Vaux-sur-Morges","VD",42.222222222,"Vaux-sur-Morges","Vaux-sur-Morges","Vaux-sur-Morges","VD","VD","VD",57.777777778,57.777777778,57.777777778
+"36","Böbikon","Böbikon","Böbikon","AG",42.268041237,"Böbikon","Böbikon","Böbikon","AG","AG","AG",57.731958763,57.731958763,57.731958763
+"37","Campo (Vallemaggia)","Campo (Vallemaggia)","Campo (Vallemaggia)","TI",42.424242424,"Campo (Vallemaggia)","Campo (Vallemaggia)","Campo (Vallemaggia)","TI","TI","TI",57.575757576,57.575757576,57.575757576
+"38","Romainmôtier-Envy","Romainmôtier-Envy","Romainmôtier-Envy","VD",42.519685039,"Romainmôtier-Envy","Romainmôtier-Envy","Romainmôtier-Envy","VD","VD","VD",57.480314961,57.480314961,57.480314961
+"39","Urnäsch","Urnäsch","Urnäsch","AR",42.525773196,"Urnäsch","Urnäsch","Urnäsch","AR","AR","AR",57.474226804,57.474226804,57.474226804
+"40","Marthalen","Marthalen","Marthalen","ZH",42.697768763,"Marthalen","Marthalen","Marthalen","ZH","ZH","ZH",57.302231237,57.302231237,57.302231237
+"41","Walzenhausen","Walzenhausen","Walzenhausen","AR",42.705882353,"Walzenhausen","Walzenhausen","Walzenhausen","AR","AR","AR",57.294117647,57.294117647,57.294117647
+"42","Astano","Astano","Astano","TI",42.857142857,"Astano","Astano","Astano","TI","TI","TI",57.142857143,57.142857143,57.142857143
+"43","Ederswiler","Ederswiler","Ederswiler","JU",42.857142857,"Ederswiler","Ederswiler","Ederswiler","JU","JU","JU",57.142857143,57.142857143,57.142857143
+"44","Roggenburg","Roggenburg","Roggenburg","BL",43.046357616,"Roggenburg","Roggenburg","Roggenburg","BL","BL","BL",56.953642384,56.953642384,56.953642384
+"45","Aranno","Aranno","Aranno","TI",43.333333333,"Aranno","Aranno","Aranno","TI","TI","TI",56.666666667,56.666666667,56.666666667
+"46","Romoos","Romoos","Romoos","LU",43.436754177,"Romoos","Romoos","Romoos","LU","LU","LU",56.563245823,56.563245823,56.563245823
+"47","Linescio","Linescio","Linescio","TI",43.47826087,"Linescio","Linescio","Linescio","TI","TI","TI",56.52173913,56.52173913,56.52173913
+"48","Bâle","Basel","Basilea","BS",43.591004781,"Bâle","Basel","Basilea","BS","BS","BS",56.408995219,56.408995219,56.408995219
+"49","Lauerz","Lauerz","Lauerz","SZ",43.771626298,"Lauerz","Lauerz","Lauerz","SZ","SZ","SZ",56.228373702,56.228373702,56.228373702
+"50","Lausanne","Lausanne","Losanna","VD",43.874732301,"Lausanne","Lausanne","Losanna","VD","VD","VD",56.125267699,56.125267699,56.125267699
