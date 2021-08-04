@@ -21,7 +21,7 @@ for (i in 1:length(vorlagen_short)) {
   
 
   #Emergency adapt
-  #results$gebietAusgezaehlt[155] <- TRUE
+  results$gebietAusgezaehlt[155] <- TRUE
   results$gebietAusgezaehlt[897] <- TRUE
   results$gebietAusgezaehlt[898] <- TRUE
   results$gebietAusgezaehlt[899] <- TRUE
